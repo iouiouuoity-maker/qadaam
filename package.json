@@ -1,0 +1,12 @@
+{
+  "name": "qadam-math-adventure",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "generate": "node tools/generate-questions.mjs",
+    "test:data": "node tests/verify-dataset.mjs",
+    "test:site": "node tests/verify-site.mjs",
+    "test": "npm run test:data && npm run test:site"
+  }
+}
