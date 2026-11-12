@@ -1,0 +1,7103 @@
+/* Generated part 2 of 8. */
+window.QADAM_QUESTIONS.push(...[
+  {
+    "id": "g5-fraction-l3-001",
+    "grade": 5,
+    "topic": "fraction",
+    "level": 3,
+    "type": "number",
+    "q": "24 санының 1/2 бөлігі мен 54 санының 2/3 бөлігінің қосындысын тап.",
+    "a": 48,
+    "answer": 48,
+    "hint": "Әр бөлшекті өз бүтінінен жеке тап, содан кейін қос.",
+    "ex": "12 + 36 = 48.",
+    "solution": "12 + 36 = 48.",
+    "unit": "",
+    "meta": {
+      "formula": "fraction-sum",
+      "params": {
+        "whole": 24,
+        "numerator": 1,
+        "denominator": 2,
+        "whole2": 54,
+        "numerator2": 2,
+        "denominator2": 3
+      }
+    }
+  },
+  {
+    "id": "g5-fraction-l3-002",
+    "grade": 5,
+    "topic": "fraction",
+    "level": 3,
+    "type": "number",
+    "q": "39 санының 1/3 бөлігі мен 76 санының 1/4 бөлігінің қосындысын тап.",
+    "a": 32,
+    "answer": 32,
+    "hint": "Әр бөлшекті өз бүтінінен жеке тап, содан кейін қос.",
+    "ex": "13 + 19 = 32.",
+    "solution": "13 + 19 = 32.",
+    "unit": "",
+    "meta": {
+      "formula": "fraction-sum",
+      "params": {
+        "whole": 39,
+        "numerator": 1,
+        "denominator": 3,
+        "whole2": 76,
+        "numerator2": 1,
+        "denominator2": 4
+      }
+    }
+  },
+  {
+    "id": "g5-fraction-l3-003",
+    "grade": 5,
+    "topic": "fraction",
+    "level": 3,
+    "type": "number",
+    "q": "56 санының 1/4 бөлігі мен 100 санының 2/5 бөлігінің қосындысын тап.",
+    "a": 54,
+    "answer": 54,
+    "hint": "Әр бөлшекті өз бүтінінен жеке тап, содан кейін қос.",
+    "ex": "14 + 40 = 54.",
+    "solution": "14 + 40 = 54.",
+    "unit": "",
+    "meta": {
+      "formula": "fraction-sum",
+      "params": {
+        "whole": 56,
+        "numerator": 1,
+        "denominator": 4,
+        "whole2": 100,
+        "numerator2": 2,
+        "denominator2": 5
+      }
+    }
+  },
+  {
+    "id": "g5-fraction-l3-004",
+    "grade": 5,
+    "topic": "fraction",
+    "level": 3,
+    "type": "number",
+    "q": "75 санының 1/5 бөлігі мен 126 санының 3/6 бөлігінің қосындысын тап.",
+    "a": 78,
+    "answer": 78,
+    "hint": "Әр бөлшекті өз бүтінінен жеке тап, содан кейін қос.",
+    "ex": "15 + 63 = 78.",
+    "solution": "15 + 63 = 78.",
+    "unit": "",
+    "meta": {
+      "formula": "fraction-sum",
+      "params": {
+        "whole": 75,
+        "numerator": 1,
+        "denominator": 5,
+        "whole2": 126,
+        "numerator2": 3,
+        "denominator2": 6
+      }
+    }
+  },
+  {
+    "id": "g5-fraction-l3-005",
+    "grade": 5,
+    "topic": "fraction",
+    "level": 3,
+    "type": "number",
+    "q": "96 санының 1/6 бөлігі мен 176 санының 3/8 бөлігінің қосындысын тап.",
+    "a": 82,
+    "answer": 82,
+    "hint": "Әр бөлшекті өз бүтінінен жеке тап, содан кейін қос.",
+    "ex": "16 + 66 = 82.",
+    "solution": "16 + 66 = 82.",
+    "unit": "",
+    "meta": {
+      "formula": "fraction-sum",
+      "params": {
+        "whole": 96,
+        "numerator": 1,
+        "denominator": 6,
+        "whole2": 176,
+        "numerator2": 3,
+        "denominator2": 8
+      }
+    }
+  },
+  {
+    "id": "g5-fraction-l3-006",
+    "grade": 5,
+    "topic": "fraction",
+    "level": 3,
+    "type": "number",
+    "q": "136 санының 5/8 бөлігі мен 69 санының 2/3 бөлігінің қосындысын тап.",
+    "a": 131,
+    "answer": 131,
+    "hint": "Әр бөлшекті өз бүтінінен жеке тап, содан кейін қос.",
+    "ex": "85 + 46 = 131.",
+    "solution": "85 + 46 = 131.",
+    "unit": "",
+    "meta": {
+      "formula": "fraction-sum",
+      "params": {
+        "whole": 136,
+        "numerator": 5,
+        "denominator": 8,
+        "whole2": 69,
+        "numerator2": 2,
+        "denominator2": 3
+      }
+    }
+  },
+  {
+    "id": "g5-fraction-l3-007",
+    "grade": 5,
+    "topic": "fraction",
+    "level": 3,
+    "type": "number",
+    "q": "180 санының 4/10 бөлігі мен 96 санының 2/4 бөлігінің қосындысын тап.",
+    "a": 120,
+    "answer": 120,
+    "hint": "Әр бөлшекті өз бүтінінен жеке тап, содан кейін қос.",
+    "ex": "72 + 48 = 120.",
+    "solution": "72 + 48 = 120.",
+    "unit": "",
+    "meta": {
+      "formula": "fraction-sum",
+      "params": {
+        "whole": 180,
+        "numerator": 4,
+        "denominator": 10,
+        "whole2": 96,
+        "numerator2": 2,
+        "denominator2": 4
+      }
+    }
+  },
+  {
+    "id": "g5-fraction-l3-008",
+    "grade": 5,
+    "topic": "fraction",
+    "level": 3,
+    "type": "number",
+    "q": "38 санының 1/2 бөлігі мен 125 санының 4/5 бөлігінің қосындысын тап.",
+    "a": 119,
+    "answer": 119,
+    "hint": "Әр бөлшекті өз бүтінінен жеке тап, содан кейін қос.",
+    "ex": "19 + 100 = 119.",
+    "solution": "19 + 100 = 119.",
+    "unit": "",
+    "meta": {
+      "formula": "fraction-sum",
+      "params": {
+        "whole": 38,
+        "numerator": 1,
+        "denominator": 2,
+        "whole2": 125,
+        "numerator2": 4,
+        "denominator2": 5
+      }
+    }
+  },
+  {
+    "id": "g5-fraction-l3-009",
+    "grade": 5,
+    "topic": "fraction",
+    "level": 3,
+    "type": "number",
+    "q": "60 санының 2/3 бөлігі мен 156 санының 3/6 бөлігінің қосындысын тап.",
+    "a": 118,
+    "answer": 118,
+    "hint": "Әр бөлшекті өз бүтінінен жеке тап, содан кейін қос.",
+    "ex": "40 + 78 = 118.",
+    "solution": "40 + 78 = 118.",
+    "unit": "",
+    "meta": {
+      "formula": "fraction-sum",
+      "params": {
+        "whole": 60,
+        "numerator": 2,
+        "denominator": 3,
+        "whole2": 156,
+        "numerator2": 3,
+        "denominator2": 6
+      }
+    }
+  },
+  {
+    "id": "g5-fraction-l3-010",
+    "grade": 5,
+    "topic": "fraction",
+    "level": 3,
+    "type": "number",
+    "q": "84 санының 1/4 бөлігі мен 216 санының 6/8 бөлігінің қосындысын тап.",
+    "a": 183,
+    "answer": 183,
+    "hint": "Әр бөлшекті өз бүтінінен жеке тап, содан кейін қос.",
+    "ex": "21 + 162 = 183.",
+    "solution": "21 + 162 = 183.",
+    "unit": "",
+    "meta": {
+      "formula": "fraction-sum",
+      "params": {
+        "whole": 84,
+        "numerator": 1,
+        "denominator": 4,
+        "whole2": 216,
+        "numerator2": 6,
+        "denominator2": 8
+      }
+    }
+  },
+  {
+    "id": "g5-fraction-l3-011",
+    "grade": 5,
+    "topic": "fraction",
+    "level": 3,
+    "type": "number",
+    "q": "110 санының 2/5 бөлігі мен 84 санының 2/3 бөлігінің қосындысын тап.",
+    "a": 100,
+    "answer": 100,
+    "hint": "Әр бөлшекті өз бүтінінен жеке тап, содан кейін қос.",
+    "ex": "44 + 56 = 100.",
+    "solution": "44 + 56 = 100.",
+    "unit": "",
+    "meta": {
+      "formula": "fraction-sum",
+      "params": {
+        "whole": 110,
+        "numerator": 2,
+        "denominator": 5,
+        "whole2": 84,
+        "numerator2": 2,
+        "denominator2": 3
+      }
+    }
+  },
+  {
+    "id": "g5-fraction-l3-012",
+    "grade": 5,
+    "topic": "fraction",
+    "level": 3,
+    "type": "number",
+    "q": "138 санының 2/6 бөлігі мен 116 санының 3/4 бөлігінің қосындысын тап.",
+    "a": 133,
+    "answer": 133,
+    "hint": "Әр бөлшекті өз бүтінінен жеке тап, содан кейін қос.",
+    "ex": "46 + 87 = 133.",
+    "solution": "46 + 87 = 133.",
+    "unit": "",
+    "meta": {
+      "formula": "fraction-sum",
+      "params": {
+        "whole": 138,
+        "numerator": 2,
+        "denominator": 6,
+        "whole2": 116,
+        "numerator2": 3,
+        "denominator2": 4
+      }
+    }
+  },
+  {
+    "id": "g5-fraction-l3-013",
+    "grade": 5,
+    "topic": "fraction",
+    "level": 3,
+    "type": "number",
+    "q": "192 санының 5/8 бөлігі мен 150 санының 2/5 бөлігінің қосындысын тап.",
+    "a": 180,
+    "answer": 180,
+    "hint": "Әр бөлшекті өз бүтінінен жеке тап, содан кейін қос.",
+    "ex": "120 + 60 = 180.",
+    "solution": "120 + 60 = 180.",
+    "unit": "",
+    "meta": {
+      "formula": "fraction-sum",
+      "params": {
+        "whole": 192,
+        "numerator": 5,
+        "denominator": 8,
+        "whole2": 150,
+        "numerator2": 2,
+        "denominator2": 5
+      }
+    }
+  },
+  {
+    "id": "g5-fraction-l3-014",
+    "grade": 5,
+    "topic": "fraction",
+    "level": 3,
+    "type": "number",
+    "q": "250 санының 7/10 бөлігі мен 186 санының 3/6 бөлігінің қосындысын тап.",
+    "a": 268,
+    "answer": 268,
+    "hint": "Әр бөлшекті өз бүтінінен жеке тап, содан кейін қос.",
+    "ex": "175 + 93 = 268.",
+    "solution": "175 + 93 = 268.",
+    "unit": "",
+    "meta": {
+      "formula": "fraction-sum",
+      "params": {
+        "whole": 250,
+        "numerator": 7,
+        "denominator": 10,
+        "whole2": 186,
+        "numerator2": 3,
+        "denominator2": 6
+      }
+    }
+  },
+  {
+    "id": "g5-fraction-l3-015",
+    "grade": 5,
+    "topic": "fraction",
+    "level": 3,
+    "type": "number",
+    "q": "52 санының 1/2 бөлігі мен 256 санының 2/8 бөлігінің қосындысын тап.",
+    "a": 90,
+    "answer": 90,
+    "hint": "Әр бөлшекті өз бүтінінен жеке тап, содан кейін қос.",
+    "ex": "26 + 64 = 90.",
+    "solution": "26 + 64 = 90.",
+    "unit": "",
+    "meta": {
+      "formula": "fraction-sum",
+      "params": {
+        "whole": 52,
+        "numerator": 1,
+        "denominator": 2,
+        "whole2": 256,
+        "numerator2": 2,
+        "denominator2": 8
+      }
+    }
+  },
+  {
+    "id": "g5-fraction-l3-016",
+    "grade": 5,
+    "topic": "fraction",
+    "level": 3,
+    "type": "number",
+    "q": "81 санының 1/3 бөлігі мен 99 санының 2/3 бөлігінің қосындысын тап.",
+    "a": 93,
+    "answer": 93,
+    "hint": "Әр бөлшекті өз бүтінінен жеке тап, содан кейін қос.",
+    "ex": "27 + 66 = 93.",
+    "solution": "27 + 66 = 93.",
+    "unit": "",
+    "meta": {
+      "formula": "fraction-sum",
+      "params": {
+        "whole": 81,
+        "numerator": 1,
+        "denominator": 3,
+        "whole2": 99,
+        "numerator2": 2,
+        "denominator2": 3
+      }
+    }
+  },
+  {
+    "id": "g5-fraction-l3-017",
+    "grade": 5,
+    "topic": "fraction",
+    "level": 3,
+    "type": "number",
+    "q": "112 санының 1/4 бөлігі мен 136 санының 1/4 бөлігінің қосындысын тап.",
+    "a": 62,
+    "answer": 62,
+    "hint": "Әр бөлшекті өз бүтінінен жеке тап, содан кейін қос.",
+    "ex": "28 + 34 = 62.",
+    "solution": "28 + 34 = 62.",
+    "unit": "",
+    "meta": {
+      "formula": "fraction-sum",
+      "params": {
+        "whole": 112,
+        "numerator": 1,
+        "denominator": 4,
+        "whole2": 136,
+        "numerator2": 1,
+        "denominator2": 4
+      }
+    }
+  },
+  {
+    "id": "g5-fraction-l3-018",
+    "grade": 5,
+    "topic": "fraction",
+    "level": 3,
+    "type": "number",
+    "q": "145 санының 3/5 бөлігі мен 175 санының 4/5 бөлігінің қосындысын тап.",
+    "a": 227,
+    "answer": 227,
+    "hint": "Әр бөлшекті өз бүтінінен жеке тап, содан кейін қос.",
+    "ex": "87 + 140 = 227.",
+    "solution": "87 + 140 = 227.",
+    "unit": "",
+    "meta": {
+      "formula": "fraction-sum",
+      "params": {
+        "whole": 145,
+        "numerator": 3,
+        "denominator": 5,
+        "whole2": 175,
+        "numerator2": 4,
+        "denominator2": 5
+      }
+    }
+  },
+  {
+    "id": "g5-fraction-l3-019",
+    "grade": 5,
+    "topic": "fraction",
+    "level": 3,
+    "type": "number",
+    "q": "180 санының 3/6 бөлігі мен 216 санының 3/6 бөлігінің қосындысын тап.",
+    "a": 198,
+    "answer": 198,
+    "hint": "Әр бөлшекті өз бүтінінен жеке тап, содан кейін қос.",
+    "ex": "90 + 108 = 198.",
+    "solution": "90 + 108 = 198.",
+    "unit": "",
+    "meta": {
+      "formula": "fraction-sum",
+      "params": {
+        "whole": 180,
+        "numerator": 3,
+        "denominator": 6,
+        "whole2": 216,
+        "numerator2": 3,
+        "denominator2": 6
+      }
+    }
+  },
+  {
+    "id": "g5-fraction-l3-020",
+    "grade": 5,
+    "topic": "fraction",
+    "level": 3,
+    "type": "number",
+    "q": "248 санының 5/8 бөлігі мен 296 санының 5/8 бөлігінің қосындысын тап.",
+    "a": 340,
+    "answer": 340,
+    "hint": "Әр бөлшекті өз бүтінінен жеке тап, содан кейін қос.",
+    "ex": "155 + 185 = 340.",
+    "solution": "155 + 185 = 340.",
+    "unit": "",
+    "meta": {
+      "formula": "fraction-sum",
+      "params": {
+        "whole": 248,
+        "numerator": 5,
+        "denominator": 8,
+        "whole2": 296,
+        "numerator2": 5,
+        "denominator2": 8
+      }
+    }
+  },
+  {
+    "id": "g5-fraction-l3-021",
+    "grade": 5,
+    "topic": "fraction",
+    "level": 3,
+    "type": "number",
+    "q": "320 санының 1/10 бөлігі мен 114 санының 2/3 бөлігінің қосындысын тап.",
+    "a": 108,
+    "answer": 108,
+    "hint": "Әр бөлшекті өз бүтінінен жеке тап, содан кейін қос.",
+    "ex": "32 + 76 = 108.",
+    "solution": "32 + 76 = 108.",
+    "unit": "",
+    "meta": {
+      "formula": "fraction-sum",
+      "params": {
+        "whole": 320,
+        "numerator": 1,
+        "denominator": 10,
+        "whole2": 114,
+        "numerator2": 2,
+        "denominator2": 3
+      }
+    }
+  },
+  {
+    "id": "g5-fraction-l3-022",
+    "grade": 5,
+    "topic": "fraction",
+    "level": 3,
+    "type": "number",
+    "q": "66 санының 1/2 бөлігі мен 156 санының 2/4 бөлігінің қосындысын тап.",
+    "a": 111,
+    "answer": 111,
+    "hint": "Әр бөлшекті өз бүтінінен жеке тап, содан кейін қос.",
+    "ex": "33 + 78 = 111.",
+    "solution": "33 + 78 = 111.",
+    "unit": "",
+    "meta": {
+      "formula": "fraction-sum",
+      "params": {
+        "whole": 66,
+        "numerator": 1,
+        "denominator": 2,
+        "whole2": 156,
+        "numerator2": 2,
+        "denominator2": 4
+      }
+    }
+  },
+  {
+    "id": "g5-fraction-l3-023",
+    "grade": 5,
+    "topic": "fraction",
+    "level": 3,
+    "type": "number",
+    "q": "102 санының 2/3 бөлігі мен 200 санының 2/5 бөлігінің қосындысын тап.",
+    "a": 148,
+    "answer": 148,
+    "hint": "Әр бөлшекті өз бүтінінен жеке тап, содан кейін қос.",
+    "ex": "68 + 80 = 148.",
+    "solution": "68 + 80 = 148.",
+    "unit": "",
+    "meta": {
+      "formula": "fraction-sum",
+      "params": {
+        "whole": 102,
+        "numerator": 2,
+        "denominator": 3,
+        "whole2": 200,
+        "numerator2": 2,
+        "denominator2": 5
+      }
+    }
+  },
+  {
+    "id": "g5-fraction-l3-024",
+    "grade": 5,
+    "topic": "fraction",
+    "level": 3,
+    "type": "number",
+    "q": "140 санының 1/4 бөлігі мен 246 санының 3/6 бөлігінің қосындысын тап.",
+    "a": 158,
+    "answer": 158,
+    "hint": "Әр бөлшекті өз бүтінінен жеке тап, содан кейін қос.",
+    "ex": "35 + 123 = 158.",
+    "solution": "35 + 123 = 158.",
+    "unit": "",
+    "meta": {
+      "formula": "fraction-sum",
+      "params": {
+        "whole": 140,
+        "numerator": 1,
+        "denominator": 4,
+        "whole2": 246,
+        "numerator2": 3,
+        "denominator2": 6
+      }
+    }
+  },
+  {
+    "id": "g5-fraction-l3-025",
+    "grade": 5,
+    "topic": "fraction",
+    "level": 3,
+    "type": "number",
+    "q": "180 санының 4/5 бөлігі мен 336 санының 1/8 бөлігінің қосындысын тап.",
+    "a": 186,
+    "answer": 186,
+    "hint": "Әр бөлшекті өз бүтінінен жеке тап, содан кейін қос.",
+    "ex": "144 + 42 = 186.",
+    "solution": "144 + 42 = 186.",
+    "unit": "",
+    "meta": {
+      "formula": "fraction-sum",
+      "params": {
+        "whole": 180,
+        "numerator": 4,
+        "denominator": 5,
+        "whole2": 336,
+        "numerator2": 1,
+        "denominator2": 8
+      }
+    }
+  },
+  {
+    "id": "g5-fraction-l3-026",
+    "grade": 5,
+    "topic": "fraction",
+    "level": 3,
+    "type": "number",
+    "q": "222 санының 4/6 бөлігі мен 129 санының 2/3 бөлігінің қосындысын тап.",
+    "a": 234,
+    "answer": 234,
+    "hint": "Әр бөлшекті өз бүтінінен жеке тап, содан кейін қос.",
+    "ex": "148 + 86 = 234.",
+    "solution": "148 + 86 = 234.",
+    "unit": "",
+    "meta": {
+      "formula": "fraction-sum",
+      "params": {
+        "whole": 222,
+        "numerator": 4,
+        "denominator": 6,
+        "whole2": 129,
+        "numerator2": 2,
+        "denominator2": 3
+      }
+    }
+  },
+  {
+    "id": "g5-fraction-l3-027",
+    "grade": 5,
+    "topic": "fraction",
+    "level": 3,
+    "type": "number",
+    "q": "304 санының 5/8 бөлігі мен 176 санының 3/4 бөлігінің қосындысын тап.",
+    "a": 322,
+    "answer": 322,
+    "hint": "Әр бөлшекті өз бүтінінен жеке тап, содан кейін қос.",
+    "ex": "190 + 132 = 322.",
+    "solution": "190 + 132 = 322.",
+    "unit": "",
+    "meta": {
+      "formula": "fraction-sum",
+      "params": {
+        "whole": 304,
+        "numerator": 5,
+        "denominator": 8,
+        "whole2": 176,
+        "numerator2": 3,
+        "denominator2": 4
+      }
+    }
+  },
+  {
+    "id": "g5-fraction-l3-028",
+    "grade": 5,
+    "topic": "fraction",
+    "level": 3,
+    "type": "number",
+    "q": "390 санының 4/10 бөлігі мен 225 санының 4/5 бөлігінің қосындысын тап.",
+    "a": 336,
+    "answer": 336,
+    "hint": "Әр бөлшекті өз бүтінінен жеке тап, содан кейін қос.",
+    "ex": "156 + 180 = 336.",
+    "solution": "156 + 180 = 336.",
+    "unit": "",
+    "meta": {
+      "formula": "fraction-sum",
+      "params": {
+        "whole": 390,
+        "numerator": 4,
+        "denominator": 10,
+        "whole2": 225,
+        "numerator2": 4,
+        "denominator2": 5
+      }
+    }
+  },
+  {
+    "id": "g5-fraction-l3-029",
+    "grade": 5,
+    "topic": "fraction",
+    "level": 3,
+    "type": "number",
+    "q": "80 санының 1/2 бөлігі мен 276 санының 3/6 бөлігінің қосындысын тап.",
+    "a": 178,
+    "answer": 178,
+    "hint": "Әр бөлшекті өз бүтінінен жеке тап, содан кейін қос.",
+    "ex": "40 + 138 = 178.",
+    "solution": "40 + 138 = 178.",
+    "unit": "",
+    "meta": {
+      "formula": "fraction-sum",
+      "params": {
+        "whole": 80,
+        "numerator": 1,
+        "denominator": 2,
+        "whole2": 276,
+        "numerator2": 3,
+        "denominator2": 6
+      }
+    }
+  },
+  {
+    "id": "g5-fraction-l3-030",
+    "grade": 5,
+    "topic": "fraction",
+    "level": 3,
+    "type": "number",
+    "q": "123 санының 1/3 бөлігі мен 376 санының 4/8 бөлігінің қосындысын тап.",
+    "a": 229,
+    "answer": 229,
+    "hint": "Әр бөлшекті өз бүтінінен жеке тап, содан кейін қос.",
+    "ex": "41 + 188 = 229.",
+    "solution": "41 + 188 = 229.",
+    "unit": "",
+    "meta": {
+      "formula": "fraction-sum",
+      "params": {
+        "whole": 123,
+        "numerator": 1,
+        "denominator": 3,
+        "whole2": 376,
+        "numerator2": 4,
+        "denominator2": 8
+      }
+    }
+  },
+  {
+    "id": "g5-fraction-l3-031",
+    "grade": 5,
+    "topic": "fraction",
+    "level": 3,
+    "type": "number",
+    "q": "168 санының 1/4 бөлігі мен 144 санының 2/3 бөлігінің қосындысын тап.",
+    "a": 138,
+    "answer": 138,
+    "hint": "Әр бөлшекті өз бүтінінен жеке тап, содан кейін қос.",
+    "ex": "42 + 96 = 138.",
+    "solution": "42 + 96 = 138.",
+    "unit": "",
+    "meta": {
+      "formula": "fraction-sum",
+      "params": {
+        "whole": 168,
+        "numerator": 1,
+        "denominator": 4,
+        "whole2": 144,
+        "numerator2": 2,
+        "denominator2": 3
+      }
+    }
+  },
+  {
+    "id": "g5-fraction-l3-032",
+    "grade": 5,
+    "topic": "fraction",
+    "level": 3,
+    "type": "number",
+    "q": "215 санының 1/5 бөлігі мен 196 санының 1/4 бөлігінің қосындысын тап.",
+    "a": 92,
+    "answer": 92,
+    "hint": "Әр бөлшекті өз бүтінінен жеке тап, содан кейін қос.",
+    "ex": "43 + 49 = 92.",
+    "solution": "43 + 49 = 92.",
+    "unit": "",
+    "meta": {
+      "formula": "fraction-sum",
+      "params": {
+        "whole": 215,
+        "numerator": 1,
+        "denominator": 5,
+        "whole2": 196,
+        "numerator2": 1,
+        "denominator2": 4
+      }
+    }
+  },
+  {
+    "id": "g5-fraction-l3-033",
+    "grade": 5,
+    "topic": "fraction",
+    "level": 3,
+    "type": "number",
+    "q": "264 санының 5/6 бөлігі мен 250 санының 2/5 бөлігінің қосындысын тап.",
+    "a": 320,
+    "answer": 320,
+    "hint": "Әр бөлшекті өз бүтінінен жеке тап, содан кейін қос.",
+    "ex": "220 + 100 = 320.",
+    "solution": "220 + 100 = 320.",
+    "unit": "",
+    "meta": {
+      "formula": "fraction-sum",
+      "params": {
+        "whole": 264,
+        "numerator": 5,
+        "denominator": 6,
+        "whole2": 250,
+        "numerator2": 2,
+        "denominator2": 5
+      }
+    }
+  },
+  {
+    "id": "g5-fraction-l3-034",
+    "grade": 5,
+    "topic": "fraction",
+    "level": 3,
+    "type": "number",
+    "q": "360 санының 5/8 бөлігі мен 306 санының 3/6 бөлігінің қосындысын тап.",
+    "a": 378,
+    "answer": 378,
+    "hint": "Әр бөлшекті өз бүтінінен жеке тап, содан кейін қос.",
+    "ex": "225 + 153 = 378.",
+    "solution": "225 + 153 = 378.",
+    "unit": "",
+    "meta": {
+      "formula": "fraction-sum",
+      "params": {
+        "whole": 360,
+        "numerator": 5,
+        "denominator": 8,
+        "whole2": 306,
+        "numerator2": 3,
+        "denominator2": 6
+      }
+    }
+  },
+  {
+    "id": "g5-fraction-l3-035",
+    "grade": 5,
+    "topic": "fraction",
+    "level": 3,
+    "type": "number",
+    "q": "460 санының 7/10 бөлігі мен 416 санының 7/8 бөлігінің қосындысын тап.",
+    "a": 686,
+    "answer": 686,
+    "hint": "Әр бөлшекті өз бүтінінен жеке тап, содан кейін қос.",
+    "ex": "322 + 364 = 686.",
+    "solution": "322 + 364 = 686.",
+    "unit": "",
+    "meta": {
+      "formula": "fraction-sum",
+      "params": {
+        "whole": 460,
+        "numerator": 7,
+        "denominator": 10,
+        "whole2": 416,
+        "numerator2": 7,
+        "denominator2": 8
+      }
+    }
+  },
+  {
+    "id": "g5-fraction-l3-036",
+    "grade": 5,
+    "topic": "fraction",
+    "level": 3,
+    "type": "number",
+    "q": "94 санының 1/2 бөлігі мен 159 санының 2/3 бөлігінің қосындысын тап.",
+    "a": 153,
+    "answer": 153,
+    "hint": "Әр бөлшекті өз бүтінінен жеке тап, содан кейін қос.",
+    "ex": "47 + 106 = 153.",
+    "solution": "47 + 106 = 153.",
+    "unit": "",
+    "meta": {
+      "formula": "fraction-sum",
+      "params": {
+        "whole": 94,
+        "numerator": 1,
+        "denominator": 2,
+        "whole2": 159,
+        "numerator2": 2,
+        "denominator2": 3
+      }
+    }
+  },
+  {
+    "id": "g5-fraction-l3-037",
+    "grade": 5,
+    "topic": "fraction",
+    "level": 3,
+    "type": "number",
+    "q": "144 санының 2/3 бөлігі мен 216 санының 2/4 бөлігінің қосындысын тап.",
+    "a": 204,
+    "answer": 204,
+    "hint": "Әр бөлшекті өз бүтінінен жеке тап, содан кейін қос.",
+    "ex": "96 + 108 = 204.",
+    "solution": "96 + 108 = 204.",
+    "unit": "",
+    "meta": {
+      "formula": "fraction-sum",
+      "params": {
+        "whole": 144,
+        "numerator": 2,
+        "denominator": 3,
+        "whole2": 216,
+        "numerator2": 2,
+        "denominator2": 4
+      }
+    }
+  },
+  {
+    "id": "g5-fraction-l3-038",
+    "grade": 5,
+    "topic": "fraction",
+    "level": 3,
+    "type": "number",
+    "q": "196 санының 1/4 бөлігі мен 275 санының 4/5 бөлігінің қосындысын тап.",
+    "a": 269,
+    "answer": 269,
+    "hint": "Әр бөлшекті өз бүтінінен жеке тап, содан кейін қос.",
+    "ex": "49 + 220 = 269.",
+    "solution": "49 + 220 = 269.",
+    "unit": "",
+    "meta": {
+      "formula": "fraction-sum",
+      "params": {
+        "whole": 196,
+        "numerator": 1,
+        "denominator": 4,
+        "whole2": 275,
+        "numerator2": 4,
+        "denominator2": 5
+      }
+    }
+  },
+  {
+    "id": "g5-fraction-l3-039",
+    "grade": 5,
+    "topic": "fraction",
+    "level": 3,
+    "type": "number",
+    "q": "250 санының 2/5 бөлігі мен 336 санының 3/6 бөлігінің қосындысын тап.",
+    "a": 268,
+    "answer": 268,
+    "hint": "Әр бөлшекті өз бүтінінен жеке тап, содан кейін қос.",
+    "ex": "100 + 168 = 268.",
+    "solution": "100 + 168 = 268.",
+    "unit": "",
+    "meta": {
+      "formula": "fraction-sum",
+      "params": {
+        "whole": 250,
+        "numerator": 2,
+        "denominator": 5,
+        "whole2": 336,
+        "numerator2": 3,
+        "denominator2": 6
+      }
+    }
+  },
+  {
+    "id": "g5-fraction-l3-040",
+    "grade": 5,
+    "topic": "fraction",
+    "level": 3,
+    "type": "number",
+    "q": "306 санының 1/6 бөлігі мен 456 санының 3/8 бөлігінің қосындысын тап.",
+    "a": 222,
+    "answer": 222,
+    "hint": "Әр бөлшекті өз бүтінінен жеке тап, содан кейін қос.",
+    "ex": "51 + 171 = 222.",
+    "solution": "51 + 171 = 222.",
+    "unit": "",
+    "meta": {
+      "formula": "fraction-sum",
+      "params": {
+        "whole": 306,
+        "numerator": 1,
+        "denominator": 6,
+        "whole2": 456,
+        "numerator2": 3,
+        "denominator2": 8
+      }
+    }
+  },
+  {
+    "id": "g5-fraction-l3-041",
+    "grade": 5,
+    "topic": "fraction",
+    "level": 3,
+    "type": "number",
+    "q": "416 санының 5/8 бөлігі мен 174 санының 2/3 бөлігінің қосындысын тап.",
+    "a": 376,
+    "answer": 376,
+    "hint": "Әр бөлшекті өз бүтінінен жеке тап, содан кейін қос.",
+    "ex": "260 + 116 = 376.",
+    "solution": "260 + 116 = 376.",
+    "unit": "",
+    "meta": {
+      "formula": "fraction-sum",
+      "params": {
+        "whole": 416,
+        "numerator": 5,
+        "denominator": 8,
+        "whole2": 174,
+        "numerator2": 2,
+        "denominator2": 3
+      }
+    }
+  },
+  {
+    "id": "g5-fraction-l3-042",
+    "grade": 5,
+    "topic": "fraction",
+    "level": 3,
+    "type": "number",
+    "q": "530 санының 1/10 бөлігі мен 236 санының 3/4 бөлігінің қосындысын тап.",
+    "a": 230,
+    "answer": 230,
+    "hint": "Әр бөлшекті өз бүтінінен жеке тап, содан кейін қос.",
+    "ex": "53 + 177 = 230.",
+    "solution": "53 + 177 = 230.",
+    "unit": "",
+    "meta": {
+      "formula": "fraction-sum",
+      "params": {
+        "whole": 530,
+        "numerator": 1,
+        "denominator": 10,
+        "whole2": 236,
+        "numerator2": 3,
+        "denominator2": 4
+      }
+    }
+  },
+  {
+    "id": "g5-fraction-l3-043",
+    "grade": 5,
+    "topic": "fraction",
+    "level": 3,
+    "type": "number",
+    "q": "108 санының 1/2 бөлігі мен 300 санының 2/5 бөлігінің қосындысын тап.",
+    "a": 174,
+    "answer": 174,
+    "hint": "Әр бөлшекті өз бүтінінен жеке тап, содан кейін қос.",
+    "ex": "54 + 120 = 174.",
+    "solution": "54 + 120 = 174.",
+    "unit": "",
+    "meta": {
+      "formula": "fraction-sum",
+      "params": {
+        "whole": 108,
+        "numerator": 1,
+        "denominator": 2,
+        "whole2": 300,
+        "numerator2": 2,
+        "denominator2": 5
+      }
+    }
+  },
+  {
+    "id": "g5-fraction-l3-044",
+    "grade": 5,
+    "topic": "fraction",
+    "level": 3,
+    "type": "number",
+    "q": "165 санының 1/3 бөлігі мен 366 санының 3/6 бөлігінің қосындысын тап.",
+    "a": 238,
+    "answer": 238,
+    "hint": "Әр бөлшекті өз бүтінінен жеке тап, содан кейін қос.",
+    "ex": "55 + 183 = 238.",
+    "solution": "55 + 183 = 238.",
+    "unit": "",
+    "meta": {
+      "formula": "fraction-sum",
+      "params": {
+        "whole": 165,
+        "numerator": 1,
+        "denominator": 3,
+        "whole2": 366,
+        "numerator2": 3,
+        "denominator2": 6
+      }
+    }
+  },
+  {
+    "id": "g5-fraction-l3-045",
+    "grade": 5,
+    "topic": "fraction",
+    "level": 3,
+    "type": "number",
+    "q": "224 санының 1/4 бөлігі мен 496 санының 6/8 бөлігінің қосындысын тап.",
+    "a": 428,
+    "answer": 428,
+    "hint": "Әр бөлшекті өз бүтінінен жеке тап, содан кейін қос.",
+    "ex": "56 + 372 = 428.",
+    "solution": "56 + 372 = 428.",
+    "unit": "",
+    "meta": {
+      "formula": "fraction-sum",
+      "params": {
+        "whole": 224,
+        "numerator": 1,
+        "denominator": 4,
+        "whole2": 496,
+        "numerator2": 6,
+        "denominator2": 8
+      }
+    }
+  },
+  {
+    "id": "g5-fraction-l3-046",
+    "grade": 5,
+    "topic": "fraction",
+    "level": 3,
+    "type": "number",
+    "q": "285 санының 3/5 бөлігі мен 189 санының 2/3 бөлігінің қосындысын тап.",
+    "a": 297,
+    "answer": 297,
+    "hint": "Әр бөлшекті өз бүтінінен жеке тап, содан кейін қос.",
+    "ex": "171 + 126 = 297.",
+    "solution": "171 + 126 = 297.",
+    "unit": "",
+    "meta": {
+      "formula": "fraction-sum",
+      "params": {
+        "whole": 285,
+        "numerator": 3,
+        "denominator": 5,
+        "whole2": 189,
+        "numerator2": 2,
+        "denominator2": 3
+      }
+    }
+  },
+  {
+    "id": "g5-fraction-l3-047",
+    "grade": 5,
+    "topic": "fraction",
+    "level": 3,
+    "type": "number",
+    "q": "348 санының 2/6 бөлігі мен 256 санының 1/4 бөлігінің қосындысын тап.",
+    "a": 180,
+    "answer": 180,
+    "hint": "Әр бөлшекті өз бүтінінен жеке тап, содан кейін қос.",
+    "ex": "116 + 64 = 180.",
+    "solution": "116 + 64 = 180.",
+    "unit": "",
+    "meta": {
+      "formula": "fraction-sum",
+      "params": {
+        "whole": 348,
+        "numerator": 2,
+        "denominator": 6,
+        "whole2": 256,
+        "numerator2": 1,
+        "denominator2": 4
+      }
+    }
+  },
+  {
+    "id": "g5-fraction-l3-048",
+    "grade": 5,
+    "topic": "fraction",
+    "level": 3,
+    "type": "number",
+    "q": "472 санының 5/8 бөлігі мен 325 санының 4/5 бөлігінің қосындысын тап.",
+    "a": 555,
+    "answer": 555,
+    "hint": "Әр бөлшекті өз бүтінінен жеке тап, содан кейін қос.",
+    "ex": "295 + 260 = 555.",
+    "solution": "295 + 260 = 555.",
+    "unit": "",
+    "meta": {
+      "formula": "fraction-sum",
+      "params": {
+        "whole": 472,
+        "numerator": 5,
+        "denominator": 8,
+        "whole2": 325,
+        "numerator2": 4,
+        "denominator2": 5
+      }
+    }
+  },
+  {
+    "id": "g5-fraction-l3-049",
+    "grade": 5,
+    "topic": "fraction",
+    "level": 3,
+    "type": "number",
+    "q": "600 санының 4/10 бөлігі мен 396 санының 3/6 бөлігінің қосындысын тап.",
+    "a": 438,
+    "answer": 438,
+    "hint": "Әр бөлшекті өз бүтінінен жеке тап, содан кейін қос.",
+    "ex": "240 + 198 = 438.",
+    "solution": "240 + 198 = 438.",
+    "unit": "",
+    "meta": {
+      "formula": "fraction-sum",
+      "params": {
+        "whole": 600,
+        "numerator": 4,
+        "denominator": 10,
+        "whole2": 396,
+        "numerator2": 3,
+        "denominator2": 6
+      }
+    }
+  },
+  {
+    "id": "g5-fraction-l3-050",
+    "grade": 5,
+    "topic": "fraction",
+    "level": 3,
+    "type": "number",
+    "q": "122 санының 1/2 бөлігі мен 536 санының 2/8 бөлігінің қосындысын тап.",
+    "a": 195,
+    "answer": 195,
+    "hint": "Әр бөлшекті өз бүтінінен жеке тап, содан кейін қос.",
+    "ex": "61 + 134 = 195.",
+    "solution": "61 + 134 = 195.",
+    "unit": "",
+    "meta": {
+      "formula": "fraction-sum",
+      "params": {
+        "whole": 122,
+        "numerator": 1,
+        "denominator": 2,
+        "whole2": 536,
+        "numerator2": 2,
+        "denominator2": 8
+      }
+    }
+  },
+  {
+    "id": "g5-fraction-l4-001",
+    "grade": 5,
+    "topic": "fraction",
+    "level": 4,
+    "type": "number",
+    "q": "Бір санның 1/2 бөлігі 12-ге тең. Бастапқы санды тап.",
+    "a": 24,
+    "answer": 24,
+    "hint": "Алдымен бір үлестің мәнін тап: 12 ÷ 1.",
+    "ex": "12 ÷ 1 × 2 = 24.",
+    "solution": "12 ÷ 1 × 2 = 24.",
+    "unit": "",
+    "meta": {
+      "formula": "fraction-reverse",
+      "params": {
+        "part": 12,
+        "numerator": 1,
+        "denominator": 2
+      }
+    }
+  },
+  {
+    "id": "g5-fraction-l4-002",
+    "grade": 5,
+    "topic": "fraction",
+    "level": 4,
+    "type": "number",
+    "q": "Бір санның 2/3 бөлігі 26-ге тең. Бастапқы санды тап.",
+    "a": 39,
+    "answer": 39,
+    "hint": "Алдымен бір үлестің мәнін тап: 26 ÷ 2.",
+    "ex": "26 ÷ 2 × 3 = 39.",
+    "solution": "26 ÷ 2 × 3 = 39.",
+    "unit": "",
+    "meta": {
+      "formula": "fraction-reverse",
+      "params": {
+        "part": 26,
+        "numerator": 2,
+        "denominator": 3
+      }
+    }
+  },
+  {
+    "id": "g5-fraction-l4-003",
+    "grade": 5,
+    "topic": "fraction",
+    "level": 4,
+    "type": "number",
+    "q": "Бір санның 2/4 бөлігі 28-ге тең. Бастапқы санды тап.",
+    "a": 56,
+    "answer": 56,
+    "hint": "Алдымен бір үлестің мәнін тап: 28 ÷ 2.",
+    "ex": "28 ÷ 2 × 4 = 56.",
+    "solution": "28 ÷ 2 × 4 = 56.",
+    "unit": "",
+    "meta": {
+      "formula": "fraction-reverse",
+      "params": {
+        "part": 28,
+        "numerator": 2,
+        "denominator": 4
+      }
+    }
+  },
+  {
+    "id": "g5-fraction-l4-004",
+    "grade": 5,
+    "topic": "fraction",
+    "level": 4,
+    "type": "number",
+    "q": "Бір санның 2/5 бөлігі 30-ге тең. Бастапқы санды тап.",
+    "a": 75,
+    "answer": 75,
+    "hint": "Алдымен бір үлестің мәнін тап: 30 ÷ 2.",
+    "ex": "30 ÷ 2 × 5 = 75.",
+    "solution": "30 ÷ 2 × 5 = 75.",
+    "unit": "",
+    "meta": {
+      "formula": "fraction-reverse",
+      "params": {
+        "part": 30,
+        "numerator": 2,
+        "denominator": 5
+      }
+    }
+  },
+  {
+    "id": "g5-fraction-l4-005",
+    "grade": 5,
+    "topic": "fraction",
+    "level": 4,
+    "type": "number",
+    "q": "Бір санның 2/6 бөлігі 32-ге тең. Бастапқы санды тап.",
+    "a": 96,
+    "answer": 96,
+    "hint": "Алдымен бір үлестің мәнін тап: 32 ÷ 2.",
+    "ex": "32 ÷ 2 × 6 = 96.",
+    "solution": "32 ÷ 2 × 6 = 96.",
+    "unit": "",
+    "meta": {
+      "formula": "fraction-reverse",
+      "params": {
+        "part": 32,
+        "numerator": 2,
+        "denominator": 6
+      }
+    }
+  },
+  {
+    "id": "g5-fraction-l4-006",
+    "grade": 5,
+    "topic": "fraction",
+    "level": 4,
+    "type": "number",
+    "q": "Бір санның 6/8 бөлігі 102-ге тең. Бастапқы санды тап.",
+    "a": 136,
+    "answer": 136,
+    "hint": "Алдымен бір үлестің мәнін тап: 102 ÷ 6.",
+    "ex": "102 ÷ 6 × 8 = 136.",
+    "solution": "102 ÷ 6 × 8 = 136.",
+    "unit": "",
+    "meta": {
+      "formula": "fraction-reverse",
+      "params": {
+        "part": 102,
+        "numerator": 6,
+        "denominator": 8
+      }
+    }
+  },
+  {
+    "id": "g5-fraction-l4-007",
+    "grade": 5,
+    "topic": "fraction",
+    "level": 4,
+    "type": "number",
+    "q": "Бір санның 5/10 бөлігі 90-ге тең. Бастапқы санды тап.",
+    "a": 180,
+    "answer": 180,
+    "hint": "Алдымен бір үлестің мәнін тап: 90 ÷ 5.",
+    "ex": "90 ÷ 5 × 10 = 180.",
+    "solution": "90 ÷ 5 × 10 = 180.",
+    "unit": "",
+    "meta": {
+      "formula": "fraction-reverse",
+      "params": {
+        "part": 90,
+        "numerator": 5,
+        "denominator": 10
+      }
+    }
+  },
+  {
+    "id": "g5-fraction-l4-008",
+    "grade": 5,
+    "topic": "fraction",
+    "level": 4,
+    "type": "number",
+    "q": "Бір санның 1/2 бөлігі 19-ге тең. Бастапқы санды тап.",
+    "a": 38,
+    "answer": 38,
+    "hint": "Алдымен бір үлестің мәнін тап: 19 ÷ 1.",
+    "ex": "19 ÷ 1 × 2 = 38.",
+    "solution": "19 ÷ 1 × 2 = 38.",
+    "unit": "",
+    "meta": {
+      "formula": "fraction-reverse",
+      "params": {
+        "part": 19,
+        "numerator": 1,
+        "denominator": 2
+      }
+    }
+  },
+  {
+    "id": "g5-fraction-l4-009",
+    "grade": 5,
+    "topic": "fraction",
+    "level": 4,
+    "type": "number",
+    "q": "Бір санның 1/3 бөлігі 20-ге тең. Бастапқы санды тап.",
+    "a": 60,
+    "answer": 60,
+    "hint": "Алдымен бір үлестің мәнін тап: 20 ÷ 1.",
+    "ex": "20 ÷ 1 × 3 = 60.",
+    "solution": "20 ÷ 1 × 3 = 60.",
+    "unit": "",
+    "meta": {
+      "formula": "fraction-reverse",
+      "params": {
+        "part": 20,
+        "numerator": 1,
+        "denominator": 3
+      }
+    }
+  },
+  {
+    "id": "g5-fraction-l4-010",
+    "grade": 5,
+    "topic": "fraction",
+    "level": 4,
+    "type": "number",
+    "q": "Бір санның 2/4 бөлігі 42-ге тең. Бастапқы санды тап.",
+    "a": 84,
+    "answer": 84,
+    "hint": "Алдымен бір үлестің мәнін тап: 42 ÷ 2.",
+    "ex": "42 ÷ 2 × 4 = 84.",
+    "solution": "42 ÷ 2 × 4 = 84.",
+    "unit": "",
+    "meta": {
+      "formula": "fraction-reverse",
+      "params": {
+        "part": 42,
+        "numerator": 2,
+        "denominator": 4
+      }
+    }
+  },
+  {
+    "id": "g5-fraction-l4-011",
+    "grade": 5,
+    "topic": "fraction",
+    "level": 4,
+    "type": "number",
+    "q": "Бір санның 3/5 бөлігі 66-ге тең. Бастапқы санды тап.",
+    "a": 110,
+    "answer": 110,
+    "hint": "Алдымен бір үлестің мәнін тап: 66 ÷ 3.",
+    "ex": "66 ÷ 3 × 5 = 110.",
+    "solution": "66 ÷ 3 × 5 = 110.",
+    "unit": "",
+    "meta": {
+      "formula": "fraction-reverse",
+      "params": {
+        "part": 66,
+        "numerator": 3,
+        "denominator": 5
+      }
+    }
+  },
+  {
+    "id": "g5-fraction-l4-012",
+    "grade": 5,
+    "topic": "fraction",
+    "level": 4,
+    "type": "number",
+    "q": "Бір санның 3/6 бөлігі 69-ге тең. Бастапқы санды тап.",
+    "a": 138,
+    "answer": 138,
+    "hint": "Алдымен бір үлестің мәнін тап: 69 ÷ 3.",
+    "ex": "69 ÷ 3 × 6 = 138.",
+    "solution": "69 ÷ 3 × 6 = 138.",
+    "unit": "",
+    "meta": {
+      "formula": "fraction-reverse",
+      "params": {
+        "part": 69,
+        "numerator": 3,
+        "denominator": 6
+      }
+    }
+  },
+  {
+    "id": "g5-fraction-l4-013",
+    "grade": 5,
+    "topic": "fraction",
+    "level": 4,
+    "type": "number",
+    "q": "Бір санның 6/8 бөлігі 144-ге тең. Бастапқы санды тап.",
+    "a": 192,
+    "answer": 192,
+    "hint": "Алдымен бір үлестің мәнін тап: 144 ÷ 6.",
+    "ex": "144 ÷ 6 × 8 = 192.",
+    "solution": "144 ÷ 6 × 8 = 192.",
+    "unit": "",
+    "meta": {
+      "formula": "fraction-reverse",
+      "params": {
+        "part": 144,
+        "numerator": 6,
+        "denominator": 8
+      }
+    }
+  },
+  {
+    "id": "g5-fraction-l4-014",
+    "grade": 5,
+    "topic": "fraction",
+    "level": 4,
+    "type": "number",
+    "q": "Бір санның 8/10 бөлігі 200-ге тең. Бастапқы санды тап.",
+    "a": 250,
+    "answer": 250,
+    "hint": "Алдымен бір үлестің мәнін тап: 200 ÷ 8.",
+    "ex": "200 ÷ 8 × 10 = 250.",
+    "solution": "200 ÷ 8 × 10 = 250.",
+    "unit": "",
+    "meta": {
+      "formula": "fraction-reverse",
+      "params": {
+        "part": 200,
+        "numerator": 8,
+        "denominator": 10
+      }
+    }
+  },
+  {
+    "id": "g5-fraction-l4-015",
+    "grade": 5,
+    "topic": "fraction",
+    "level": 4,
+    "type": "number",
+    "q": "Бір санның 1/2 бөлігі 26-ге тең. Бастапқы санды тап.",
+    "a": 52,
+    "answer": 52,
+    "hint": "Алдымен бір үлестің мәнін тап: 26 ÷ 1.",
+    "ex": "26 ÷ 1 × 2 = 52.",
+    "solution": "26 ÷ 1 × 2 = 52.",
+    "unit": "",
+    "meta": {
+      "formula": "fraction-reverse",
+      "params": {
+        "part": 26,
+        "numerator": 1,
+        "denominator": 2
+      }
+    }
+  },
+  {
+    "id": "g5-fraction-l4-016",
+    "grade": 5,
+    "topic": "fraction",
+    "level": 4,
+    "type": "number",
+    "q": "Бір санның 2/3 бөлігі 54-ге тең. Бастапқы санды тап.",
+    "a": 81,
+    "answer": 81,
+    "hint": "Алдымен бір үлестің мәнін тап: 54 ÷ 2.",
+    "ex": "54 ÷ 2 × 3 = 81.",
+    "solution": "54 ÷ 2 × 3 = 81.",
+    "unit": "",
+    "meta": {
+      "formula": "fraction-reverse",
+      "params": {
+        "part": 54,
+        "numerator": 2,
+        "denominator": 3
+      }
+    }
+  },
+  {
+    "id": "g5-fraction-l4-017",
+    "grade": 5,
+    "topic": "fraction",
+    "level": 4,
+    "type": "number",
+    "q": "Бір санның 2/4 бөлігі 56-ге тең. Бастапқы санды тап.",
+    "a": 112,
+    "answer": 112,
+    "hint": "Алдымен бір үлестің мәнін тап: 56 ÷ 2.",
+    "ex": "56 ÷ 2 × 4 = 112.",
+    "solution": "56 ÷ 2 × 4 = 112.",
+    "unit": "",
+    "meta": {
+      "formula": "fraction-reverse",
+      "params": {
+        "part": 56,
+        "numerator": 2,
+        "denominator": 4
+      }
+    }
+  },
+  {
+    "id": "g5-fraction-l4-018",
+    "grade": 5,
+    "topic": "fraction",
+    "level": 4,
+    "type": "number",
+    "q": "Бір санның 4/5 бөлігі 116-ге тең. Бастапқы санды тап.",
+    "a": 145,
+    "answer": 145,
+    "hint": "Алдымен бір үлестің мәнін тап: 116 ÷ 4.",
+    "ex": "116 ÷ 4 × 5 = 145.",
+    "solution": "116 ÷ 4 × 5 = 145.",
+    "unit": "",
+    "meta": {
+      "formula": "fraction-reverse",
+      "params": {
+        "part": 116,
+        "numerator": 4,
+        "denominator": 5
+      }
+    }
+  },
+  {
+    "id": "g5-fraction-l4-019",
+    "grade": 5,
+    "topic": "fraction",
+    "level": 4,
+    "type": "number",
+    "q": "Бір санның 4/6 бөлігі 120-ге тең. Бастапқы санды тап.",
+    "a": 180,
+    "answer": 180,
+    "hint": "Алдымен бір үлестің мәнін тап: 120 ÷ 4.",
+    "ex": "120 ÷ 4 × 6 = 180.",
+    "solution": "120 ÷ 4 × 6 = 180.",
+    "unit": "",
+    "meta": {
+      "formula": "fraction-reverse",
+      "params": {
+        "part": 120,
+        "numerator": 4,
+        "denominator": 6
+      }
+    }
+  },
+  {
+    "id": "g5-fraction-l4-020",
+    "grade": 5,
+    "topic": "fraction",
+    "level": 4,
+    "type": "number",
+    "q": "Бір санның 6/8 бөлігі 186-ге тең. Бастапқы санды тап.",
+    "a": 248,
+    "answer": 248,
+    "hint": "Алдымен бір үлестің мәнін тап: 186 ÷ 6.",
+    "ex": "186 ÷ 6 × 8 = 248.",
+    "solution": "186 ÷ 6 × 8 = 248.",
+    "unit": "",
+    "meta": {
+      "formula": "fraction-reverse",
+      "params": {
+        "part": 186,
+        "numerator": 6,
+        "denominator": 8
+      }
+    }
+  },
+  {
+    "id": "g5-fraction-l4-021",
+    "grade": 5,
+    "topic": "fraction",
+    "level": 4,
+    "type": "number",
+    "q": "Бір санның 2/10 бөлігі 64-ге тең. Бастапқы санды тап.",
+    "a": 320,
+    "answer": 320,
+    "hint": "Алдымен бір үлестің мәнін тап: 64 ÷ 2.",
+    "ex": "64 ÷ 2 × 10 = 320.",
+    "solution": "64 ÷ 2 × 10 = 320.",
+    "unit": "",
+    "meta": {
+      "formula": "fraction-reverse",
+      "params": {
+        "part": 64,
+        "numerator": 2,
+        "denominator": 10
+      }
+    }
+  },
+  {
+    "id": "g5-fraction-l4-022",
+    "grade": 5,
+    "topic": "fraction",
+    "level": 4,
+    "type": "number",
+    "q": "Бір санның 1/2 бөлігі 33-ге тең. Бастапқы санды тап.",
+    "a": 66,
+    "answer": 66,
+    "hint": "Алдымен бір үлестің мәнін тап: 33 ÷ 1.",
+    "ex": "33 ÷ 1 × 2 = 66.",
+    "solution": "33 ÷ 1 × 2 = 66.",
+    "unit": "",
+    "meta": {
+      "formula": "fraction-reverse",
+      "params": {
+        "part": 33,
+        "numerator": 1,
+        "denominator": 2
+      }
+    }
+  },
+  {
+    "id": "g5-fraction-l4-023",
+    "grade": 5,
+    "topic": "fraction",
+    "level": 4,
+    "type": "number",
+    "q": "Бір санның 1/3 бөлігі 34-ге тең. Бастапқы санды тап.",
+    "a": 102,
+    "answer": 102,
+    "hint": "Алдымен бір үлестің мәнін тап: 34 ÷ 1.",
+    "ex": "34 ÷ 1 × 3 = 102.",
+    "solution": "34 ÷ 1 × 3 = 102.",
+    "unit": "",
+    "meta": {
+      "formula": "fraction-reverse",
+      "params": {
+        "part": 34,
+        "numerator": 1,
+        "denominator": 3
+      }
+    }
+  },
+  {
+    "id": "g5-fraction-l4-024",
+    "grade": 5,
+    "topic": "fraction",
+    "level": 4,
+    "type": "number",
+    "q": "Бір санның 2/4 бөлігі 70-ге тең. Бастапқы санды тап.",
+    "a": 140,
+    "answer": 140,
+    "hint": "Алдымен бір үлестің мәнін тап: 70 ÷ 2.",
+    "ex": "70 ÷ 2 × 4 = 140.",
+    "solution": "70 ÷ 2 × 4 = 140.",
+    "unit": "",
+    "meta": {
+      "formula": "fraction-reverse",
+      "params": {
+        "part": 70,
+        "numerator": 2,
+        "denominator": 4
+      }
+    }
+  },
+  {
+    "id": "g5-fraction-l4-025",
+    "grade": 5,
+    "topic": "fraction",
+    "level": 4,
+    "type": "number",
+    "q": "Бір санның 1/5 бөлігі 36-ге тең. Бастапқы санды тап.",
+    "a": 180,
+    "answer": 180,
+    "hint": "Алдымен бір үлестің мәнін тап: 36 ÷ 1.",
+    "ex": "36 ÷ 1 × 5 = 180.",
+    "solution": "36 ÷ 1 × 5 = 180.",
+    "unit": "",
+    "meta": {
+      "formula": "fraction-reverse",
+      "params": {
+        "part": 36,
+        "numerator": 1,
+        "denominator": 5
+      }
+    }
+  },
+  {
+    "id": "g5-fraction-l4-026",
+    "grade": 5,
+    "topic": "fraction",
+    "level": 4,
+    "type": "number",
+    "q": "Бір санның 5/6 бөлігі 185-ге тең. Бастапқы санды тап.",
+    "a": 222,
+    "answer": 222,
+    "hint": "Алдымен бір үлестің мәнін тап: 185 ÷ 5.",
+    "ex": "185 ÷ 5 × 6 = 222.",
+    "solution": "185 ÷ 5 × 6 = 222.",
+    "unit": "",
+    "meta": {
+      "formula": "fraction-reverse",
+      "params": {
+        "part": 185,
+        "numerator": 5,
+        "denominator": 6
+      }
+    }
+  },
+  {
+    "id": "g5-fraction-l4-027",
+    "grade": 5,
+    "topic": "fraction",
+    "level": 4,
+    "type": "number",
+    "q": "Бір санның 6/8 бөлігі 228-ге тең. Бастапқы санды тап.",
+    "a": 304,
+    "answer": 304,
+    "hint": "Алдымен бір үлестің мәнін тап: 228 ÷ 6.",
+    "ex": "228 ÷ 6 × 8 = 304.",
+    "solution": "228 ÷ 6 × 8 = 304.",
+    "unit": "",
+    "meta": {
+      "formula": "fraction-reverse",
+      "params": {
+        "part": 228,
+        "numerator": 6,
+        "denominator": 8
+      }
+    }
+  },
+  {
+    "id": "g5-fraction-l4-028",
+    "grade": 5,
+    "topic": "fraction",
+    "level": 4,
+    "type": "number",
+    "q": "Бір санның 5/10 бөлігі 195-ге тең. Бастапқы санды тап.",
+    "a": 390,
+    "answer": 390,
+    "hint": "Алдымен бір үлестің мәнін тап: 195 ÷ 5.",
+    "ex": "195 ÷ 5 × 10 = 390.",
+    "solution": "195 ÷ 5 × 10 = 390.",
+    "unit": "",
+    "meta": {
+      "formula": "fraction-reverse",
+      "params": {
+        "part": 195,
+        "numerator": 5,
+        "denominator": 10
+      }
+    }
+  },
+  {
+    "id": "g5-fraction-l4-029",
+    "grade": 5,
+    "topic": "fraction",
+    "level": 4,
+    "type": "number",
+    "q": "Бір санның 1/2 бөлігі 40-ге тең. Бастапқы санды тап.",
+    "a": 80,
+    "answer": 80,
+    "hint": "Алдымен бір үлестің мәнін тап: 40 ÷ 1.",
+    "ex": "40 ÷ 1 × 2 = 80.",
+    "solution": "40 ÷ 1 × 2 = 80.",
+    "unit": "",
+    "meta": {
+      "formula": "fraction-reverse",
+      "params": {
+        "part": 40,
+        "numerator": 1,
+        "denominator": 2
+      }
+    }
+  },
+  {
+    "id": "g5-fraction-l4-030",
+    "grade": 5,
+    "topic": "fraction",
+    "level": 4,
+    "type": "number",
+    "q": "Бір санның 2/3 бөлігі 82-ге тең. Бастапқы санды тап.",
+    "a": 123,
+    "answer": 123,
+    "hint": "Алдымен бір үлестің мәнін тап: 82 ÷ 2.",
+    "ex": "82 ÷ 2 × 3 = 123.",
+    "solution": "82 ÷ 2 × 3 = 123.",
+    "unit": "",
+    "meta": {
+      "formula": "fraction-reverse",
+      "params": {
+        "part": 82,
+        "numerator": 2,
+        "denominator": 3
+      }
+    }
+  },
+  {
+    "id": "g5-fraction-l4-031",
+    "grade": 5,
+    "topic": "fraction",
+    "level": 4,
+    "type": "number",
+    "q": "Бір санның 2/4 бөлігі 84-ге тең. Бастапқы санды тап.",
+    "a": 168,
+    "answer": 168,
+    "hint": "Алдымен бір үлестің мәнін тап: 84 ÷ 2.",
+    "ex": "84 ÷ 2 × 4 = 168.",
+    "solution": "84 ÷ 2 × 4 = 168.",
+    "unit": "",
+    "meta": {
+      "formula": "fraction-reverse",
+      "params": {
+        "part": 84,
+        "numerator": 2,
+        "denominator": 4
+      }
+    }
+  },
+  {
+    "id": "g5-fraction-l4-032",
+    "grade": 5,
+    "topic": "fraction",
+    "level": 4,
+    "type": "number",
+    "q": "Бір санның 2/5 бөлігі 86-ге тең. Бастапқы санды тап.",
+    "a": 215,
+    "answer": 215,
+    "hint": "Алдымен бір үлестің мәнін тап: 86 ÷ 2.",
+    "ex": "86 ÷ 2 × 5 = 215.",
+    "solution": "86 ÷ 2 × 5 = 215.",
+    "unit": "",
+    "meta": {
+      "formula": "fraction-reverse",
+      "params": {
+        "part": 86,
+        "numerator": 2,
+        "denominator": 5
+      }
+    }
+  },
+  {
+    "id": "g5-fraction-l4-033",
+    "grade": 5,
+    "topic": "fraction",
+    "level": 4,
+    "type": "number",
+    "q": "Бір санның 1/6 бөлігі 44-ге тең. Бастапқы санды тап.",
+    "a": 264,
+    "answer": 264,
+    "hint": "Алдымен бір үлестің мәнін тап: 44 ÷ 1.",
+    "ex": "44 ÷ 1 × 6 = 264.",
+    "solution": "44 ÷ 1 × 6 = 264.",
+    "unit": "",
+    "meta": {
+      "formula": "fraction-reverse",
+      "params": {
+        "part": 44,
+        "numerator": 1,
+        "denominator": 6
+      }
+    }
+  },
+  {
+    "id": "g5-fraction-l4-034",
+    "grade": 5,
+    "topic": "fraction",
+    "level": 4,
+    "type": "number",
+    "q": "Бір санның 6/8 бөлігі 270-ге тең. Бастапқы санды тап.",
+    "a": 360,
+    "answer": 360,
+    "hint": "Алдымен бір үлестің мәнін тап: 270 ÷ 6.",
+    "ex": "270 ÷ 6 × 8 = 360.",
+    "solution": "270 ÷ 6 × 8 = 360.",
+    "unit": "",
+    "meta": {
+      "formula": "fraction-reverse",
+      "params": {
+        "part": 270,
+        "numerator": 6,
+        "denominator": 8
+      }
+    }
+  },
+  {
+    "id": "g5-fraction-l4-035",
+    "grade": 5,
+    "topic": "fraction",
+    "level": 4,
+    "type": "number",
+    "q": "Бір санның 8/10 бөлігі 368-ге тең. Бастапқы санды тап.",
+    "a": 460,
+    "answer": 460,
+    "hint": "Алдымен бір үлестің мәнін тап: 368 ÷ 8.",
+    "ex": "368 ÷ 8 × 10 = 460.",
+    "solution": "368 ÷ 8 × 10 = 460.",
+    "unit": "",
+    "meta": {
+      "formula": "fraction-reverse",
+      "params": {
+        "part": 368,
+        "numerator": 8,
+        "denominator": 10
+      }
+    }
+  },
+  {
+    "id": "g5-fraction-l4-036",
+    "grade": 5,
+    "topic": "fraction",
+    "level": 4,
+    "type": "number",
+    "q": "Бір санның 1/2 бөлігі 47-ге тең. Бастапқы санды тап.",
+    "a": 94,
+    "answer": 94,
+    "hint": "Алдымен бір үлестің мәнін тап: 47 ÷ 1.",
+    "ex": "47 ÷ 1 × 2 = 94.",
+    "solution": "47 ÷ 1 × 2 = 94.",
+    "unit": "",
+    "meta": {
+      "formula": "fraction-reverse",
+      "params": {
+        "part": 47,
+        "numerator": 1,
+        "denominator": 2
+      }
+    }
+  },
+  {
+    "id": "g5-fraction-l4-037",
+    "grade": 5,
+    "topic": "fraction",
+    "level": 4,
+    "type": "number",
+    "q": "Бір санның 1/3 бөлігі 48-ге тең. Бастапқы санды тап.",
+    "a": 144,
+    "answer": 144,
+    "hint": "Алдымен бір үлестің мәнін тап: 48 ÷ 1.",
+    "ex": "48 ÷ 1 × 3 = 144.",
+    "solution": "48 ÷ 1 × 3 = 144.",
+    "unit": "",
+    "meta": {
+      "formula": "fraction-reverse",
+      "params": {
+        "part": 48,
+        "numerator": 1,
+        "denominator": 3
+      }
+    }
+  },
+  {
+    "id": "g5-fraction-l4-038",
+    "grade": 5,
+    "topic": "fraction",
+    "level": 4,
+    "type": "number",
+    "q": "Бір санның 2/4 бөлігі 98-ге тең. Бастапқы санды тап.",
+    "a": 196,
+    "answer": 196,
+    "hint": "Алдымен бір үлестің мәнін тап: 98 ÷ 2.",
+    "ex": "98 ÷ 2 × 4 = 196.",
+    "solution": "98 ÷ 2 × 4 = 196.",
+    "unit": "",
+    "meta": {
+      "formula": "fraction-reverse",
+      "params": {
+        "part": 98,
+        "numerator": 2,
+        "denominator": 4
+      }
+    }
+  },
+  {
+    "id": "g5-fraction-l4-039",
+    "grade": 5,
+    "topic": "fraction",
+    "level": 4,
+    "type": "number",
+    "q": "Бір санның 3/5 бөлігі 150-ге тең. Бастапқы санды тап.",
+    "a": 250,
+    "answer": 250,
+    "hint": "Алдымен бір үлестің мәнін тап: 150 ÷ 3.",
+    "ex": "150 ÷ 3 × 5 = 250.",
+    "solution": "150 ÷ 3 × 5 = 250.",
+    "unit": "",
+    "meta": {
+      "formula": "fraction-reverse",
+      "params": {
+        "part": 150,
+        "numerator": 3,
+        "denominator": 5
+      }
+    }
+  },
+  {
+    "id": "g5-fraction-l4-040",
+    "grade": 5,
+    "topic": "fraction",
+    "level": 4,
+    "type": "number",
+    "q": "Бір санның 2/6 бөлігі 102-ге тең. Бастапқы санды тап.",
+    "a": 306,
+    "answer": 306,
+    "hint": "Алдымен бір үлестің мәнін тап: 102 ÷ 2.",
+    "ex": "102 ÷ 2 × 6 = 306.",
+    "solution": "102 ÷ 2 × 6 = 306.",
+    "unit": "",
+    "meta": {
+      "formula": "fraction-reverse",
+      "params": {
+        "part": 102,
+        "numerator": 2,
+        "denominator": 6
+      }
+    }
+  },
+  {
+    "id": "g5-fraction-l4-041",
+    "grade": 5,
+    "topic": "fraction",
+    "level": 4,
+    "type": "number",
+    "q": "Бір санның 6/8 бөлігі 312-ге тең. Бастапқы санды тап.",
+    "a": 416,
+    "answer": 416,
+    "hint": "Алдымен бір үлестің мәнін тап: 312 ÷ 6.",
+    "ex": "312 ÷ 6 × 8 = 416.",
+    "solution": "312 ÷ 6 × 8 = 416.",
+    "unit": "",
+    "meta": {
+      "formula": "fraction-reverse",
+      "params": {
+        "part": 312,
+        "numerator": 6,
+        "denominator": 8
+      }
+    }
+  },
+  {
+    "id": "g5-fraction-l4-042",
+    "grade": 5,
+    "topic": "fraction",
+    "level": 4,
+    "type": "number",
+    "q": "Бір санның 2/10 бөлігі 106-ге тең. Бастапқы санды тап.",
+    "a": 530,
+    "answer": 530,
+    "hint": "Алдымен бір үлестің мәнін тап: 106 ÷ 2.",
+    "ex": "106 ÷ 2 × 10 = 530.",
+    "solution": "106 ÷ 2 × 10 = 530.",
+    "unit": "",
+    "meta": {
+      "formula": "fraction-reverse",
+      "params": {
+        "part": 106,
+        "numerator": 2,
+        "denominator": 10
+      }
+    }
+  },
+  {
+    "id": "g5-fraction-l4-043",
+    "grade": 5,
+    "topic": "fraction",
+    "level": 4,
+    "type": "number",
+    "q": "Бір санның 1/2 бөлігі 54-ге тең. Бастапқы санды тап.",
+    "a": 108,
+    "answer": 108,
+    "hint": "Алдымен бір үлестің мәнін тап: 54 ÷ 1.",
+    "ex": "54 ÷ 1 × 2 = 108.",
+    "solution": "54 ÷ 1 × 2 = 108.",
+    "unit": "",
+    "meta": {
+      "formula": "fraction-reverse",
+      "params": {
+        "part": 54,
+        "numerator": 1,
+        "denominator": 2
+      }
+    }
+  },
+  {
+    "id": "g5-fraction-l4-044",
+    "grade": 5,
+    "topic": "fraction",
+    "level": 4,
+    "type": "number",
+    "q": "Бір санның 2/3 бөлігі 110-ге тең. Бастапқы санды тап.",
+    "a": 165,
+    "answer": 165,
+    "hint": "Алдымен бір үлестің мәнін тап: 110 ÷ 2.",
+    "ex": "110 ÷ 2 × 3 = 165.",
+    "solution": "110 ÷ 2 × 3 = 165.",
+    "unit": "",
+    "meta": {
+      "formula": "fraction-reverse",
+      "params": {
+        "part": 110,
+        "numerator": 2,
+        "denominator": 3
+      }
+    }
+  },
+  {
+    "id": "g5-fraction-l4-045",
+    "grade": 5,
+    "topic": "fraction",
+    "level": 4,
+    "type": "number",
+    "q": "Бір санның 2/4 бөлігі 112-ге тең. Бастапқы санды тап.",
+    "a": 224,
+    "answer": 224,
+    "hint": "Алдымен бір үлестің мәнін тап: 112 ÷ 2.",
+    "ex": "112 ÷ 2 × 4 = 224.",
+    "solution": "112 ÷ 2 × 4 = 224.",
+    "unit": "",
+    "meta": {
+      "formula": "fraction-reverse",
+      "params": {
+        "part": 112,
+        "numerator": 2,
+        "denominator": 4
+      }
+    }
+  },
+  {
+    "id": "g5-fraction-l4-046",
+    "grade": 5,
+    "topic": "fraction",
+    "level": 4,
+    "type": "number",
+    "q": "Бір санның 4/5 бөлігі 228-ге тең. Бастапқы санды тап.",
+    "a": 285,
+    "answer": 285,
+    "hint": "Алдымен бір үлестің мәнін тап: 228 ÷ 4.",
+    "ex": "228 ÷ 4 × 5 = 285.",
+    "solution": "228 ÷ 4 × 5 = 285.",
+    "unit": "",
+    "meta": {
+      "formula": "fraction-reverse",
+      "params": {
+        "part": 228,
+        "numerator": 4,
+        "denominator": 5
+      }
+    }
+  },
+  {
+    "id": "g5-fraction-l4-047",
+    "grade": 5,
+    "topic": "fraction",
+    "level": 4,
+    "type": "number",
+    "q": "Бір санның 3/6 бөлігі 174-ге тең. Бастапқы санды тап.",
+    "a": 348,
+    "answer": 348,
+    "hint": "Алдымен бір үлестің мәнін тап: 174 ÷ 3.",
+    "ex": "174 ÷ 3 × 6 = 348.",
+    "solution": "174 ÷ 3 × 6 = 348.",
+    "unit": "",
+    "meta": {
+      "formula": "fraction-reverse",
+      "params": {
+        "part": 174,
+        "numerator": 3,
+        "denominator": 6
+      }
+    }
+  },
+  {
+    "id": "g5-fraction-l4-048",
+    "grade": 5,
+    "topic": "fraction",
+    "level": 4,
+    "type": "number",
+    "q": "Бір санның 6/8 бөлігі 354-ге тең. Бастапқы санды тап.",
+    "a": 472,
+    "answer": 472,
+    "hint": "Алдымен бір үлестің мәнін тап: 354 ÷ 6.",
+    "ex": "354 ÷ 6 × 8 = 472.",
+    "solution": "354 ÷ 6 × 8 = 472.",
+    "unit": "",
+    "meta": {
+      "formula": "fraction-reverse",
+      "params": {
+        "part": 354,
+        "numerator": 6,
+        "denominator": 8
+      }
+    }
+  },
+  {
+    "id": "g5-fraction-l4-049",
+    "grade": 5,
+    "topic": "fraction",
+    "level": 4,
+    "type": "number",
+    "q": "Бір санның 5/10 бөлігі 300-ге тең. Бастапқы санды тап.",
+    "a": 600,
+    "answer": 600,
+    "hint": "Алдымен бір үлестің мәнін тап: 300 ÷ 5.",
+    "ex": "300 ÷ 5 × 10 = 600.",
+    "solution": "300 ÷ 5 × 10 = 600.",
+    "unit": "",
+    "meta": {
+      "formula": "fraction-reverse",
+      "params": {
+        "part": 300,
+        "numerator": 5,
+        "denominator": 10
+      }
+    }
+  },
+  {
+    "id": "g5-fraction-l4-050",
+    "grade": 5,
+    "topic": "fraction",
+    "level": 4,
+    "type": "number",
+    "q": "Бір санның 1/2 бөлігі 61-ге тең. Бастапқы санды тап.",
+    "a": 122,
+    "answer": 122,
+    "hint": "Алдымен бір үлестің мәнін тап: 61 ÷ 1.",
+    "ex": "61 ÷ 1 × 2 = 122.",
+    "solution": "61 ÷ 1 × 2 = 122.",
+    "unit": "",
+    "meta": {
+      "formula": "fraction-reverse",
+      "params": {
+        "part": 61,
+        "numerator": 1,
+        "denominator": 2
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l1-001",
+    "grade": 5,
+    "topic": "whole",
+    "level": 1,
+    "type": "number",
+    "q": "120 заттың 1/2 бөлігі алынды. Қанша зат қалды?",
+    "a": 60,
+    "answer": 60,
+    "hint": "Алынған бөлікті тауып, бастапқы саннан азайт.",
+    "ex": "120 − 60 = 60.",
+    "solution": "120 − 60 = 60.",
+    "unit": "",
+    "meta": {
+      "formula": "whole-one-stage",
+      "params": {
+        "base": 120,
+        "numerator1": 1,
+        "denominator1": 2
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l1-002",
+    "grade": 5,
+    "topic": "whole",
+    "level": 1,
+    "type": "number",
+    "q": "240 заттың 1/3 бөлігі алынды. Қанша зат қалды?",
+    "a": 160,
+    "answer": 160,
+    "hint": "Алынған бөлікті тауып, бастапқы саннан азайт.",
+    "ex": "240 − 80 = 160.",
+    "solution": "240 − 80 = 160.",
+    "unit": "",
+    "meta": {
+      "formula": "whole-one-stage",
+      "params": {
+        "base": 240,
+        "numerator1": 1,
+        "denominator1": 3
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l1-003",
+    "grade": 5,
+    "topic": "whole",
+    "level": 1,
+    "type": "number",
+    "q": "136 заттың 1/4 бөлігі алынды. Қанша зат қалды?",
+    "a": 102,
+    "answer": 102,
+    "hint": "Алынған бөлікті тауып, бастапқы саннан азайт.",
+    "ex": "136 − 34 = 102.",
+    "solution": "136 − 34 = 102.",
+    "unit": "",
+    "meta": {
+      "formula": "whole-one-stage",
+      "params": {
+        "base": 136,
+        "numerator1": 1,
+        "denominator1": 4
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l1-004",
+    "grade": 5,
+    "topic": "whole",
+    "level": 1,
+    "type": "number",
+    "q": "270 заттың 1/5 бөлігі алынды. Қанша зат қалды?",
+    "a": 216,
+    "answer": 216,
+    "hint": "Алынған бөлікті тауып, бастапқы саннан азайт.",
+    "ex": "270 − 54 = 216.",
+    "solution": "270 − 54 = 216.",
+    "unit": "",
+    "meta": {
+      "formula": "whole-one-stage",
+      "params": {
+        "base": 270,
+        "numerator1": 1,
+        "denominator1": 5
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l1-005",
+    "grade": 5,
+    "topic": "whole",
+    "level": 1,
+    "type": "number",
+    "q": "152 заттың 1/2 бөлігі алынды. Қанша зат қалды?",
+    "a": 76,
+    "answer": 76,
+    "hint": "Алынған бөлікті тауып, бастапқы саннан азайт.",
+    "ex": "152 − 76 = 76.",
+    "solution": "152 − 76 = 76.",
+    "unit": "",
+    "meta": {
+      "formula": "whole-one-stage",
+      "params": {
+        "base": 152,
+        "numerator1": 1,
+        "denominator1": 2
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l1-006",
+    "grade": 5,
+    "topic": "whole",
+    "level": 1,
+    "type": "number",
+    "q": "300 заттың 1/3 бөлігі алынды. Қанша зат қалды?",
+    "a": 200,
+    "answer": 200,
+    "hint": "Алынған бөлікті тауып, бастапқы саннан азайт.",
+    "ex": "300 − 100 = 200.",
+    "solution": "300 − 100 = 200.",
+    "unit": "",
+    "meta": {
+      "formula": "whole-one-stage",
+      "params": {
+        "base": 300,
+        "numerator1": 1,
+        "denominator1": 3
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l1-007",
+    "grade": 5,
+    "topic": "whole",
+    "level": 1,
+    "type": "number",
+    "q": "168 заттың 2/4 бөлігі алынды. Қанша зат қалды?",
+    "a": 84,
+    "answer": 84,
+    "hint": "Алынған бөлікті тауып, бастапқы саннан азайт.",
+    "ex": "168 − 84 = 84.",
+    "solution": "168 − 84 = 84.",
+    "unit": "",
+    "meta": {
+      "formula": "whole-one-stage",
+      "params": {
+        "base": 168,
+        "numerator1": 2,
+        "denominator1": 4
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l1-008",
+    "grade": 5,
+    "topic": "whole",
+    "level": 1,
+    "type": "number",
+    "q": "330 заттың 1/5 бөлігі алынды. Қанша зат қалды?",
+    "a": 264,
+    "answer": 264,
+    "hint": "Алынған бөлікті тауып, бастапқы саннан азайт.",
+    "ex": "330 − 66 = 264.",
+    "solution": "330 − 66 = 264.",
+    "unit": "",
+    "meta": {
+      "formula": "whole-one-stage",
+      "params": {
+        "base": 330,
+        "numerator1": 1,
+        "denominator1": 5
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l1-009",
+    "grade": 5,
+    "topic": "whole",
+    "level": 1,
+    "type": "number",
+    "q": "184 заттың 1/2 бөлігі алынды. Қанша зат қалды?",
+    "a": 92,
+    "answer": 92,
+    "hint": "Алынған бөлікті тауып, бастапқы саннан азайт.",
+    "ex": "184 − 92 = 92.",
+    "solution": "184 − 92 = 92.",
+    "unit": "",
+    "meta": {
+      "formula": "whole-one-stage",
+      "params": {
+        "base": 184,
+        "numerator1": 1,
+        "denominator1": 2
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l1-010",
+    "grade": 5,
+    "topic": "whole",
+    "level": 1,
+    "type": "number",
+    "q": "360 заттың 1/3 бөлігі алынды. Қанша зат қалды?",
+    "a": 240,
+    "answer": 240,
+    "hint": "Алынған бөлікті тауып, бастапқы саннан азайт.",
+    "ex": "360 − 120 = 240.",
+    "solution": "360 − 120 = 240.",
+    "unit": "",
+    "meta": {
+      "formula": "whole-one-stage",
+      "params": {
+        "base": 360,
+        "numerator1": 1,
+        "denominator1": 3
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l1-011",
+    "grade": 5,
+    "topic": "whole",
+    "level": 1,
+    "type": "number",
+    "q": "200 заттың 3/4 бөлігі алынды. Қанша зат қалды?",
+    "a": 50,
+    "answer": 50,
+    "hint": "Алынған бөлікті тауып, бастапқы саннан азайт.",
+    "ex": "200 − 150 = 50.",
+    "solution": "200 − 150 = 50.",
+    "unit": "",
+    "meta": {
+      "formula": "whole-one-stage",
+      "params": {
+        "base": 200,
+        "numerator1": 3,
+        "denominator1": 4
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l1-012",
+    "grade": 5,
+    "topic": "whole",
+    "level": 1,
+    "type": "number",
+    "q": "390 заттың 1/5 бөлігі алынды. Қанша зат қалды?",
+    "a": 312,
+    "answer": 312,
+    "hint": "Алынған бөлікті тауып, бастапқы саннан азайт.",
+    "ex": "390 − 78 = 312.",
+    "solution": "390 − 78 = 312.",
+    "unit": "",
+    "meta": {
+      "formula": "whole-one-stage",
+      "params": {
+        "base": 390,
+        "numerator1": 1,
+        "denominator1": 5
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l1-013",
+    "grade": 5,
+    "topic": "whole",
+    "level": 1,
+    "type": "number",
+    "q": "216 заттың 1/2 бөлігі алынды. Қанша зат қалды?",
+    "a": 108,
+    "answer": 108,
+    "hint": "Алынған бөлікті тауып, бастапқы саннан азайт.",
+    "ex": "216 − 108 = 108.",
+    "solution": "216 − 108 = 108.",
+    "unit": "",
+    "meta": {
+      "formula": "whole-one-stage",
+      "params": {
+        "base": 216,
+        "numerator1": 1,
+        "denominator1": 2
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l1-014",
+    "grade": 5,
+    "topic": "whole",
+    "level": 1,
+    "type": "number",
+    "q": "420 заттың 1/3 бөлігі алынды. Қанша зат қалды?",
+    "a": 280,
+    "answer": 280,
+    "hint": "Алынған бөлікті тауып, бастапқы саннан азайт.",
+    "ex": "420 − 140 = 280.",
+    "solution": "420 − 140 = 280.",
+    "unit": "",
+    "meta": {
+      "formula": "whole-one-stage",
+      "params": {
+        "base": 420,
+        "numerator1": 1,
+        "denominator1": 3
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l1-015",
+    "grade": 5,
+    "topic": "whole",
+    "level": 1,
+    "type": "number",
+    "q": "232 заттың 1/4 бөлігі алынды. Қанша зат қалды?",
+    "a": 174,
+    "answer": 174,
+    "hint": "Алынған бөлікті тауып, бастапқы саннан азайт.",
+    "ex": "232 − 58 = 174.",
+    "solution": "232 − 58 = 174.",
+    "unit": "",
+    "meta": {
+      "formula": "whole-one-stage",
+      "params": {
+        "base": 232,
+        "numerator1": 1,
+        "denominator1": 4
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l1-016",
+    "grade": 5,
+    "topic": "whole",
+    "level": 1,
+    "type": "number",
+    "q": "450 заттың 1/5 бөлігі алынды. Қанша зат қалды?",
+    "a": 360,
+    "answer": 360,
+    "hint": "Алынған бөлікті тауып, бастапқы саннан азайт.",
+    "ex": "450 − 90 = 360.",
+    "solution": "450 − 90 = 360.",
+    "unit": "",
+    "meta": {
+      "formula": "whole-one-stage",
+      "params": {
+        "base": 450,
+        "numerator1": 1,
+        "denominator1": 5
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l1-017",
+    "grade": 5,
+    "topic": "whole",
+    "level": 1,
+    "type": "number",
+    "q": "248 заттың 1/2 бөлігі алынды. Қанша зат қалды?",
+    "a": 124,
+    "answer": 124,
+    "hint": "Алынған бөлікті тауып, бастапқы саннан азайт.",
+    "ex": "248 − 124 = 124.",
+    "solution": "248 − 124 = 124.",
+    "unit": "",
+    "meta": {
+      "formula": "whole-one-stage",
+      "params": {
+        "base": 248,
+        "numerator1": 1,
+        "denominator1": 2
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l1-018",
+    "grade": 5,
+    "topic": "whole",
+    "level": 1,
+    "type": "number",
+    "q": "480 заттың 1/3 бөлігі алынды. Қанша зат қалды?",
+    "a": 320,
+    "answer": 320,
+    "hint": "Алынған бөлікті тауып, бастапқы саннан азайт.",
+    "ex": "480 − 160 = 320.",
+    "solution": "480 − 160 = 320.",
+    "unit": "",
+    "meta": {
+      "formula": "whole-one-stage",
+      "params": {
+        "base": 480,
+        "numerator1": 1,
+        "denominator1": 3
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l1-019",
+    "grade": 5,
+    "topic": "whole",
+    "level": 1,
+    "type": "number",
+    "q": "264 заттың 2/4 бөлігі алынды. Қанша зат қалды?",
+    "a": 132,
+    "answer": 132,
+    "hint": "Алынған бөлікті тауып, бастапқы саннан азайт.",
+    "ex": "264 − 132 = 132.",
+    "solution": "264 − 132 = 132.",
+    "unit": "",
+    "meta": {
+      "formula": "whole-one-stage",
+      "params": {
+        "base": 264,
+        "numerator1": 2,
+        "denominator1": 4
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l1-020",
+    "grade": 5,
+    "topic": "whole",
+    "level": 1,
+    "type": "number",
+    "q": "510 заттың 1/5 бөлігі алынды. Қанша зат қалды?",
+    "a": 408,
+    "answer": 408,
+    "hint": "Алынған бөлікті тауып, бастапқы саннан азайт.",
+    "ex": "510 − 102 = 408.",
+    "solution": "510 − 102 = 408.",
+    "unit": "",
+    "meta": {
+      "formula": "whole-one-stage",
+      "params": {
+        "base": 510,
+        "numerator1": 1,
+        "denominator1": 5
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l1-021",
+    "grade": 5,
+    "topic": "whole",
+    "level": 1,
+    "type": "number",
+    "q": "280 заттың 1/2 бөлігі алынды. Қанша зат қалды?",
+    "a": 140,
+    "answer": 140,
+    "hint": "Алынған бөлікті тауып, бастапқы саннан азайт.",
+    "ex": "280 − 140 = 140.",
+    "solution": "280 − 140 = 140.",
+    "unit": "",
+    "meta": {
+      "formula": "whole-one-stage",
+      "params": {
+        "base": 280,
+        "numerator1": 1,
+        "denominator1": 2
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l1-022",
+    "grade": 5,
+    "topic": "whole",
+    "level": 1,
+    "type": "number",
+    "q": "540 заттың 1/3 бөлігі алынды. Қанша зат қалды?",
+    "a": 360,
+    "answer": 360,
+    "hint": "Алынған бөлікті тауып, бастапқы саннан азайт.",
+    "ex": "540 − 180 = 360.",
+    "solution": "540 − 180 = 360.",
+    "unit": "",
+    "meta": {
+      "formula": "whole-one-stage",
+      "params": {
+        "base": 540,
+        "numerator1": 1,
+        "denominator1": 3
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l1-023",
+    "grade": 5,
+    "topic": "whole",
+    "level": 1,
+    "type": "number",
+    "q": "296 заттың 3/4 бөлігі алынды. Қанша зат қалды?",
+    "a": 74,
+    "answer": 74,
+    "hint": "Алынған бөлікті тауып, бастапқы саннан азайт.",
+    "ex": "296 − 222 = 74.",
+    "solution": "296 − 222 = 74.",
+    "unit": "",
+    "meta": {
+      "formula": "whole-one-stage",
+      "params": {
+        "base": 296,
+        "numerator1": 3,
+        "denominator1": 4
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l1-024",
+    "grade": 5,
+    "topic": "whole",
+    "level": 1,
+    "type": "number",
+    "q": "570 заттың 1/5 бөлігі алынды. Қанша зат қалды?",
+    "a": 456,
+    "answer": 456,
+    "hint": "Алынған бөлікті тауып, бастапқы саннан азайт.",
+    "ex": "570 − 114 = 456.",
+    "solution": "570 − 114 = 456.",
+    "unit": "",
+    "meta": {
+      "formula": "whole-one-stage",
+      "params": {
+        "base": 570,
+        "numerator1": 1,
+        "denominator1": 5
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l1-025",
+    "grade": 5,
+    "topic": "whole",
+    "level": 1,
+    "type": "number",
+    "q": "312 заттың 1/2 бөлігі алынды. Қанша зат қалды?",
+    "a": 156,
+    "answer": 156,
+    "hint": "Алынған бөлікті тауып, бастапқы саннан азайт.",
+    "ex": "312 − 156 = 156.",
+    "solution": "312 − 156 = 156.",
+    "unit": "",
+    "meta": {
+      "formula": "whole-one-stage",
+      "params": {
+        "base": 312,
+        "numerator1": 1,
+        "denominator1": 2
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l1-026",
+    "grade": 5,
+    "topic": "whole",
+    "level": 1,
+    "type": "number",
+    "q": "600 заттың 1/3 бөлігі алынды. Қанша зат қалды?",
+    "a": 400,
+    "answer": 400,
+    "hint": "Алынған бөлікті тауып, бастапқы саннан азайт.",
+    "ex": "600 − 200 = 400.",
+    "solution": "600 − 200 = 400.",
+    "unit": "",
+    "meta": {
+      "formula": "whole-one-stage",
+      "params": {
+        "base": 600,
+        "numerator1": 1,
+        "denominator1": 3
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l1-027",
+    "grade": 5,
+    "topic": "whole",
+    "level": 1,
+    "type": "number",
+    "q": "328 заттың 1/4 бөлігі алынды. Қанша зат қалды?",
+    "a": 246,
+    "answer": 246,
+    "hint": "Алынған бөлікті тауып, бастапқы саннан азайт.",
+    "ex": "328 − 82 = 246.",
+    "solution": "328 − 82 = 246.",
+    "unit": "",
+    "meta": {
+      "formula": "whole-one-stage",
+      "params": {
+        "base": 328,
+        "numerator1": 1,
+        "denominator1": 4
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l1-028",
+    "grade": 5,
+    "topic": "whole",
+    "level": 1,
+    "type": "number",
+    "q": "630 заттың 1/5 бөлігі алынды. Қанша зат қалды?",
+    "a": 504,
+    "answer": 504,
+    "hint": "Алынған бөлікті тауып, бастапқы саннан азайт.",
+    "ex": "630 − 126 = 504.",
+    "solution": "630 − 126 = 504.",
+    "unit": "",
+    "meta": {
+      "formula": "whole-one-stage",
+      "params": {
+        "base": 630,
+        "numerator1": 1,
+        "denominator1": 5
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l1-029",
+    "grade": 5,
+    "topic": "whole",
+    "level": 1,
+    "type": "number",
+    "q": "344 заттың 1/2 бөлігі алынды. Қанша зат қалды?",
+    "a": 172,
+    "answer": 172,
+    "hint": "Алынған бөлікті тауып, бастапқы саннан азайт.",
+    "ex": "344 − 172 = 172.",
+    "solution": "344 − 172 = 172.",
+    "unit": "",
+    "meta": {
+      "formula": "whole-one-stage",
+      "params": {
+        "base": 344,
+        "numerator1": 1,
+        "denominator1": 2
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l1-030",
+    "grade": 5,
+    "topic": "whole",
+    "level": 1,
+    "type": "number",
+    "q": "660 заттың 1/3 бөлігі алынды. Қанша зат қалды?",
+    "a": 440,
+    "answer": 440,
+    "hint": "Алынған бөлікті тауып, бастапқы саннан азайт.",
+    "ex": "660 − 220 = 440.",
+    "solution": "660 − 220 = 440.",
+    "unit": "",
+    "meta": {
+      "formula": "whole-one-stage",
+      "params": {
+        "base": 660,
+        "numerator1": 1,
+        "denominator1": 3
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l1-031",
+    "grade": 5,
+    "topic": "whole",
+    "level": 1,
+    "type": "number",
+    "q": "360 заттың 2/4 бөлігі алынды. Қанша зат қалды?",
+    "a": 180,
+    "answer": 180,
+    "hint": "Алынған бөлікті тауып, бастапқы саннан азайт.",
+    "ex": "360 − 180 = 180.",
+    "solution": "360 − 180 = 180.",
+    "unit": "",
+    "meta": {
+      "formula": "whole-one-stage",
+      "params": {
+        "base": 360,
+        "numerator1": 2,
+        "denominator1": 4
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l1-032",
+    "grade": 5,
+    "topic": "whole",
+    "level": 1,
+    "type": "number",
+    "q": "690 заттың 1/5 бөлігі алынды. Қанша зат қалды?",
+    "a": 552,
+    "answer": 552,
+    "hint": "Алынған бөлікті тауып, бастапқы саннан азайт.",
+    "ex": "690 − 138 = 552.",
+    "solution": "690 − 138 = 552.",
+    "unit": "",
+    "meta": {
+      "formula": "whole-one-stage",
+      "params": {
+        "base": 690,
+        "numerator1": 1,
+        "denominator1": 5
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l1-033",
+    "grade": 5,
+    "topic": "whole",
+    "level": 1,
+    "type": "number",
+    "q": "376 заттың 1/2 бөлігі алынды. Қанша зат қалды?",
+    "a": 188,
+    "answer": 188,
+    "hint": "Алынған бөлікті тауып, бастапқы саннан азайт.",
+    "ex": "376 − 188 = 188.",
+    "solution": "376 − 188 = 188.",
+    "unit": "",
+    "meta": {
+      "formula": "whole-one-stage",
+      "params": {
+        "base": 376,
+        "numerator1": 1,
+        "denominator1": 2
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l1-034",
+    "grade": 5,
+    "topic": "whole",
+    "level": 1,
+    "type": "number",
+    "q": "720 заттың 1/3 бөлігі алынды. Қанша зат қалды?",
+    "a": 480,
+    "answer": 480,
+    "hint": "Алынған бөлікті тауып, бастапқы саннан азайт.",
+    "ex": "720 − 240 = 480.",
+    "solution": "720 − 240 = 480.",
+    "unit": "",
+    "meta": {
+      "formula": "whole-one-stage",
+      "params": {
+        "base": 720,
+        "numerator1": 1,
+        "denominator1": 3
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l1-035",
+    "grade": 5,
+    "topic": "whole",
+    "level": 1,
+    "type": "number",
+    "q": "392 заттың 3/4 бөлігі алынды. Қанша зат қалды?",
+    "a": 98,
+    "answer": 98,
+    "hint": "Алынған бөлікті тауып, бастапқы саннан азайт.",
+    "ex": "392 − 294 = 98.",
+    "solution": "392 − 294 = 98.",
+    "unit": "",
+    "meta": {
+      "formula": "whole-one-stage",
+      "params": {
+        "base": 392,
+        "numerator1": 3,
+        "denominator1": 4
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l1-036",
+    "grade": 5,
+    "topic": "whole",
+    "level": 1,
+    "type": "number",
+    "q": "750 заттың 1/5 бөлігі алынды. Қанша зат қалды?",
+    "a": 600,
+    "answer": 600,
+    "hint": "Алынған бөлікті тауып, бастапқы саннан азайт.",
+    "ex": "750 − 150 = 600.",
+    "solution": "750 − 150 = 600.",
+    "unit": "",
+    "meta": {
+      "formula": "whole-one-stage",
+      "params": {
+        "base": 750,
+        "numerator1": 1,
+        "denominator1": 5
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l1-037",
+    "grade": 5,
+    "topic": "whole",
+    "level": 1,
+    "type": "number",
+    "q": "408 заттың 1/2 бөлігі алынды. Қанша зат қалды?",
+    "a": 204,
+    "answer": 204,
+    "hint": "Алынған бөлікті тауып, бастапқы саннан азайт.",
+    "ex": "408 − 204 = 204.",
+    "solution": "408 − 204 = 204.",
+    "unit": "",
+    "meta": {
+      "formula": "whole-one-stage",
+      "params": {
+        "base": 408,
+        "numerator1": 1,
+        "denominator1": 2
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l1-038",
+    "grade": 5,
+    "topic": "whole",
+    "level": 1,
+    "type": "number",
+    "q": "780 заттың 1/3 бөлігі алынды. Қанша зат қалды?",
+    "a": 520,
+    "answer": 520,
+    "hint": "Алынған бөлікті тауып, бастапқы саннан азайт.",
+    "ex": "780 − 260 = 520.",
+    "solution": "780 − 260 = 520.",
+    "unit": "",
+    "meta": {
+      "formula": "whole-one-stage",
+      "params": {
+        "base": 780,
+        "numerator1": 1,
+        "denominator1": 3
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l1-039",
+    "grade": 5,
+    "topic": "whole",
+    "level": 1,
+    "type": "number",
+    "q": "424 заттың 1/4 бөлігі алынды. Қанша зат қалды?",
+    "a": 318,
+    "answer": 318,
+    "hint": "Алынған бөлікті тауып, бастапқы саннан азайт.",
+    "ex": "424 − 106 = 318.",
+    "solution": "424 − 106 = 318.",
+    "unit": "",
+    "meta": {
+      "formula": "whole-one-stage",
+      "params": {
+        "base": 424,
+        "numerator1": 1,
+        "denominator1": 4
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l1-040",
+    "grade": 5,
+    "topic": "whole",
+    "level": 1,
+    "type": "number",
+    "q": "810 заттың 1/5 бөлігі алынды. Қанша зат қалды?",
+    "a": 648,
+    "answer": 648,
+    "hint": "Алынған бөлікті тауып, бастапқы саннан азайт.",
+    "ex": "810 − 162 = 648.",
+    "solution": "810 − 162 = 648.",
+    "unit": "",
+    "meta": {
+      "formula": "whole-one-stage",
+      "params": {
+        "base": 810,
+        "numerator1": 1,
+        "denominator1": 5
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l1-041",
+    "grade": 5,
+    "topic": "whole",
+    "level": 1,
+    "type": "number",
+    "q": "440 заттың 1/2 бөлігі алынды. Қанша зат қалды?",
+    "a": 220,
+    "answer": 220,
+    "hint": "Алынған бөлікті тауып, бастапқы саннан азайт.",
+    "ex": "440 − 220 = 220.",
+    "solution": "440 − 220 = 220.",
+    "unit": "",
+    "meta": {
+      "formula": "whole-one-stage",
+      "params": {
+        "base": 440,
+        "numerator1": 1,
+        "denominator1": 2
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l1-042",
+    "grade": 5,
+    "topic": "whole",
+    "level": 1,
+    "type": "number",
+    "q": "840 заттың 1/3 бөлігі алынды. Қанша зат қалды?",
+    "a": 560,
+    "answer": 560,
+    "hint": "Алынған бөлікті тауып, бастапқы саннан азайт.",
+    "ex": "840 − 280 = 560.",
+    "solution": "840 − 280 = 560.",
+    "unit": "",
+    "meta": {
+      "formula": "whole-one-stage",
+      "params": {
+        "base": 840,
+        "numerator1": 1,
+        "denominator1": 3
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l1-043",
+    "grade": 5,
+    "topic": "whole",
+    "level": 1,
+    "type": "number",
+    "q": "456 заттың 2/4 бөлігі алынды. Қанша зат қалды?",
+    "a": 228,
+    "answer": 228,
+    "hint": "Алынған бөлікті тауып, бастапқы саннан азайт.",
+    "ex": "456 − 228 = 228.",
+    "solution": "456 − 228 = 228.",
+    "unit": "",
+    "meta": {
+      "formula": "whole-one-stage",
+      "params": {
+        "base": 456,
+        "numerator1": 2,
+        "denominator1": 4
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l1-044",
+    "grade": 5,
+    "topic": "whole",
+    "level": 1,
+    "type": "number",
+    "q": "870 заттың 1/5 бөлігі алынды. Қанша зат қалды?",
+    "a": 696,
+    "answer": 696,
+    "hint": "Алынған бөлікті тауып, бастапқы саннан азайт.",
+    "ex": "870 − 174 = 696.",
+    "solution": "870 − 174 = 696.",
+    "unit": "",
+    "meta": {
+      "formula": "whole-one-stage",
+      "params": {
+        "base": 870,
+        "numerator1": 1,
+        "denominator1": 5
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l1-045",
+    "grade": 5,
+    "topic": "whole",
+    "level": 1,
+    "type": "number",
+    "q": "472 заттың 1/2 бөлігі алынды. Қанша зат қалды?",
+    "a": 236,
+    "answer": 236,
+    "hint": "Алынған бөлікті тауып, бастапқы саннан азайт.",
+    "ex": "472 − 236 = 236.",
+    "solution": "472 − 236 = 236.",
+    "unit": "",
+    "meta": {
+      "formula": "whole-one-stage",
+      "params": {
+        "base": 472,
+        "numerator1": 1,
+        "denominator1": 2
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l1-046",
+    "grade": 5,
+    "topic": "whole",
+    "level": 1,
+    "type": "number",
+    "q": "900 заттың 1/3 бөлігі алынды. Қанша зат қалды?",
+    "a": 600,
+    "answer": 600,
+    "hint": "Алынған бөлікті тауып, бастапқы саннан азайт.",
+    "ex": "900 − 300 = 600.",
+    "solution": "900 − 300 = 600.",
+    "unit": "",
+    "meta": {
+      "formula": "whole-one-stage",
+      "params": {
+        "base": 900,
+        "numerator1": 1,
+        "denominator1": 3
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l1-047",
+    "grade": 5,
+    "topic": "whole",
+    "level": 1,
+    "type": "number",
+    "q": "488 заттың 3/4 бөлігі алынды. Қанша зат қалды?",
+    "a": 122,
+    "answer": 122,
+    "hint": "Алынған бөлікті тауып, бастапқы саннан азайт.",
+    "ex": "488 − 366 = 122.",
+    "solution": "488 − 366 = 122.",
+    "unit": "",
+    "meta": {
+      "formula": "whole-one-stage",
+      "params": {
+        "base": 488,
+        "numerator1": 3,
+        "denominator1": 4
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l1-048",
+    "grade": 5,
+    "topic": "whole",
+    "level": 1,
+    "type": "number",
+    "q": "930 заттың 1/5 бөлігі алынды. Қанша зат қалды?",
+    "a": 744,
+    "answer": 744,
+    "hint": "Алынған бөлікті тауып, бастапқы саннан азайт.",
+    "ex": "930 − 186 = 744.",
+    "solution": "930 − 186 = 744.",
+    "unit": "",
+    "meta": {
+      "formula": "whole-one-stage",
+      "params": {
+        "base": 930,
+        "numerator1": 1,
+        "denominator1": 5
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l1-049",
+    "grade": 5,
+    "topic": "whole",
+    "level": 1,
+    "type": "number",
+    "q": "504 заттың 1/2 бөлігі алынды. Қанша зат қалды?",
+    "a": 252,
+    "answer": 252,
+    "hint": "Алынған бөлікті тауып, бастапқы саннан азайт.",
+    "ex": "504 − 252 = 252.",
+    "solution": "504 − 252 = 252.",
+    "unit": "",
+    "meta": {
+      "formula": "whole-one-stage",
+      "params": {
+        "base": 504,
+        "numerator1": 1,
+        "denominator1": 2
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l1-050",
+    "grade": 5,
+    "topic": "whole",
+    "level": 1,
+    "type": "number",
+    "q": "960 заттың 1/3 бөлігі алынды. Қанша зат қалды?",
+    "a": 640,
+    "answer": 640,
+    "hint": "Алынған бөлікті тауып, бастапқы саннан азайт.",
+    "ex": "960 − 320 = 640.",
+    "solution": "960 − 320 = 640.",
+    "unit": "",
+    "meta": {
+      "formula": "whole-one-stage",
+      "params": {
+        "base": 960,
+        "numerator1": 1,
+        "denominator1": 3
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l2-001",
+    "grade": 5,
+    "topic": "whole",
+    "level": 2,
+    "type": "number",
+    "q": "120 дәптердің 1/2 бөлігі, кейін қалғанының 1/4 бөлігі берілді. Неше дәптер қалды?",
+    "a": 45,
+    "answer": 45,
+    "hint": "Екінші бөлшектің бүтіні — бірінші әрекеттен кейінгі 60 саны.",
+    "ex": "120 → 60 → 45 дәптер қалды.",
+    "solution": "120 → 60 → 45 дәптер қалды.",
+    "unit": "дәптер",
+    "meta": {
+      "formula": "whole-two-stage",
+      "params": {
+        "base": 120,
+        "numerator1": 1,
+        "denominator1": 2,
+        "numerator2": 1,
+        "denominator2": 4
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l2-002",
+    "grade": 5,
+    "topic": "whole",
+    "level": 2,
+    "type": "number",
+    "q": "240 дәптердің 1/3 бөлігі, кейін қалғанының 1/5 бөлігі берілді. Неше дәптер қалды?",
+    "a": 128,
+    "answer": 128,
+    "hint": "Екінші бөлшектің бүтіні — бірінші әрекеттен кейінгі 160 саны.",
+    "ex": "240 → 160 → 128 дәптер қалды.",
+    "solution": "240 → 160 → 128 дәптер қалды.",
+    "unit": "дәптер",
+    "meta": {
+      "formula": "whole-two-stage",
+      "params": {
+        "base": 240,
+        "numerator1": 1,
+        "denominator1": 3,
+        "numerator2": 1,
+        "denominator2": 5
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l2-003",
+    "grade": 5,
+    "topic": "whole",
+    "level": 2,
+    "type": "number",
+    "q": "136 дәптердің 1/4 бөлігі, кейін қалғанының 1/2 бөлігі берілді. Неше дәптер қалды?",
+    "a": 51,
+    "answer": 51,
+    "hint": "Екінші бөлшектің бүтіні — бірінші әрекеттен кейінгі 102 саны.",
+    "ex": "136 → 102 → 51 дәптер қалды.",
+    "solution": "136 → 102 → 51 дәптер қалды.",
+    "unit": "дәптер",
+    "meta": {
+      "formula": "whole-two-stage",
+      "params": {
+        "base": 136,
+        "numerator1": 1,
+        "denominator1": 4,
+        "numerator2": 1,
+        "denominator2": 2
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l2-004",
+    "grade": 5,
+    "topic": "whole",
+    "level": 2,
+    "type": "number",
+    "q": "270 дәптердің 1/5 бөлігі, кейін қалғанының 1/3 бөлігі берілді. Неше дәптер қалды?",
+    "a": 144,
+    "answer": 144,
+    "hint": "Екінші бөлшектің бүтіні — бірінші әрекеттен кейінгі 216 саны.",
+    "ex": "270 → 216 → 144 дәптер қалды.",
+    "solution": "270 → 216 → 144 дәптер қалды.",
+    "unit": "дәптер",
+    "meta": {
+      "formula": "whole-two-stage",
+      "params": {
+        "base": 270,
+        "numerator1": 1,
+        "denominator1": 5,
+        "numerator2": 1,
+        "denominator2": 3
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l2-005",
+    "grade": 5,
+    "topic": "whole",
+    "level": 2,
+    "type": "number",
+    "q": "152 дәптердің 1/2 бөлігі, кейін қалғанының 1/4 бөлігі берілді. Неше дәптер қалды?",
+    "a": 57,
+    "answer": 57,
+    "hint": "Екінші бөлшектің бүтіні — бірінші әрекеттен кейінгі 76 саны.",
+    "ex": "152 → 76 → 57 дәптер қалды.",
+    "solution": "152 → 76 → 57 дәптер қалды.",
+    "unit": "дәптер",
+    "meta": {
+      "formula": "whole-two-stage",
+      "params": {
+        "base": 152,
+        "numerator1": 1,
+        "denominator1": 2,
+        "numerator2": 1,
+        "denominator2": 4
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l2-006",
+    "grade": 5,
+    "topic": "whole",
+    "level": 2,
+    "type": "number",
+    "q": "300 дәптердің 1/3 бөлігі, кейін қалғанының 1/5 бөлігі берілді. Неше дәптер қалды?",
+    "a": 160,
+    "answer": 160,
+    "hint": "Екінші бөлшектің бүтіні — бірінші әрекеттен кейінгі 200 саны.",
+    "ex": "300 → 200 → 160 дәптер қалды.",
+    "solution": "300 → 200 → 160 дәптер қалды.",
+    "unit": "дәптер",
+    "meta": {
+      "formula": "whole-two-stage",
+      "params": {
+        "base": 300,
+        "numerator1": 1,
+        "denominator1": 3,
+        "numerator2": 1,
+        "denominator2": 5
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l2-007",
+    "grade": 5,
+    "topic": "whole",
+    "level": 2,
+    "type": "number",
+    "q": "168 дәптердің 2/4 бөлігі, кейін қалғанының 1/2 бөлігі берілді. Неше дәптер қалды?",
+    "a": 42,
+    "answer": 42,
+    "hint": "Екінші бөлшектің бүтіні — бірінші әрекеттен кейінгі 84 саны.",
+    "ex": "168 → 84 → 42 дәптер қалды.",
+    "solution": "168 → 84 → 42 дәптер қалды.",
+    "unit": "дәптер",
+    "meta": {
+      "formula": "whole-two-stage",
+      "params": {
+        "base": 168,
+        "numerator1": 2,
+        "denominator1": 4,
+        "numerator2": 1,
+        "denominator2": 2
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l2-008",
+    "grade": 5,
+    "topic": "whole",
+    "level": 2,
+    "type": "number",
+    "q": "330 дәптердің 1/5 бөлігі, кейін қалғанының 1/3 бөлігі берілді. Неше дәптер қалды?",
+    "a": 176,
+    "answer": 176,
+    "hint": "Екінші бөлшектің бүтіні — бірінші әрекеттен кейінгі 264 саны.",
+    "ex": "330 → 264 → 176 дәптер қалды.",
+    "solution": "330 → 264 → 176 дәптер қалды.",
+    "unit": "дәптер",
+    "meta": {
+      "formula": "whole-two-stage",
+      "params": {
+        "base": 330,
+        "numerator1": 1,
+        "denominator1": 5,
+        "numerator2": 1,
+        "denominator2": 3
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l2-009",
+    "grade": 5,
+    "topic": "whole",
+    "level": 2,
+    "type": "number",
+    "q": "184 дәптердің 1/2 бөлігі, кейін қалғанының 1/4 бөлігі берілді. Неше дәптер қалды?",
+    "a": 69,
+    "answer": 69,
+    "hint": "Екінші бөлшектің бүтіні — бірінші әрекеттен кейінгі 92 саны.",
+    "ex": "184 → 92 → 69 дәптер қалды.",
+    "solution": "184 → 92 → 69 дәптер қалды.",
+    "unit": "дәптер",
+    "meta": {
+      "formula": "whole-two-stage",
+      "params": {
+        "base": 184,
+        "numerator1": 1,
+        "denominator1": 2,
+        "numerator2": 1,
+        "denominator2": 4
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l2-010",
+    "grade": 5,
+    "topic": "whole",
+    "level": 2,
+    "type": "number",
+    "q": "360 дәптердің 1/3 бөлігі, кейін қалғанының 1/5 бөлігі берілді. Неше дәптер қалды?",
+    "a": 192,
+    "answer": 192,
+    "hint": "Екінші бөлшектің бүтіні — бірінші әрекеттен кейінгі 240 саны.",
+    "ex": "360 → 240 → 192 дәптер қалды.",
+    "solution": "360 → 240 → 192 дәптер қалды.",
+    "unit": "дәптер",
+    "meta": {
+      "formula": "whole-two-stage",
+      "params": {
+        "base": 360,
+        "numerator1": 1,
+        "denominator1": 3,
+        "numerator2": 1,
+        "denominator2": 5
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l2-011",
+    "grade": 5,
+    "topic": "whole",
+    "level": 2,
+    "type": "number",
+    "q": "200 дәптердің 3/4 бөлігі, кейін қалғанының 1/2 бөлігі берілді. Неше дәптер қалды?",
+    "a": 25,
+    "answer": 25,
+    "hint": "Екінші бөлшектің бүтіні — бірінші әрекеттен кейінгі 50 саны.",
+    "ex": "200 → 50 → 25 дәптер қалды.",
+    "solution": "200 → 50 → 25 дәптер қалды.",
+    "unit": "дәптер",
+    "meta": {
+      "formula": "whole-two-stage",
+      "params": {
+        "base": 200,
+        "numerator1": 3,
+        "denominator1": 4,
+        "numerator2": 1,
+        "denominator2": 2
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l2-012",
+    "grade": 5,
+    "topic": "whole",
+    "level": 2,
+    "type": "number",
+    "q": "390 дәптердің 1/5 бөлігі, кейін қалғанының 1/3 бөлігі берілді. Неше дәптер қалды?",
+    "a": 208,
+    "answer": 208,
+    "hint": "Екінші бөлшектің бүтіні — бірінші әрекеттен кейінгі 312 саны.",
+    "ex": "390 → 312 → 208 дәптер қалды.",
+    "solution": "390 → 312 → 208 дәптер қалды.",
+    "unit": "дәптер",
+    "meta": {
+      "formula": "whole-two-stage",
+      "params": {
+        "base": 390,
+        "numerator1": 1,
+        "denominator1": 5,
+        "numerator2": 1,
+        "denominator2": 3
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l2-013",
+    "grade": 5,
+    "topic": "whole",
+    "level": 2,
+    "type": "number",
+    "q": "216 дәптердің 1/2 бөлігі, кейін қалғанының 1/4 бөлігі берілді. Неше дәптер қалды?",
+    "a": 81,
+    "answer": 81,
+    "hint": "Екінші бөлшектің бүтіні — бірінші әрекеттен кейінгі 108 саны.",
+    "ex": "216 → 108 → 81 дәптер қалды.",
+    "solution": "216 → 108 → 81 дәптер қалды.",
+    "unit": "дәптер",
+    "meta": {
+      "formula": "whole-two-stage",
+      "params": {
+        "base": 216,
+        "numerator1": 1,
+        "denominator1": 2,
+        "numerator2": 1,
+        "denominator2": 4
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l2-014",
+    "grade": 5,
+    "topic": "whole",
+    "level": 2,
+    "type": "number",
+    "q": "420 дәптердің 1/3 бөлігі, кейін қалғанының 1/5 бөлігі берілді. Неше дәптер қалды?",
+    "a": 224,
+    "answer": 224,
+    "hint": "Екінші бөлшектің бүтіні — бірінші әрекеттен кейінгі 280 саны.",
+    "ex": "420 → 280 → 224 дәптер қалды.",
+    "solution": "420 → 280 → 224 дәптер қалды.",
+    "unit": "дәптер",
+    "meta": {
+      "formula": "whole-two-stage",
+      "params": {
+        "base": 420,
+        "numerator1": 1,
+        "denominator1": 3,
+        "numerator2": 1,
+        "denominator2": 5
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l2-015",
+    "grade": 5,
+    "topic": "whole",
+    "level": 2,
+    "type": "number",
+    "q": "232 дәптердің 1/4 бөлігі, кейін қалғанының 1/2 бөлігі берілді. Неше дәптер қалды?",
+    "a": 87,
+    "answer": 87,
+    "hint": "Екінші бөлшектің бүтіні — бірінші әрекеттен кейінгі 174 саны.",
+    "ex": "232 → 174 → 87 дәптер қалды.",
+    "solution": "232 → 174 → 87 дәптер қалды.",
+    "unit": "дәптер",
+    "meta": {
+      "formula": "whole-two-stage",
+      "params": {
+        "base": 232,
+        "numerator1": 1,
+        "denominator1": 4,
+        "numerator2": 1,
+        "denominator2": 2
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l2-016",
+    "grade": 5,
+    "topic": "whole",
+    "level": 2,
+    "type": "number",
+    "q": "450 дәптердің 1/5 бөлігі, кейін қалғанының 1/3 бөлігі берілді. Неше дәптер қалды?",
+    "a": 240,
+    "answer": 240,
+    "hint": "Екінші бөлшектің бүтіні — бірінші әрекеттен кейінгі 360 саны.",
+    "ex": "450 → 360 → 240 дәптер қалды.",
+    "solution": "450 → 360 → 240 дәптер қалды.",
+    "unit": "дәптер",
+    "meta": {
+      "formula": "whole-two-stage",
+      "params": {
+        "base": 450,
+        "numerator1": 1,
+        "denominator1": 5,
+        "numerator2": 1,
+        "denominator2": 3
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l2-017",
+    "grade": 5,
+    "topic": "whole",
+    "level": 2,
+    "type": "number",
+    "q": "248 дәптердің 1/2 бөлігі, кейін қалғанының 1/4 бөлігі берілді. Неше дәптер қалды?",
+    "a": 93,
+    "answer": 93,
+    "hint": "Екінші бөлшектің бүтіні — бірінші әрекеттен кейінгі 124 саны.",
+    "ex": "248 → 124 → 93 дәптер қалды.",
+    "solution": "248 → 124 → 93 дәптер қалды.",
+    "unit": "дәптер",
+    "meta": {
+      "formula": "whole-two-stage",
+      "params": {
+        "base": 248,
+        "numerator1": 1,
+        "denominator1": 2,
+        "numerator2": 1,
+        "denominator2": 4
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l2-018",
+    "grade": 5,
+    "topic": "whole",
+    "level": 2,
+    "type": "number",
+    "q": "480 дәптердің 1/3 бөлігі, кейін қалғанының 1/5 бөлігі берілді. Неше дәптер қалды?",
+    "a": 256,
+    "answer": 256,
+    "hint": "Екінші бөлшектің бүтіні — бірінші әрекеттен кейінгі 320 саны.",
+    "ex": "480 → 320 → 256 дәптер қалды.",
+    "solution": "480 → 320 → 256 дәптер қалды.",
+    "unit": "дәптер",
+    "meta": {
+      "formula": "whole-two-stage",
+      "params": {
+        "base": 480,
+        "numerator1": 1,
+        "denominator1": 3,
+        "numerator2": 1,
+        "denominator2": 5
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l2-019",
+    "grade": 5,
+    "topic": "whole",
+    "level": 2,
+    "type": "number",
+    "q": "264 дәптердің 2/4 бөлігі, кейін қалғанының 1/2 бөлігі берілді. Неше дәптер қалды?",
+    "a": 66,
+    "answer": 66,
+    "hint": "Екінші бөлшектің бүтіні — бірінші әрекеттен кейінгі 132 саны.",
+    "ex": "264 → 132 → 66 дәптер қалды.",
+    "solution": "264 → 132 → 66 дәптер қалды.",
+    "unit": "дәптер",
+    "meta": {
+      "formula": "whole-two-stage",
+      "params": {
+        "base": 264,
+        "numerator1": 2,
+        "denominator1": 4,
+        "numerator2": 1,
+        "denominator2": 2
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l2-020",
+    "grade": 5,
+    "topic": "whole",
+    "level": 2,
+    "type": "number",
+    "q": "510 дәптердің 1/5 бөлігі, кейін қалғанының 1/3 бөлігі берілді. Неше дәптер қалды?",
+    "a": 272,
+    "answer": 272,
+    "hint": "Екінші бөлшектің бүтіні — бірінші әрекеттен кейінгі 408 саны.",
+    "ex": "510 → 408 → 272 дәптер қалды.",
+    "solution": "510 → 408 → 272 дәптер қалды.",
+    "unit": "дәптер",
+    "meta": {
+      "formula": "whole-two-stage",
+      "params": {
+        "base": 510,
+        "numerator1": 1,
+        "denominator1": 5,
+        "numerator2": 1,
+        "denominator2": 3
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l2-021",
+    "grade": 5,
+    "topic": "whole",
+    "level": 2,
+    "type": "number",
+    "q": "280 дәптердің 1/2 бөлігі, кейін қалғанының 1/4 бөлігі берілді. Неше дәптер қалды?",
+    "a": 105,
+    "answer": 105,
+    "hint": "Екінші бөлшектің бүтіні — бірінші әрекеттен кейінгі 140 саны.",
+    "ex": "280 → 140 → 105 дәптер қалды.",
+    "solution": "280 → 140 → 105 дәптер қалды.",
+    "unit": "дәптер",
+    "meta": {
+      "formula": "whole-two-stage",
+      "params": {
+        "base": 280,
+        "numerator1": 1,
+        "denominator1": 2,
+        "numerator2": 1,
+        "denominator2": 4
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l2-022",
+    "grade": 5,
+    "topic": "whole",
+    "level": 2,
+    "type": "number",
+    "q": "540 дәптердің 1/3 бөлігі, кейін қалғанының 1/5 бөлігі берілді. Неше дәптер қалды?",
+    "a": 288,
+    "answer": 288,
+    "hint": "Екінші бөлшектің бүтіні — бірінші әрекеттен кейінгі 360 саны.",
+    "ex": "540 → 360 → 288 дәптер қалды.",
+    "solution": "540 → 360 → 288 дәптер қалды.",
+    "unit": "дәптер",
+    "meta": {
+      "formula": "whole-two-stage",
+      "params": {
+        "base": 540,
+        "numerator1": 1,
+        "denominator1": 3,
+        "numerator2": 1,
+        "denominator2": 5
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l2-023",
+    "grade": 5,
+    "topic": "whole",
+    "level": 2,
+    "type": "number",
+    "q": "296 дәптердің 3/4 бөлігі, кейін қалғанының 1/2 бөлігі берілді. Неше дәптер қалды?",
+    "a": 37,
+    "answer": 37,
+    "hint": "Екінші бөлшектің бүтіні — бірінші әрекеттен кейінгі 74 саны.",
+    "ex": "296 → 74 → 37 дәптер қалды.",
+    "solution": "296 → 74 → 37 дәптер қалды.",
+    "unit": "дәптер",
+    "meta": {
+      "formula": "whole-two-stage",
+      "params": {
+        "base": 296,
+        "numerator1": 3,
+        "denominator1": 4,
+        "numerator2": 1,
+        "denominator2": 2
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l2-024",
+    "grade": 5,
+    "topic": "whole",
+    "level": 2,
+    "type": "number",
+    "q": "570 дәптердің 1/5 бөлігі, кейін қалғанының 1/3 бөлігі берілді. Неше дәптер қалды?",
+    "a": 304,
+    "answer": 304,
+    "hint": "Екінші бөлшектің бүтіні — бірінші әрекеттен кейінгі 456 саны.",
+    "ex": "570 → 456 → 304 дәптер қалды.",
+    "solution": "570 → 456 → 304 дәптер қалды.",
+    "unit": "дәптер",
+    "meta": {
+      "formula": "whole-two-stage",
+      "params": {
+        "base": 570,
+        "numerator1": 1,
+        "denominator1": 5,
+        "numerator2": 1,
+        "denominator2": 3
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l2-025",
+    "grade": 5,
+    "topic": "whole",
+    "level": 2,
+    "type": "number",
+    "q": "312 дәптердің 1/2 бөлігі, кейін қалғанының 1/4 бөлігі берілді. Неше дәптер қалды?",
+    "a": 117,
+    "answer": 117,
+    "hint": "Екінші бөлшектің бүтіні — бірінші әрекеттен кейінгі 156 саны.",
+    "ex": "312 → 156 → 117 дәптер қалды.",
+    "solution": "312 → 156 → 117 дәптер қалды.",
+    "unit": "дәптер",
+    "meta": {
+      "formula": "whole-two-stage",
+      "params": {
+        "base": 312,
+        "numerator1": 1,
+        "denominator1": 2,
+        "numerator2": 1,
+        "denominator2": 4
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l2-026",
+    "grade": 5,
+    "topic": "whole",
+    "level": 2,
+    "type": "number",
+    "q": "600 дәптердің 1/3 бөлігі, кейін қалғанының 1/5 бөлігі берілді. Неше дәптер қалды?",
+    "a": 320,
+    "answer": 320,
+    "hint": "Екінші бөлшектің бүтіні — бірінші әрекеттен кейінгі 400 саны.",
+    "ex": "600 → 400 → 320 дәптер қалды.",
+    "solution": "600 → 400 → 320 дәптер қалды.",
+    "unit": "дәптер",
+    "meta": {
+      "formula": "whole-two-stage",
+      "params": {
+        "base": 600,
+        "numerator1": 1,
+        "denominator1": 3,
+        "numerator2": 1,
+        "denominator2": 5
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l2-027",
+    "grade": 5,
+    "topic": "whole",
+    "level": 2,
+    "type": "number",
+    "q": "328 дәптердің 1/4 бөлігі, кейін қалғанының 1/2 бөлігі берілді. Неше дәптер қалды?",
+    "a": 123,
+    "answer": 123,
+    "hint": "Екінші бөлшектің бүтіні — бірінші әрекеттен кейінгі 246 саны.",
+    "ex": "328 → 246 → 123 дәптер қалды.",
+    "solution": "328 → 246 → 123 дәптер қалды.",
+    "unit": "дәптер",
+    "meta": {
+      "formula": "whole-two-stage",
+      "params": {
+        "base": 328,
+        "numerator1": 1,
+        "denominator1": 4,
+        "numerator2": 1,
+        "denominator2": 2
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l2-028",
+    "grade": 5,
+    "topic": "whole",
+    "level": 2,
+    "type": "number",
+    "q": "630 дәптердің 1/5 бөлігі, кейін қалғанының 1/3 бөлігі берілді. Неше дәптер қалды?",
+    "a": 336,
+    "answer": 336,
+    "hint": "Екінші бөлшектің бүтіні — бірінші әрекеттен кейінгі 504 саны.",
+    "ex": "630 → 504 → 336 дәптер қалды.",
+    "solution": "630 → 504 → 336 дәптер қалды.",
+    "unit": "дәптер",
+    "meta": {
+      "formula": "whole-two-stage",
+      "params": {
+        "base": 630,
+        "numerator1": 1,
+        "denominator1": 5,
+        "numerator2": 1,
+        "denominator2": 3
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l2-029",
+    "grade": 5,
+    "topic": "whole",
+    "level": 2,
+    "type": "number",
+    "q": "344 дәптердің 1/2 бөлігі, кейін қалғанының 1/4 бөлігі берілді. Неше дәптер қалды?",
+    "a": 129,
+    "answer": 129,
+    "hint": "Екінші бөлшектің бүтіні — бірінші әрекеттен кейінгі 172 саны.",
+    "ex": "344 → 172 → 129 дәптер қалды.",
+    "solution": "344 → 172 → 129 дәптер қалды.",
+    "unit": "дәптер",
+    "meta": {
+      "formula": "whole-two-stage",
+      "params": {
+        "base": 344,
+        "numerator1": 1,
+        "denominator1": 2,
+        "numerator2": 1,
+        "denominator2": 4
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l2-030",
+    "grade": 5,
+    "topic": "whole",
+    "level": 2,
+    "type": "number",
+    "q": "660 дәптердің 1/3 бөлігі, кейін қалғанының 1/5 бөлігі берілді. Неше дәптер қалды?",
+    "a": 352,
+    "answer": 352,
+    "hint": "Екінші бөлшектің бүтіні — бірінші әрекеттен кейінгі 440 саны.",
+    "ex": "660 → 440 → 352 дәптер қалды.",
+    "solution": "660 → 440 → 352 дәптер қалды.",
+    "unit": "дәптер",
+    "meta": {
+      "formula": "whole-two-stage",
+      "params": {
+        "base": 660,
+        "numerator1": 1,
+        "denominator1": 3,
+        "numerator2": 1,
+        "denominator2": 5
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l2-031",
+    "grade": 5,
+    "topic": "whole",
+    "level": 2,
+    "type": "number",
+    "q": "360 дәптердің 2/4 бөлігі, кейін қалғанының 1/2 бөлігі берілді. Неше дәптер қалды?",
+    "a": 90,
+    "answer": 90,
+    "hint": "Екінші бөлшектің бүтіні — бірінші әрекеттен кейінгі 180 саны.",
+    "ex": "360 → 180 → 90 дәптер қалды.",
+    "solution": "360 → 180 → 90 дәптер қалды.",
+    "unit": "дәптер",
+    "meta": {
+      "formula": "whole-two-stage",
+      "params": {
+        "base": 360,
+        "numerator1": 2,
+        "denominator1": 4,
+        "numerator2": 1,
+        "denominator2": 2
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l2-032",
+    "grade": 5,
+    "topic": "whole",
+    "level": 2,
+    "type": "number",
+    "q": "690 дәптердің 1/5 бөлігі, кейін қалғанының 1/3 бөлігі берілді. Неше дәптер қалды?",
+    "a": 368,
+    "answer": 368,
+    "hint": "Екінші бөлшектің бүтіні — бірінші әрекеттен кейінгі 552 саны.",
+    "ex": "690 → 552 → 368 дәптер қалды.",
+    "solution": "690 → 552 → 368 дәптер қалды.",
+    "unit": "дәптер",
+    "meta": {
+      "formula": "whole-two-stage",
+      "params": {
+        "base": 690,
+        "numerator1": 1,
+        "denominator1": 5,
+        "numerator2": 1,
+        "denominator2": 3
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l2-033",
+    "grade": 5,
+    "topic": "whole",
+    "level": 2,
+    "type": "number",
+    "q": "376 дәптердің 1/2 бөлігі, кейін қалғанының 1/4 бөлігі берілді. Неше дәптер қалды?",
+    "a": 141,
+    "answer": 141,
+    "hint": "Екінші бөлшектің бүтіні — бірінші әрекеттен кейінгі 188 саны.",
+    "ex": "376 → 188 → 141 дәптер қалды.",
+    "solution": "376 → 188 → 141 дәптер қалды.",
+    "unit": "дәптер",
+    "meta": {
+      "formula": "whole-two-stage",
+      "params": {
+        "base": 376,
+        "numerator1": 1,
+        "denominator1": 2,
+        "numerator2": 1,
+        "denominator2": 4
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l2-034",
+    "grade": 5,
+    "topic": "whole",
+    "level": 2,
+    "type": "number",
+    "q": "720 дәптердің 1/3 бөлігі, кейін қалғанының 1/5 бөлігі берілді. Неше дәптер қалды?",
+    "a": 384,
+    "answer": 384,
+    "hint": "Екінші бөлшектің бүтіні — бірінші әрекеттен кейінгі 480 саны.",
+    "ex": "720 → 480 → 384 дәптер қалды.",
+    "solution": "720 → 480 → 384 дәптер қалды.",
+    "unit": "дәптер",
+    "meta": {
+      "formula": "whole-two-stage",
+      "params": {
+        "base": 720,
+        "numerator1": 1,
+        "denominator1": 3,
+        "numerator2": 1,
+        "denominator2": 5
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l2-035",
+    "grade": 5,
+    "topic": "whole",
+    "level": 2,
+    "type": "number",
+    "q": "392 дәптердің 3/4 бөлігі, кейін қалғанының 1/2 бөлігі берілді. Неше дәптер қалды?",
+    "a": 49,
+    "answer": 49,
+    "hint": "Екінші бөлшектің бүтіні — бірінші әрекеттен кейінгі 98 саны.",
+    "ex": "392 → 98 → 49 дәптер қалды.",
+    "solution": "392 → 98 → 49 дәптер қалды.",
+    "unit": "дәптер",
+    "meta": {
+      "formula": "whole-two-stage",
+      "params": {
+        "base": 392,
+        "numerator1": 3,
+        "denominator1": 4,
+        "numerator2": 1,
+        "denominator2": 2
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l2-036",
+    "grade": 5,
+    "topic": "whole",
+    "level": 2,
+    "type": "number",
+    "q": "750 дәптердің 1/5 бөлігі, кейін қалғанының 1/3 бөлігі берілді. Неше дәптер қалды?",
+    "a": 400,
+    "answer": 400,
+    "hint": "Екінші бөлшектің бүтіні — бірінші әрекеттен кейінгі 600 саны.",
+    "ex": "750 → 600 → 400 дәптер қалды.",
+    "solution": "750 → 600 → 400 дәптер қалды.",
+    "unit": "дәптер",
+    "meta": {
+      "formula": "whole-two-stage",
+      "params": {
+        "base": 750,
+        "numerator1": 1,
+        "denominator1": 5,
+        "numerator2": 1,
+        "denominator2": 3
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l2-037",
+    "grade": 5,
+    "topic": "whole",
+    "level": 2,
+    "type": "number",
+    "q": "408 дәптердің 1/2 бөлігі, кейін қалғанының 1/4 бөлігі берілді. Неше дәптер қалды?",
+    "a": 153,
+    "answer": 153,
+    "hint": "Екінші бөлшектің бүтіні — бірінші әрекеттен кейінгі 204 саны.",
+    "ex": "408 → 204 → 153 дәптер қалды.",
+    "solution": "408 → 204 → 153 дәптер қалды.",
+    "unit": "дәптер",
+    "meta": {
+      "formula": "whole-two-stage",
+      "params": {
+        "base": 408,
+        "numerator1": 1,
+        "denominator1": 2,
+        "numerator2": 1,
+        "denominator2": 4
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l2-038",
+    "grade": 5,
+    "topic": "whole",
+    "level": 2,
+    "type": "number",
+    "q": "780 дәптердің 1/3 бөлігі, кейін қалғанының 1/5 бөлігі берілді. Неше дәптер қалды?",
+    "a": 416,
+    "answer": 416,
+    "hint": "Екінші бөлшектің бүтіні — бірінші әрекеттен кейінгі 520 саны.",
+    "ex": "780 → 520 → 416 дәптер қалды.",
+    "solution": "780 → 520 → 416 дәптер қалды.",
+    "unit": "дәптер",
+    "meta": {
+      "formula": "whole-two-stage",
+      "params": {
+        "base": 780,
+        "numerator1": 1,
+        "denominator1": 3,
+        "numerator2": 1,
+        "denominator2": 5
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l2-039",
+    "grade": 5,
+    "topic": "whole",
+    "level": 2,
+    "type": "number",
+    "q": "424 дәптердің 1/4 бөлігі, кейін қалғанының 1/2 бөлігі берілді. Неше дәптер қалды?",
+    "a": 159,
+    "answer": 159,
+    "hint": "Екінші бөлшектің бүтіні — бірінші әрекеттен кейінгі 318 саны.",
+    "ex": "424 → 318 → 159 дәптер қалды.",
+    "solution": "424 → 318 → 159 дәптер қалды.",
+    "unit": "дәптер",
+    "meta": {
+      "formula": "whole-two-stage",
+      "params": {
+        "base": 424,
+        "numerator1": 1,
+        "denominator1": 4,
+        "numerator2": 1,
+        "denominator2": 2
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l2-040",
+    "grade": 5,
+    "topic": "whole",
+    "level": 2,
+    "type": "number",
+    "q": "810 дәптердің 1/5 бөлігі, кейін қалғанының 1/3 бөлігі берілді. Неше дәптер қалды?",
+    "a": 432,
+    "answer": 432,
+    "hint": "Екінші бөлшектің бүтіні — бірінші әрекеттен кейінгі 648 саны.",
+    "ex": "810 → 648 → 432 дәптер қалды.",
+    "solution": "810 → 648 → 432 дәптер қалды.",
+    "unit": "дәптер",
+    "meta": {
+      "formula": "whole-two-stage",
+      "params": {
+        "base": 810,
+        "numerator1": 1,
+        "denominator1": 5,
+        "numerator2": 1,
+        "denominator2": 3
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l2-041",
+    "grade": 5,
+    "topic": "whole",
+    "level": 2,
+    "type": "number",
+    "q": "440 дәптердің 1/2 бөлігі, кейін қалғанының 1/4 бөлігі берілді. Неше дәптер қалды?",
+    "a": 165,
+    "answer": 165,
+    "hint": "Екінші бөлшектің бүтіні — бірінші әрекеттен кейінгі 220 саны.",
+    "ex": "440 → 220 → 165 дәптер қалды.",
+    "solution": "440 → 220 → 165 дәптер қалды.",
+    "unit": "дәптер",
+    "meta": {
+      "formula": "whole-two-stage",
+      "params": {
+        "base": 440,
+        "numerator1": 1,
+        "denominator1": 2,
+        "numerator2": 1,
+        "denominator2": 4
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l2-042",
+    "grade": 5,
+    "topic": "whole",
+    "level": 2,
+    "type": "number",
+    "q": "840 дәптердің 1/3 бөлігі, кейін қалғанының 1/5 бөлігі берілді. Неше дәптер қалды?",
+    "a": 448,
+    "answer": 448,
+    "hint": "Екінші бөлшектің бүтіні — бірінші әрекеттен кейінгі 560 саны.",
+    "ex": "840 → 560 → 448 дәптер қалды.",
+    "solution": "840 → 560 → 448 дәптер қалды.",
+    "unit": "дәптер",
+    "meta": {
+      "formula": "whole-two-stage",
+      "params": {
+        "base": 840,
+        "numerator1": 1,
+        "denominator1": 3,
+        "numerator2": 1,
+        "denominator2": 5
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l2-043",
+    "grade": 5,
+    "topic": "whole",
+    "level": 2,
+    "type": "number",
+    "q": "456 дәптердің 2/4 бөлігі, кейін қалғанының 1/2 бөлігі берілді. Неше дәптер қалды?",
+    "a": 114,
+    "answer": 114,
+    "hint": "Екінші бөлшектің бүтіні — бірінші әрекеттен кейінгі 228 саны.",
+    "ex": "456 → 228 → 114 дәптер қалды.",
+    "solution": "456 → 228 → 114 дәптер қалды.",
+    "unit": "дәптер",
+    "meta": {
+      "formula": "whole-two-stage",
+      "params": {
+        "base": 456,
+        "numerator1": 2,
+        "denominator1": 4,
+        "numerator2": 1,
+        "denominator2": 2
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l2-044",
+    "grade": 5,
+    "topic": "whole",
+    "level": 2,
+    "type": "number",
+    "q": "870 дәптердің 1/5 бөлігі, кейін қалғанының 1/3 бөлігі берілді. Неше дәптер қалды?",
+    "a": 464,
+    "answer": 464,
+    "hint": "Екінші бөлшектің бүтіні — бірінші әрекеттен кейінгі 696 саны.",
+    "ex": "870 → 696 → 464 дәптер қалды.",
+    "solution": "870 → 696 → 464 дәптер қалды.",
+    "unit": "дәптер",
+    "meta": {
+      "formula": "whole-two-stage",
+      "params": {
+        "base": 870,
+        "numerator1": 1,
+        "denominator1": 5,
+        "numerator2": 1,
+        "denominator2": 3
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l2-045",
+    "grade": 5,
+    "topic": "whole",
+    "level": 2,
+    "type": "number",
+    "q": "472 дәптердің 1/2 бөлігі, кейін қалғанының 1/4 бөлігі берілді. Неше дәптер қалды?",
+    "a": 177,
+    "answer": 177,
+    "hint": "Екінші бөлшектің бүтіні — бірінші әрекеттен кейінгі 236 саны.",
+    "ex": "472 → 236 → 177 дәптер қалды.",
+    "solution": "472 → 236 → 177 дәптер қалды.",
+    "unit": "дәптер",
+    "meta": {
+      "formula": "whole-two-stage",
+      "params": {
+        "base": 472,
+        "numerator1": 1,
+        "denominator1": 2,
+        "numerator2": 1,
+        "denominator2": 4
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l2-046",
+    "grade": 5,
+    "topic": "whole",
+    "level": 2,
+    "type": "number",
+    "q": "900 дәптердің 1/3 бөлігі, кейін қалғанының 1/5 бөлігі берілді. Неше дәптер қалды?",
+    "a": 480,
+    "answer": 480,
+    "hint": "Екінші бөлшектің бүтіні — бірінші әрекеттен кейінгі 600 саны.",
+    "ex": "900 → 600 → 480 дәптер қалды.",
+    "solution": "900 → 600 → 480 дәптер қалды.",
+    "unit": "дәптер",
+    "meta": {
+      "formula": "whole-two-stage",
+      "params": {
+        "base": 900,
+        "numerator1": 1,
+        "denominator1": 3,
+        "numerator2": 1,
+        "denominator2": 5
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l2-047",
+    "grade": 5,
+    "topic": "whole",
+    "level": 2,
+    "type": "number",
+    "q": "488 дәптердің 3/4 бөлігі, кейін қалғанының 1/2 бөлігі берілді. Неше дәптер қалды?",
+    "a": 61,
+    "answer": 61,
+    "hint": "Екінші бөлшектің бүтіні — бірінші әрекеттен кейінгі 122 саны.",
+    "ex": "488 → 122 → 61 дәптер қалды.",
+    "solution": "488 → 122 → 61 дәптер қалды.",
+    "unit": "дәптер",
+    "meta": {
+      "formula": "whole-two-stage",
+      "params": {
+        "base": 488,
+        "numerator1": 3,
+        "denominator1": 4,
+        "numerator2": 1,
+        "denominator2": 2
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l2-048",
+    "grade": 5,
+    "topic": "whole",
+    "level": 2,
+    "type": "number",
+    "q": "930 дәптердің 1/5 бөлігі, кейін қалғанының 1/3 бөлігі берілді. Неше дәптер қалды?",
+    "a": 496,
+    "answer": 496,
+    "hint": "Екінші бөлшектің бүтіні — бірінші әрекеттен кейінгі 744 саны.",
+    "ex": "930 → 744 → 496 дәптер қалды.",
+    "solution": "930 → 744 → 496 дәптер қалды.",
+    "unit": "дәптер",
+    "meta": {
+      "formula": "whole-two-stage",
+      "params": {
+        "base": 930,
+        "numerator1": 1,
+        "denominator1": 5,
+        "numerator2": 1,
+        "denominator2": 3
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l2-049",
+    "grade": 5,
+    "topic": "whole",
+    "level": 2,
+    "type": "number",
+    "q": "504 дәптердің 1/2 бөлігі, кейін қалғанының 1/4 бөлігі берілді. Неше дәптер қалды?",
+    "a": 189,
+    "answer": 189,
+    "hint": "Екінші бөлшектің бүтіні — бірінші әрекеттен кейінгі 252 саны.",
+    "ex": "504 → 252 → 189 дәптер қалды.",
+    "solution": "504 → 252 → 189 дәптер қалды.",
+    "unit": "дәптер",
+    "meta": {
+      "formula": "whole-two-stage",
+      "params": {
+        "base": 504,
+        "numerator1": 1,
+        "denominator1": 2,
+        "numerator2": 1,
+        "denominator2": 4
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l2-050",
+    "grade": 5,
+    "topic": "whole",
+    "level": 2,
+    "type": "number",
+    "q": "960 дәптердің 1/3 бөлігі, кейін қалғанының 1/5 бөлігі берілді. Неше дәптер қалды?",
+    "a": 512,
+    "answer": 512,
+    "hint": "Екінші бөлшектің бүтіні — бірінші әрекеттен кейінгі 640 саны.",
+    "ex": "960 → 640 → 512 дәптер қалды.",
+    "solution": "960 → 640 → 512 дәптер қалды.",
+    "unit": "дәптер",
+    "meta": {
+      "formula": "whole-two-stage",
+      "params": {
+        "base": 960,
+        "numerator1": 1,
+        "denominator1": 3,
+        "numerator2": 1,
+        "denominator2": 5
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l3-001",
+    "grade": 5,
+    "topic": "whole",
+    "level": 3,
+    "type": "number",
+    "q": "Санның 1/2 бөлігі, кейін қалғанының 1/4 бөлігі алынды. Соңында 45 қалды. Бастапқы санды тап.",
+    "a": 120,
+    "answer": 120,
+    "hint": "Әр кезеңді кері ретпен қалпына келтір.",
+    "ex": "Кері тексеру: 120 → 60 → 45. Бастапқы сан 120.",
+    "solution": "Кері тексеру: 120 → 60 → 45. Бастапқы сан 120.",
+    "unit": "",
+    "meta": {
+      "formula": "whole-reverse-two-stage",
+      "params": {
+        "final": 45,
+        "numerator1": 1,
+        "denominator1": 2,
+        "numerator2": 1,
+        "denominator2": 4
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l3-002",
+    "grade": 5,
+    "topic": "whole",
+    "level": 3,
+    "type": "number",
+    "q": "Санның 1/3 бөлігі, кейін қалғанының 1/5 бөлігі алынды. Соңында 128 қалды. Бастапқы санды тап.",
+    "a": 240,
+    "answer": 240,
+    "hint": "Әр кезеңді кері ретпен қалпына келтір.",
+    "ex": "Кері тексеру: 240 → 160 → 128. Бастапқы сан 240.",
+    "solution": "Кері тексеру: 240 → 160 → 128. Бастапқы сан 240.",
+    "unit": "",
+    "meta": {
+      "formula": "whole-reverse-two-stage",
+      "params": {
+        "final": 128,
+        "numerator1": 1,
+        "denominator1": 3,
+        "numerator2": 1,
+        "denominator2": 5
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l3-003",
+    "grade": 5,
+    "topic": "whole",
+    "level": 3,
+    "type": "number",
+    "q": "Санның 1/4 бөлігі, кейін қалғанының 1/2 бөлігі алынды. Соңында 51 қалды. Бастапқы санды тап.",
+    "a": 136,
+    "answer": 136,
+    "hint": "Әр кезеңді кері ретпен қалпына келтір.",
+    "ex": "Кері тексеру: 136 → 102 → 51. Бастапқы сан 136.",
+    "solution": "Кері тексеру: 136 → 102 → 51. Бастапқы сан 136.",
+    "unit": "",
+    "meta": {
+      "formula": "whole-reverse-two-stage",
+      "params": {
+        "final": 51,
+        "numerator1": 1,
+        "denominator1": 4,
+        "numerator2": 1,
+        "denominator2": 2
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l3-004",
+    "grade": 5,
+    "topic": "whole",
+    "level": 3,
+    "type": "number",
+    "q": "Санның 1/5 бөлігі, кейін қалғанының 1/3 бөлігі алынды. Соңында 144 қалды. Бастапқы санды тап.",
+    "a": 270,
+    "answer": 270,
+    "hint": "Әр кезеңді кері ретпен қалпына келтір.",
+    "ex": "Кері тексеру: 270 → 216 → 144. Бастапқы сан 270.",
+    "solution": "Кері тексеру: 270 → 216 → 144. Бастапқы сан 270.",
+    "unit": "",
+    "meta": {
+      "formula": "whole-reverse-two-stage",
+      "params": {
+        "final": 144,
+        "numerator1": 1,
+        "denominator1": 5,
+        "numerator2": 1,
+        "denominator2": 3
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l3-005",
+    "grade": 5,
+    "topic": "whole",
+    "level": 3,
+    "type": "number",
+    "q": "Санның 1/2 бөлігі, кейін қалғанының 1/4 бөлігі алынды. Соңында 57 қалды. Бастапқы санды тап.",
+    "a": 152,
+    "answer": 152,
+    "hint": "Әр кезеңді кері ретпен қалпына келтір.",
+    "ex": "Кері тексеру: 152 → 76 → 57. Бастапқы сан 152.",
+    "solution": "Кері тексеру: 152 → 76 → 57. Бастапқы сан 152.",
+    "unit": "",
+    "meta": {
+      "formula": "whole-reverse-two-stage",
+      "params": {
+        "final": 57,
+        "numerator1": 1,
+        "denominator1": 2,
+        "numerator2": 1,
+        "denominator2": 4
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l3-006",
+    "grade": 5,
+    "topic": "whole",
+    "level": 3,
+    "type": "number",
+    "q": "Санның 1/3 бөлігі, кейін қалғанының 1/5 бөлігі алынды. Соңында 160 қалды. Бастапқы санды тап.",
+    "a": 300,
+    "answer": 300,
+    "hint": "Әр кезеңді кері ретпен қалпына келтір.",
+    "ex": "Кері тексеру: 300 → 200 → 160. Бастапқы сан 300.",
+    "solution": "Кері тексеру: 300 → 200 → 160. Бастапқы сан 300.",
+    "unit": "",
+    "meta": {
+      "formula": "whole-reverse-two-stage",
+      "params": {
+        "final": 160,
+        "numerator1": 1,
+        "denominator1": 3,
+        "numerator2": 1,
+        "denominator2": 5
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l3-007",
+    "grade": 5,
+    "topic": "whole",
+    "level": 3,
+    "type": "number",
+    "q": "Санның 2/4 бөлігі, кейін қалғанының 1/2 бөлігі алынды. Соңында 42 қалды. Бастапқы санды тап.",
+    "a": 168,
+    "answer": 168,
+    "hint": "Әр кезеңді кері ретпен қалпына келтір.",
+    "ex": "Кері тексеру: 168 → 84 → 42. Бастапқы сан 168.",
+    "solution": "Кері тексеру: 168 → 84 → 42. Бастапқы сан 168.",
+    "unit": "",
+    "meta": {
+      "formula": "whole-reverse-two-stage",
+      "params": {
+        "final": 42,
+        "numerator1": 2,
+        "denominator1": 4,
+        "numerator2": 1,
+        "denominator2": 2
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l3-008",
+    "grade": 5,
+    "topic": "whole",
+    "level": 3,
+    "type": "number",
+    "q": "Санның 1/5 бөлігі, кейін қалғанының 1/3 бөлігі алынды. Соңында 176 қалды. Бастапқы санды тап.",
+    "a": 330,
+    "answer": 330,
+    "hint": "Әр кезеңді кері ретпен қалпына келтір.",
+    "ex": "Кері тексеру: 330 → 264 → 176. Бастапқы сан 330.",
+    "solution": "Кері тексеру: 330 → 264 → 176. Бастапқы сан 330.",
+    "unit": "",
+    "meta": {
+      "formula": "whole-reverse-two-stage",
+      "params": {
+        "final": 176,
+        "numerator1": 1,
+        "denominator1": 5,
+        "numerator2": 1,
+        "denominator2": 3
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l3-009",
+    "grade": 5,
+    "topic": "whole",
+    "level": 3,
+    "type": "number",
+    "q": "Санның 1/2 бөлігі, кейін қалғанының 1/4 бөлігі алынды. Соңында 69 қалды. Бастапқы санды тап.",
+    "a": 184,
+    "answer": 184,
+    "hint": "Әр кезеңді кері ретпен қалпына келтір.",
+    "ex": "Кері тексеру: 184 → 92 → 69. Бастапқы сан 184.",
+    "solution": "Кері тексеру: 184 → 92 → 69. Бастапқы сан 184.",
+    "unit": "",
+    "meta": {
+      "formula": "whole-reverse-two-stage",
+      "params": {
+        "final": 69,
+        "numerator1": 1,
+        "denominator1": 2,
+        "numerator2": 1,
+        "denominator2": 4
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l3-010",
+    "grade": 5,
+    "topic": "whole",
+    "level": 3,
+    "type": "number",
+    "q": "Санның 1/3 бөлігі, кейін қалғанының 1/5 бөлігі алынды. Соңында 192 қалды. Бастапқы санды тап.",
+    "a": 360,
+    "answer": 360,
+    "hint": "Әр кезеңді кері ретпен қалпына келтір.",
+    "ex": "Кері тексеру: 360 → 240 → 192. Бастапқы сан 360.",
+    "solution": "Кері тексеру: 360 → 240 → 192. Бастапқы сан 360.",
+    "unit": "",
+    "meta": {
+      "formula": "whole-reverse-two-stage",
+      "params": {
+        "final": 192,
+        "numerator1": 1,
+        "denominator1": 3,
+        "numerator2": 1,
+        "denominator2": 5
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l3-011",
+    "grade": 5,
+    "topic": "whole",
+    "level": 3,
+    "type": "number",
+    "q": "Санның 3/4 бөлігі, кейін қалғанының 1/2 бөлігі алынды. Соңында 25 қалды. Бастапқы санды тап.",
+    "a": 200,
+    "answer": 200,
+    "hint": "Әр кезеңді кері ретпен қалпына келтір.",
+    "ex": "Кері тексеру: 200 → 50 → 25. Бастапқы сан 200.",
+    "solution": "Кері тексеру: 200 → 50 → 25. Бастапқы сан 200.",
+    "unit": "",
+    "meta": {
+      "formula": "whole-reverse-two-stage",
+      "params": {
+        "final": 25,
+        "numerator1": 3,
+        "denominator1": 4,
+        "numerator2": 1,
+        "denominator2": 2
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l3-012",
+    "grade": 5,
+    "topic": "whole",
+    "level": 3,
+    "type": "number",
+    "q": "Санның 1/5 бөлігі, кейін қалғанының 1/3 бөлігі алынды. Соңында 208 қалды. Бастапқы санды тап.",
+    "a": 390,
+    "answer": 390,
+    "hint": "Әр кезеңді кері ретпен қалпына келтір.",
+    "ex": "Кері тексеру: 390 → 312 → 208. Бастапқы сан 390.",
+    "solution": "Кері тексеру: 390 → 312 → 208. Бастапқы сан 390.",
+    "unit": "",
+    "meta": {
+      "formula": "whole-reverse-two-stage",
+      "params": {
+        "final": 208,
+        "numerator1": 1,
+        "denominator1": 5,
+        "numerator2": 1,
+        "denominator2": 3
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l3-013",
+    "grade": 5,
+    "topic": "whole",
+    "level": 3,
+    "type": "number",
+    "q": "Санның 1/2 бөлігі, кейін қалғанының 1/4 бөлігі алынды. Соңында 81 қалды. Бастапқы санды тап.",
+    "a": 216,
+    "answer": 216,
+    "hint": "Әр кезеңді кері ретпен қалпына келтір.",
+    "ex": "Кері тексеру: 216 → 108 → 81. Бастапқы сан 216.",
+    "solution": "Кері тексеру: 216 → 108 → 81. Бастапқы сан 216.",
+    "unit": "",
+    "meta": {
+      "formula": "whole-reverse-two-stage",
+      "params": {
+        "final": 81,
+        "numerator1": 1,
+        "denominator1": 2,
+        "numerator2": 1,
+        "denominator2": 4
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l3-014",
+    "grade": 5,
+    "topic": "whole",
+    "level": 3,
+    "type": "number",
+    "q": "Санның 1/3 бөлігі, кейін қалғанының 1/5 бөлігі алынды. Соңында 224 қалды. Бастапқы санды тап.",
+    "a": 420,
+    "answer": 420,
+    "hint": "Әр кезеңді кері ретпен қалпына келтір.",
+    "ex": "Кері тексеру: 420 → 280 → 224. Бастапқы сан 420.",
+    "solution": "Кері тексеру: 420 → 280 → 224. Бастапқы сан 420.",
+    "unit": "",
+    "meta": {
+      "formula": "whole-reverse-two-stage",
+      "params": {
+        "final": 224,
+        "numerator1": 1,
+        "denominator1": 3,
+        "numerator2": 1,
+        "denominator2": 5
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l3-015",
+    "grade": 5,
+    "topic": "whole",
+    "level": 3,
+    "type": "number",
+    "q": "Санның 1/4 бөлігі, кейін қалғанының 1/2 бөлігі алынды. Соңында 87 қалды. Бастапқы санды тап.",
+    "a": 232,
+    "answer": 232,
+    "hint": "Әр кезеңді кері ретпен қалпына келтір.",
+    "ex": "Кері тексеру: 232 → 174 → 87. Бастапқы сан 232.",
+    "solution": "Кері тексеру: 232 → 174 → 87. Бастапқы сан 232.",
+    "unit": "",
+    "meta": {
+      "formula": "whole-reverse-two-stage",
+      "params": {
+        "final": 87,
+        "numerator1": 1,
+        "denominator1": 4,
+        "numerator2": 1,
+        "denominator2": 2
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l3-016",
+    "grade": 5,
+    "topic": "whole",
+    "level": 3,
+    "type": "number",
+    "q": "Санның 1/5 бөлігі, кейін қалғанының 1/3 бөлігі алынды. Соңында 240 қалды. Бастапқы санды тап.",
+    "a": 450,
+    "answer": 450,
+    "hint": "Әр кезеңді кері ретпен қалпына келтір.",
+    "ex": "Кері тексеру: 450 → 360 → 240. Бастапқы сан 450.",
+    "solution": "Кері тексеру: 450 → 360 → 240. Бастапқы сан 450.",
+    "unit": "",
+    "meta": {
+      "formula": "whole-reverse-two-stage",
+      "params": {
+        "final": 240,
+        "numerator1": 1,
+        "denominator1": 5,
+        "numerator2": 1,
+        "denominator2": 3
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l3-017",
+    "grade": 5,
+    "topic": "whole",
+    "level": 3,
+    "type": "number",
+    "q": "Санның 1/2 бөлігі, кейін қалғанының 1/4 бөлігі алынды. Соңында 93 қалды. Бастапқы санды тап.",
+    "a": 248,
+    "answer": 248,
+    "hint": "Әр кезеңді кері ретпен қалпына келтір.",
+    "ex": "Кері тексеру: 248 → 124 → 93. Бастапқы сан 248.",
+    "solution": "Кері тексеру: 248 → 124 → 93. Бастапқы сан 248.",
+    "unit": "",
+    "meta": {
+      "formula": "whole-reverse-two-stage",
+      "params": {
+        "final": 93,
+        "numerator1": 1,
+        "denominator1": 2,
+        "numerator2": 1,
+        "denominator2": 4
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l3-018",
+    "grade": 5,
+    "topic": "whole",
+    "level": 3,
+    "type": "number",
+    "q": "Санның 1/3 бөлігі, кейін қалғанының 1/5 бөлігі алынды. Соңында 256 қалды. Бастапқы санды тап.",
+    "a": 480,
+    "answer": 480,
+    "hint": "Әр кезеңді кері ретпен қалпына келтір.",
+    "ex": "Кері тексеру: 480 → 320 → 256. Бастапқы сан 480.",
+    "solution": "Кері тексеру: 480 → 320 → 256. Бастапқы сан 480.",
+    "unit": "",
+    "meta": {
+      "formula": "whole-reverse-two-stage",
+      "params": {
+        "final": 256,
+        "numerator1": 1,
+        "denominator1": 3,
+        "numerator2": 1,
+        "denominator2": 5
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l3-019",
+    "grade": 5,
+    "topic": "whole",
+    "level": 3,
+    "type": "number",
+    "q": "Санның 2/4 бөлігі, кейін қалғанының 1/2 бөлігі алынды. Соңында 66 қалды. Бастапқы санды тап.",
+    "a": 264,
+    "answer": 264,
+    "hint": "Әр кезеңді кері ретпен қалпына келтір.",
+    "ex": "Кері тексеру: 264 → 132 → 66. Бастапқы сан 264.",
+    "solution": "Кері тексеру: 264 → 132 → 66. Бастапқы сан 264.",
+    "unit": "",
+    "meta": {
+      "formula": "whole-reverse-two-stage",
+      "params": {
+        "final": 66,
+        "numerator1": 2,
+        "denominator1": 4,
+        "numerator2": 1,
+        "denominator2": 2
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l3-020",
+    "grade": 5,
+    "topic": "whole",
+    "level": 3,
+    "type": "number",
+    "q": "Санның 1/5 бөлігі, кейін қалғанының 1/3 бөлігі алынды. Соңында 272 қалды. Бастапқы санды тап.",
+    "a": 510,
+    "answer": 510,
+    "hint": "Әр кезеңді кері ретпен қалпына келтір.",
+    "ex": "Кері тексеру: 510 → 408 → 272. Бастапқы сан 510.",
+    "solution": "Кері тексеру: 510 → 408 → 272. Бастапқы сан 510.",
+    "unit": "",
+    "meta": {
+      "formula": "whole-reverse-two-stage",
+      "params": {
+        "final": 272,
+        "numerator1": 1,
+        "denominator1": 5,
+        "numerator2": 1,
+        "denominator2": 3
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l3-021",
+    "grade": 5,
+    "topic": "whole",
+    "level": 3,
+    "type": "number",
+    "q": "Санның 1/2 бөлігі, кейін қалғанының 1/4 бөлігі алынды. Соңында 105 қалды. Бастапқы санды тап.",
+    "a": 280,
+    "answer": 280,
+    "hint": "Әр кезеңді кері ретпен қалпына келтір.",
+    "ex": "Кері тексеру: 280 → 140 → 105. Бастапқы сан 280.",
+    "solution": "Кері тексеру: 280 → 140 → 105. Бастапқы сан 280.",
+    "unit": "",
+    "meta": {
+      "formula": "whole-reverse-two-stage",
+      "params": {
+        "final": 105,
+        "numerator1": 1,
+        "denominator1": 2,
+        "numerator2": 1,
+        "denominator2": 4
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l3-022",
+    "grade": 5,
+    "topic": "whole",
+    "level": 3,
+    "type": "number",
+    "q": "Санның 1/3 бөлігі, кейін қалғанының 1/5 бөлігі алынды. Соңында 288 қалды. Бастапқы санды тап.",
+    "a": 540,
+    "answer": 540,
+    "hint": "Әр кезеңді кері ретпен қалпына келтір.",
+    "ex": "Кері тексеру: 540 → 360 → 288. Бастапқы сан 540.",
+    "solution": "Кері тексеру: 540 → 360 → 288. Бастапқы сан 540.",
+    "unit": "",
+    "meta": {
+      "formula": "whole-reverse-two-stage",
+      "params": {
+        "final": 288,
+        "numerator1": 1,
+        "denominator1": 3,
+        "numerator2": 1,
+        "denominator2": 5
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l3-023",
+    "grade": 5,
+    "topic": "whole",
+    "level": 3,
+    "type": "number",
+    "q": "Санның 3/4 бөлігі, кейін қалғанының 1/2 бөлігі алынды. Соңында 37 қалды. Бастапқы санды тап.",
+    "a": 296,
+    "answer": 296,
+    "hint": "Әр кезеңді кері ретпен қалпына келтір.",
+    "ex": "Кері тексеру: 296 → 74 → 37. Бастапқы сан 296.",
+    "solution": "Кері тексеру: 296 → 74 → 37. Бастапқы сан 296.",
+    "unit": "",
+    "meta": {
+      "formula": "whole-reverse-two-stage",
+      "params": {
+        "final": 37,
+        "numerator1": 3,
+        "denominator1": 4,
+        "numerator2": 1,
+        "denominator2": 2
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l3-024",
+    "grade": 5,
+    "topic": "whole",
+    "level": 3,
+    "type": "number",
+    "q": "Санның 1/5 бөлігі, кейін қалғанының 1/3 бөлігі алынды. Соңында 304 қалды. Бастапқы санды тап.",
+    "a": 570,
+    "answer": 570,
+    "hint": "Әр кезеңді кері ретпен қалпына келтір.",
+    "ex": "Кері тексеру: 570 → 456 → 304. Бастапқы сан 570.",
+    "solution": "Кері тексеру: 570 → 456 → 304. Бастапқы сан 570.",
+    "unit": "",
+    "meta": {
+      "formula": "whole-reverse-two-stage",
+      "params": {
+        "final": 304,
+        "numerator1": 1,
+        "denominator1": 5,
+        "numerator2": 1,
+        "denominator2": 3
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l3-025",
+    "grade": 5,
+    "topic": "whole",
+    "level": 3,
+    "type": "number",
+    "q": "Санның 1/2 бөлігі, кейін қалғанының 1/4 бөлігі алынды. Соңында 117 қалды. Бастапқы санды тап.",
+    "a": 312,
+    "answer": 312,
+    "hint": "Әр кезеңді кері ретпен қалпына келтір.",
+    "ex": "Кері тексеру: 312 → 156 → 117. Бастапқы сан 312.",
+    "solution": "Кері тексеру: 312 → 156 → 117. Бастапқы сан 312.",
+    "unit": "",
+    "meta": {
+      "formula": "whole-reverse-two-stage",
+      "params": {
+        "final": 117,
+        "numerator1": 1,
+        "denominator1": 2,
+        "numerator2": 1,
+        "denominator2": 4
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l3-026",
+    "grade": 5,
+    "topic": "whole",
+    "level": 3,
+    "type": "number",
+    "q": "Санның 1/3 бөлігі, кейін қалғанының 1/5 бөлігі алынды. Соңында 320 қалды. Бастапқы санды тап.",
+    "a": 600,
+    "answer": 600,
+    "hint": "Әр кезеңді кері ретпен қалпына келтір.",
+    "ex": "Кері тексеру: 600 → 400 → 320. Бастапқы сан 600.",
+    "solution": "Кері тексеру: 600 → 400 → 320. Бастапқы сан 600.",
+    "unit": "",
+    "meta": {
+      "formula": "whole-reverse-two-stage",
+      "params": {
+        "final": 320,
+        "numerator1": 1,
+        "denominator1": 3,
+        "numerator2": 1,
+        "denominator2": 5
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l3-027",
+    "grade": 5,
+    "topic": "whole",
+    "level": 3,
+    "type": "number",
+    "q": "Санның 1/4 бөлігі, кейін қалғанының 1/2 бөлігі алынды. Соңында 123 қалды. Бастапқы санды тап.",
+    "a": 328,
+    "answer": 328,
+    "hint": "Әр кезеңді кері ретпен қалпына келтір.",
+    "ex": "Кері тексеру: 328 → 246 → 123. Бастапқы сан 328.",
+    "solution": "Кері тексеру: 328 → 246 → 123. Бастапқы сан 328.",
+    "unit": "",
+    "meta": {
+      "formula": "whole-reverse-two-stage",
+      "params": {
+        "final": 123,
+        "numerator1": 1,
+        "denominator1": 4,
+        "numerator2": 1,
+        "denominator2": 2
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l3-028",
+    "grade": 5,
+    "topic": "whole",
+    "level": 3,
+    "type": "number",
+    "q": "Санның 1/5 бөлігі, кейін қалғанының 1/3 бөлігі алынды. Соңында 336 қалды. Бастапқы санды тап.",
+    "a": 630,
+    "answer": 630,
+    "hint": "Әр кезеңді кері ретпен қалпына келтір.",
+    "ex": "Кері тексеру: 630 → 504 → 336. Бастапқы сан 630.",
+    "solution": "Кері тексеру: 630 → 504 → 336. Бастапқы сан 630.",
+    "unit": "",
+    "meta": {
+      "formula": "whole-reverse-two-stage",
+      "params": {
+        "final": 336,
+        "numerator1": 1,
+        "denominator1": 5,
+        "numerator2": 1,
+        "denominator2": 3
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l3-029",
+    "grade": 5,
+    "topic": "whole",
+    "level": 3,
+    "type": "number",
+    "q": "Санның 1/2 бөлігі, кейін қалғанының 1/4 бөлігі алынды. Соңында 129 қалды. Бастапқы санды тап.",
+    "a": 344,
+    "answer": 344,
+    "hint": "Әр кезеңді кері ретпен қалпына келтір.",
+    "ex": "Кері тексеру: 344 → 172 → 129. Бастапқы сан 344.",
+    "solution": "Кері тексеру: 344 → 172 → 129. Бастапқы сан 344.",
+    "unit": "",
+    "meta": {
+      "formula": "whole-reverse-two-stage",
+      "params": {
+        "final": 129,
+        "numerator1": 1,
+        "denominator1": 2,
+        "numerator2": 1,
+        "denominator2": 4
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l3-030",
+    "grade": 5,
+    "topic": "whole",
+    "level": 3,
+    "type": "number",
+    "q": "Санның 1/3 бөлігі, кейін қалғанының 1/5 бөлігі алынды. Соңында 352 қалды. Бастапқы санды тап.",
+    "a": 660,
+    "answer": 660,
+    "hint": "Әр кезеңді кері ретпен қалпына келтір.",
+    "ex": "Кері тексеру: 660 → 440 → 352. Бастапқы сан 660.",
+    "solution": "Кері тексеру: 660 → 440 → 352. Бастапқы сан 660.",
+    "unit": "",
+    "meta": {
+      "formula": "whole-reverse-two-stage",
+      "params": {
+        "final": 352,
+        "numerator1": 1,
+        "denominator1": 3,
+        "numerator2": 1,
+        "denominator2": 5
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l3-031",
+    "grade": 5,
+    "topic": "whole",
+    "level": 3,
+    "type": "number",
+    "q": "Санның 2/4 бөлігі, кейін қалғанының 1/2 бөлігі алынды. Соңында 90 қалды. Бастапқы санды тап.",
+    "a": 360,
+    "answer": 360,
+    "hint": "Әр кезеңді кері ретпен қалпына келтір.",
+    "ex": "Кері тексеру: 360 → 180 → 90. Бастапқы сан 360.",
+    "solution": "Кері тексеру: 360 → 180 → 90. Бастапқы сан 360.",
+    "unit": "",
+    "meta": {
+      "formula": "whole-reverse-two-stage",
+      "params": {
+        "final": 90,
+        "numerator1": 2,
+        "denominator1": 4,
+        "numerator2": 1,
+        "denominator2": 2
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l3-032",
+    "grade": 5,
+    "topic": "whole",
+    "level": 3,
+    "type": "number",
+    "q": "Санның 1/5 бөлігі, кейін қалғанының 1/3 бөлігі алынды. Соңында 368 қалды. Бастапқы санды тап.",
+    "a": 690,
+    "answer": 690,
+    "hint": "Әр кезеңді кері ретпен қалпына келтір.",
+    "ex": "Кері тексеру: 690 → 552 → 368. Бастапқы сан 690.",
+    "solution": "Кері тексеру: 690 → 552 → 368. Бастапқы сан 690.",
+    "unit": "",
+    "meta": {
+      "formula": "whole-reverse-two-stage",
+      "params": {
+        "final": 368,
+        "numerator1": 1,
+        "denominator1": 5,
+        "numerator2": 1,
+        "denominator2": 3
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l3-033",
+    "grade": 5,
+    "topic": "whole",
+    "level": 3,
+    "type": "number",
+    "q": "Санның 1/2 бөлігі, кейін қалғанының 1/4 бөлігі алынды. Соңында 141 қалды. Бастапқы санды тап.",
+    "a": 376,
+    "answer": 376,
+    "hint": "Әр кезеңді кері ретпен қалпына келтір.",
+    "ex": "Кері тексеру: 376 → 188 → 141. Бастапқы сан 376.",
+    "solution": "Кері тексеру: 376 → 188 → 141. Бастапқы сан 376.",
+    "unit": "",
+    "meta": {
+      "formula": "whole-reverse-two-stage",
+      "params": {
+        "final": 141,
+        "numerator1": 1,
+        "denominator1": 2,
+        "numerator2": 1,
+        "denominator2": 4
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l3-034",
+    "grade": 5,
+    "topic": "whole",
+    "level": 3,
+    "type": "number",
+    "q": "Санның 1/3 бөлігі, кейін қалғанының 1/5 бөлігі алынды. Соңында 384 қалды. Бастапқы санды тап.",
+    "a": 720,
+    "answer": 720,
+    "hint": "Әр кезеңді кері ретпен қалпына келтір.",
+    "ex": "Кері тексеру: 720 → 480 → 384. Бастапқы сан 720.",
+    "solution": "Кері тексеру: 720 → 480 → 384. Бастапқы сан 720.",
+    "unit": "",
+    "meta": {
+      "formula": "whole-reverse-two-stage",
+      "params": {
+        "final": 384,
+        "numerator1": 1,
+        "denominator1": 3,
+        "numerator2": 1,
+        "denominator2": 5
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l3-035",
+    "grade": 5,
+    "topic": "whole",
+    "level": 3,
+    "type": "number",
+    "q": "Санның 3/4 бөлігі, кейін қалғанының 1/2 бөлігі алынды. Соңында 49 қалды. Бастапқы санды тап.",
+    "a": 392,
+    "answer": 392,
+    "hint": "Әр кезеңді кері ретпен қалпына келтір.",
+    "ex": "Кері тексеру: 392 → 98 → 49. Бастапқы сан 392.",
+    "solution": "Кері тексеру: 392 → 98 → 49. Бастапқы сан 392.",
+    "unit": "",
+    "meta": {
+      "formula": "whole-reverse-two-stage",
+      "params": {
+        "final": 49,
+        "numerator1": 3,
+        "denominator1": 4,
+        "numerator2": 1,
+        "denominator2": 2
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l3-036",
+    "grade": 5,
+    "topic": "whole",
+    "level": 3,
+    "type": "number",
+    "q": "Санның 1/5 бөлігі, кейін қалғанының 1/3 бөлігі алынды. Соңында 400 қалды. Бастапқы санды тап.",
+    "a": 750,
+    "answer": 750,
+    "hint": "Әр кезеңді кері ретпен қалпына келтір.",
+    "ex": "Кері тексеру: 750 → 600 → 400. Бастапқы сан 750.",
+    "solution": "Кері тексеру: 750 → 600 → 400. Бастапқы сан 750.",
+    "unit": "",
+    "meta": {
+      "formula": "whole-reverse-two-stage",
+      "params": {
+        "final": 400,
+        "numerator1": 1,
+        "denominator1": 5,
+        "numerator2": 1,
+        "denominator2": 3
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l3-037",
+    "grade": 5,
+    "topic": "whole",
+    "level": 3,
+    "type": "number",
+    "q": "Санның 1/2 бөлігі, кейін қалғанының 1/4 бөлігі алынды. Соңында 153 қалды. Бастапқы санды тап.",
+    "a": 408,
+    "answer": 408,
+    "hint": "Әр кезеңді кері ретпен қалпына келтір.",
+    "ex": "Кері тексеру: 408 → 204 → 153. Бастапқы сан 408.",
+    "solution": "Кері тексеру: 408 → 204 → 153. Бастапқы сан 408.",
+    "unit": "",
+    "meta": {
+      "formula": "whole-reverse-two-stage",
+      "params": {
+        "final": 153,
+        "numerator1": 1,
+        "denominator1": 2,
+        "numerator2": 1,
+        "denominator2": 4
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l3-038",
+    "grade": 5,
+    "topic": "whole",
+    "level": 3,
+    "type": "number",
+    "q": "Санның 1/3 бөлігі, кейін қалғанының 1/5 бөлігі алынды. Соңында 416 қалды. Бастапқы санды тап.",
+    "a": 780,
+    "answer": 780,
+    "hint": "Әр кезеңді кері ретпен қалпына келтір.",
+    "ex": "Кері тексеру: 780 → 520 → 416. Бастапқы сан 780.",
+    "solution": "Кері тексеру: 780 → 520 → 416. Бастапқы сан 780.",
+    "unit": "",
+    "meta": {
+      "formula": "whole-reverse-two-stage",
+      "params": {
+        "final": 416,
+        "numerator1": 1,
+        "denominator1": 3,
+        "numerator2": 1,
+        "denominator2": 5
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l3-039",
+    "grade": 5,
+    "topic": "whole",
+    "level": 3,
+    "type": "number",
+    "q": "Санның 1/4 бөлігі, кейін қалғанының 1/2 бөлігі алынды. Соңында 159 қалды. Бастапқы санды тап.",
+    "a": 424,
+    "answer": 424,
+    "hint": "Әр кезеңді кері ретпен қалпына келтір.",
+    "ex": "Кері тексеру: 424 → 318 → 159. Бастапқы сан 424.",
+    "solution": "Кері тексеру: 424 → 318 → 159. Бастапқы сан 424.",
+    "unit": "",
+    "meta": {
+      "formula": "whole-reverse-two-stage",
+      "params": {
+        "final": 159,
+        "numerator1": 1,
+        "denominator1": 4,
+        "numerator2": 1,
+        "denominator2": 2
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l3-040",
+    "grade": 5,
+    "topic": "whole",
+    "level": 3,
+    "type": "number",
+    "q": "Санның 1/5 бөлігі, кейін қалғанының 1/3 бөлігі алынды. Соңында 432 қалды. Бастапқы санды тап.",
+    "a": 810,
+    "answer": 810,
+    "hint": "Әр кезеңді кері ретпен қалпына келтір.",
+    "ex": "Кері тексеру: 810 → 648 → 432. Бастапқы сан 810.",
+    "solution": "Кері тексеру: 810 → 648 → 432. Бастапқы сан 810.",
+    "unit": "",
+    "meta": {
+      "formula": "whole-reverse-two-stage",
+      "params": {
+        "final": 432,
+        "numerator1": 1,
+        "denominator1": 5,
+        "numerator2": 1,
+        "denominator2": 3
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l3-041",
+    "grade": 5,
+    "topic": "whole",
+    "level": 3,
+    "type": "number",
+    "q": "Санның 1/2 бөлігі, кейін қалғанының 1/4 бөлігі алынды. Соңында 165 қалды. Бастапқы санды тап.",
+    "a": 440,
+    "answer": 440,
+    "hint": "Әр кезеңді кері ретпен қалпына келтір.",
+    "ex": "Кері тексеру: 440 → 220 → 165. Бастапқы сан 440.",
+    "solution": "Кері тексеру: 440 → 220 → 165. Бастапқы сан 440.",
+    "unit": "",
+    "meta": {
+      "formula": "whole-reverse-two-stage",
+      "params": {
+        "final": 165,
+        "numerator1": 1,
+        "denominator1": 2,
+        "numerator2": 1,
+        "denominator2": 4
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l3-042",
+    "grade": 5,
+    "topic": "whole",
+    "level": 3,
+    "type": "number",
+    "q": "Санның 1/3 бөлігі, кейін қалғанының 1/5 бөлігі алынды. Соңында 448 қалды. Бастапқы санды тап.",
+    "a": 840,
+    "answer": 840,
+    "hint": "Әр кезеңді кері ретпен қалпына келтір.",
+    "ex": "Кері тексеру: 840 → 560 → 448. Бастапқы сан 840.",
+    "solution": "Кері тексеру: 840 → 560 → 448. Бастапқы сан 840.",
+    "unit": "",
+    "meta": {
+      "formula": "whole-reverse-two-stage",
+      "params": {
+        "final": 448,
+        "numerator1": 1,
+        "denominator1": 3,
+        "numerator2": 1,
+        "denominator2": 5
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l3-043",
+    "grade": 5,
+    "topic": "whole",
+    "level": 3,
+    "type": "number",
+    "q": "Санның 2/4 бөлігі, кейін қалғанының 1/2 бөлігі алынды. Соңында 114 қалды. Бастапқы санды тап.",
+    "a": 456,
+    "answer": 456,
+    "hint": "Әр кезеңді кері ретпен қалпына келтір.",
+    "ex": "Кері тексеру: 456 → 228 → 114. Бастапқы сан 456.",
+    "solution": "Кері тексеру: 456 → 228 → 114. Бастапқы сан 456.",
+    "unit": "",
+    "meta": {
+      "formula": "whole-reverse-two-stage",
+      "params": {
+        "final": 114,
+        "numerator1": 2,
+        "denominator1": 4,
+        "numerator2": 1,
+        "denominator2": 2
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l3-044",
+    "grade": 5,
+    "topic": "whole",
+    "level": 3,
+    "type": "number",
+    "q": "Санның 1/5 бөлігі, кейін қалғанының 1/3 бөлігі алынды. Соңында 464 қалды. Бастапқы санды тап.",
+    "a": 870,
+    "answer": 870,
+    "hint": "Әр кезеңді кері ретпен қалпына келтір.",
+    "ex": "Кері тексеру: 870 → 696 → 464. Бастапқы сан 870.",
+    "solution": "Кері тексеру: 870 → 696 → 464. Бастапқы сан 870.",
+    "unit": "",
+    "meta": {
+      "formula": "whole-reverse-two-stage",
+      "params": {
+        "final": 464,
+        "numerator1": 1,
+        "denominator1": 5,
+        "numerator2": 1,
+        "denominator2": 3
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l3-045",
+    "grade": 5,
+    "topic": "whole",
+    "level": 3,
+    "type": "number",
+    "q": "Санның 1/2 бөлігі, кейін қалғанының 1/4 бөлігі алынды. Соңында 177 қалды. Бастапқы санды тап.",
+    "a": 472,
+    "answer": 472,
+    "hint": "Әр кезеңді кері ретпен қалпына келтір.",
+    "ex": "Кері тексеру: 472 → 236 → 177. Бастапқы сан 472.",
+    "solution": "Кері тексеру: 472 → 236 → 177. Бастапқы сан 472.",
+    "unit": "",
+    "meta": {
+      "formula": "whole-reverse-two-stage",
+      "params": {
+        "final": 177,
+        "numerator1": 1,
+        "denominator1": 2,
+        "numerator2": 1,
+        "denominator2": 4
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l3-046",
+    "grade": 5,
+    "topic": "whole",
+    "level": 3,
+    "type": "number",
+    "q": "Санның 1/3 бөлігі, кейін қалғанының 1/5 бөлігі алынды. Соңында 480 қалды. Бастапқы санды тап.",
+    "a": 900,
+    "answer": 900,
+    "hint": "Әр кезеңді кері ретпен қалпына келтір.",
+    "ex": "Кері тексеру: 900 → 600 → 480. Бастапқы сан 900.",
+    "solution": "Кері тексеру: 900 → 600 → 480. Бастапқы сан 900.",
+    "unit": "",
+    "meta": {
+      "formula": "whole-reverse-two-stage",
+      "params": {
+        "final": 480,
+        "numerator1": 1,
+        "denominator1": 3,
+        "numerator2": 1,
+        "denominator2": 5
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l3-047",
+    "grade": 5,
+    "topic": "whole",
+    "level": 3,
+    "type": "number",
+    "q": "Санның 3/4 бөлігі, кейін қалғанының 1/2 бөлігі алынды. Соңында 61 қалды. Бастапқы санды тап.",
+    "a": 488,
+    "answer": 488,
+    "hint": "Әр кезеңді кері ретпен қалпына келтір.",
+    "ex": "Кері тексеру: 488 → 122 → 61. Бастапқы сан 488.",
+    "solution": "Кері тексеру: 488 → 122 → 61. Бастапқы сан 488.",
+    "unit": "",
+    "meta": {
+      "formula": "whole-reverse-two-stage",
+      "params": {
+        "final": 61,
+        "numerator1": 3,
+        "denominator1": 4,
+        "numerator2": 1,
+        "denominator2": 2
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l3-048",
+    "grade": 5,
+    "topic": "whole",
+    "level": 3,
+    "type": "number",
+    "q": "Санның 1/5 бөлігі, кейін қалғанының 1/3 бөлігі алынды. Соңында 496 қалды. Бастапқы санды тап.",
+    "a": 930,
+    "answer": 930,
+    "hint": "Әр кезеңді кері ретпен қалпына келтір.",
+    "ex": "Кері тексеру: 930 → 744 → 496. Бастапқы сан 930.",
+    "solution": "Кері тексеру: 930 → 744 → 496. Бастапқы сан 930.",
+    "unit": "",
+    "meta": {
+      "formula": "whole-reverse-two-stage",
+      "params": {
+        "final": 496,
+        "numerator1": 1,
+        "denominator1": 5,
+        "numerator2": 1,
+        "denominator2": 3
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l3-049",
+    "grade": 5,
+    "topic": "whole",
+    "level": 3,
+    "type": "number",
+    "q": "Санның 1/2 бөлігі, кейін қалғанының 1/4 бөлігі алынды. Соңында 189 қалды. Бастапқы санды тап.",
+    "a": 504,
+    "answer": 504,
+    "hint": "Әр кезеңді кері ретпен қалпына келтір.",
+    "ex": "Кері тексеру: 504 → 252 → 189. Бастапқы сан 504.",
+    "solution": "Кері тексеру: 504 → 252 → 189. Бастапқы сан 504.",
+    "unit": "",
+    "meta": {
+      "formula": "whole-reverse-two-stage",
+      "params": {
+        "final": 189,
+        "numerator1": 1,
+        "denominator1": 2,
+        "numerator2": 1,
+        "denominator2": 4
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l3-050",
+    "grade": 5,
+    "topic": "whole",
+    "level": 3,
+    "type": "number",
+    "q": "Санның 1/3 бөлігі, кейін қалғанының 1/5 бөлігі алынды. Соңында 512 қалды. Бастапқы санды тап.",
+    "a": 960,
+    "answer": 960,
+    "hint": "Әр кезеңді кері ретпен қалпына келтір.",
+    "ex": "Кері тексеру: 960 → 640 → 512. Бастапқы сан 960.",
+    "solution": "Кері тексеру: 960 → 640 → 512. Бастапқы сан 960.",
+    "unit": "",
+    "meta": {
+      "formula": "whole-reverse-two-stage",
+      "params": {
+        "final": 512,
+        "numerator1": 1,
+        "denominator1": 3,
+        "numerator2": 1,
+        "denominator2": 5
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l4-001",
+    "grade": 5,
+    "topic": "whole",
+    "level": 4,
+    "type": "number",
+    "q": "120 литр судың 1/2 бөлігі, кейін қалғанының 1/4 бөлігі жұмсалды да, 15 литр су қосылды. Соңында қанша су болды?",
+    "a": 60,
+    "answer": 60,
+    "hint": "Екі азайтуды ретімен орындап, тек соңында қосылған суды қос.",
+    "ex": "120 → 60 → 45; 45 + 15 = 60 литр.",
+    "solution": "120 → 60 → 45; 45 + 15 = 60 литр.",
+    "unit": "л",
+    "meta": {
+      "formula": "whole-two-stage-add",
+      "params": {
+        "base": 120,
+        "numerator1": 1,
+        "denominator1": 2,
+        "numerator2": 1,
+        "denominator2": 4,
+        "added": 15
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l4-002",
+    "grade": 5,
+    "topic": "whole",
+    "level": 4,
+    "type": "number",
+    "q": "240 литр судың 1/3 бөлігі, кейін қалғанының 1/5 бөлігі жұмсалды да, 20 литр су қосылды. Соңында қанша су болды?",
+    "a": 148,
+    "answer": 148,
+    "hint": "Екі азайтуды ретімен орындап, тек соңында қосылған суды қос.",
+    "ex": "240 → 160 → 128; 128 + 20 = 148 литр.",
+    "solution": "240 → 160 → 128; 128 + 20 = 148 литр.",
+    "unit": "л",
+    "meta": {
+      "formula": "whole-two-stage-add",
+      "params": {
+        "base": 240,
+        "numerator1": 1,
+        "denominator1": 3,
+        "numerator2": 1,
+        "denominator2": 5,
+        "added": 20
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l4-003",
+    "grade": 5,
+    "topic": "whole",
+    "level": 4,
+    "type": "number",
+    "q": "136 литр судың 1/4 бөлігі, кейін қалғанының 1/2 бөлігі жұмсалды да, 25 литр су қосылды. Соңында қанша су болды?",
+    "a": 76,
+    "answer": 76,
+    "hint": "Екі азайтуды ретімен орындап, тек соңында қосылған суды қос.",
+    "ex": "136 → 102 → 51; 51 + 25 = 76 литр.",
+    "solution": "136 → 102 → 51; 51 + 25 = 76 литр.",
+    "unit": "л",
+    "meta": {
+      "formula": "whole-two-stage-add",
+      "params": {
+        "base": 136,
+        "numerator1": 1,
+        "denominator1": 4,
+        "numerator2": 1,
+        "denominator2": 2,
+        "added": 25
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l4-004",
+    "grade": 5,
+    "topic": "whole",
+    "level": 4,
+    "type": "number",
+    "q": "270 литр судың 1/5 бөлігі, кейін қалғанының 1/3 бөлігі жұмсалды да, 30 литр су қосылды. Соңында қанша су болды?",
+    "a": 174,
+    "answer": 174,
+    "hint": "Екі азайтуды ретімен орындап, тек соңында қосылған суды қос.",
+    "ex": "270 → 216 → 144; 144 + 30 = 174 литр.",
+    "solution": "270 → 216 → 144; 144 + 30 = 174 литр.",
+    "unit": "л",
+    "meta": {
+      "formula": "whole-two-stage-add",
+      "params": {
+        "base": 270,
+        "numerator1": 1,
+        "denominator1": 5,
+        "numerator2": 1,
+        "denominator2": 3,
+        "added": 30
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l4-005",
+    "grade": 5,
+    "topic": "whole",
+    "level": 4,
+    "type": "number",
+    "q": "152 литр судың 1/2 бөлігі, кейін қалғанының 1/4 бөлігі жұмсалды да, 35 литр су қосылды. Соңында қанша су болды?",
+    "a": 92,
+    "answer": 92,
+    "hint": "Екі азайтуды ретімен орындап, тек соңында қосылған суды қос.",
+    "ex": "152 → 76 → 57; 57 + 35 = 92 литр.",
+    "solution": "152 → 76 → 57; 57 + 35 = 92 литр.",
+    "unit": "л",
+    "meta": {
+      "formula": "whole-two-stage-add",
+      "params": {
+        "base": 152,
+        "numerator1": 1,
+        "denominator1": 2,
+        "numerator2": 1,
+        "denominator2": 4,
+        "added": 35
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l4-006",
+    "grade": 5,
+    "topic": "whole",
+    "level": 4,
+    "type": "number",
+    "q": "300 литр судың 1/3 бөлігі, кейін қалғанының 1/5 бөлігі жұмсалды да, 40 литр су қосылды. Соңында қанша су болды?",
+    "a": 200,
+    "answer": 200,
+    "hint": "Екі азайтуды ретімен орындап, тек соңында қосылған суды қос.",
+    "ex": "300 → 200 → 160; 160 + 40 = 200 литр.",
+    "solution": "300 → 200 → 160; 160 + 40 = 200 литр.",
+    "unit": "л",
+    "meta": {
+      "formula": "whole-two-stage-add",
+      "params": {
+        "base": 300,
+        "numerator1": 1,
+        "denominator1": 3,
+        "numerator2": 1,
+        "denominator2": 5,
+        "added": 40
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l4-007",
+    "grade": 5,
+    "topic": "whole",
+    "level": 4,
+    "type": "number",
+    "q": "168 литр судың 2/4 бөлігі, кейін қалғанының 1/2 бөлігі жұмсалды да, 45 литр су қосылды. Соңында қанша су болды?",
+    "a": 87,
+    "answer": 87,
+    "hint": "Екі азайтуды ретімен орындап, тек соңында қосылған суды қос.",
+    "ex": "168 → 84 → 42; 42 + 45 = 87 литр.",
+    "solution": "168 → 84 → 42; 42 + 45 = 87 литр.",
+    "unit": "л",
+    "meta": {
+      "formula": "whole-two-stage-add",
+      "params": {
+        "base": 168,
+        "numerator1": 2,
+        "denominator1": 4,
+        "numerator2": 1,
+        "denominator2": 2,
+        "added": 45
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l4-008",
+    "grade": 5,
+    "topic": "whole",
+    "level": 4,
+    "type": "number",
+    "q": "330 литр судың 1/5 бөлігі, кейін қалғанының 1/3 бөлігі жұмсалды да, 50 литр су қосылды. Соңында қанша су болды?",
+    "a": 226,
+    "answer": 226,
+    "hint": "Екі азайтуды ретімен орындап, тек соңында қосылған суды қос.",
+    "ex": "330 → 264 → 176; 176 + 50 = 226 литр.",
+    "solution": "330 → 264 → 176; 176 + 50 = 226 литр.",
+    "unit": "л",
+    "meta": {
+      "formula": "whole-two-stage-add",
+      "params": {
+        "base": 330,
+        "numerator1": 1,
+        "denominator1": 5,
+        "numerator2": 1,
+        "denominator2": 3,
+        "added": 50
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l4-009",
+    "grade": 5,
+    "topic": "whole",
+    "level": 4,
+    "type": "number",
+    "q": "184 литр судың 1/2 бөлігі, кейін қалғанының 1/4 бөлігі жұмсалды да, 55 литр су қосылды. Соңында қанша су болды?",
+    "a": 124,
+    "answer": 124,
+    "hint": "Екі азайтуды ретімен орындап, тек соңында қосылған суды қос.",
+    "ex": "184 → 92 → 69; 69 + 55 = 124 литр.",
+    "solution": "184 → 92 → 69; 69 + 55 = 124 литр.",
+    "unit": "л",
+    "meta": {
+      "formula": "whole-two-stage-add",
+      "params": {
+        "base": 184,
+        "numerator1": 1,
+        "denominator1": 2,
+        "numerator2": 1,
+        "denominator2": 4,
+        "added": 55
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l4-010",
+    "grade": 5,
+    "topic": "whole",
+    "level": 4,
+    "type": "number",
+    "q": "360 литр судың 1/3 бөлігі, кейін қалғанының 1/5 бөлігі жұмсалды да, 60 литр су қосылды. Соңында қанша су болды?",
+    "a": 252,
+    "answer": 252,
+    "hint": "Екі азайтуды ретімен орындап, тек соңында қосылған суды қос.",
+    "ex": "360 → 240 → 192; 192 + 60 = 252 литр.",
+    "solution": "360 → 240 → 192; 192 + 60 = 252 литр.",
+    "unit": "л",
+    "meta": {
+      "formula": "whole-two-stage-add",
+      "params": {
+        "base": 360,
+        "numerator1": 1,
+        "denominator1": 3,
+        "numerator2": 1,
+        "denominator2": 5,
+        "added": 60
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l4-011",
+    "grade": 5,
+    "topic": "whole",
+    "level": 4,
+    "type": "number",
+    "q": "200 литр судың 3/4 бөлігі, кейін қалғанының 1/2 бөлігі жұмсалды да, 65 литр су қосылды. Соңында қанша су болды?",
+    "a": 90,
+    "answer": 90,
+    "hint": "Екі азайтуды ретімен орындап, тек соңында қосылған суды қос.",
+    "ex": "200 → 50 → 25; 25 + 65 = 90 литр.",
+    "solution": "200 → 50 → 25; 25 + 65 = 90 литр.",
+    "unit": "л",
+    "meta": {
+      "formula": "whole-two-stage-add",
+      "params": {
+        "base": 200,
+        "numerator1": 3,
+        "denominator1": 4,
+        "numerator2": 1,
+        "denominator2": 2,
+        "added": 65
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l4-012",
+    "grade": 5,
+    "topic": "whole",
+    "level": 4,
+    "type": "number",
+    "q": "390 литр судың 1/5 бөлігі, кейін қалғанының 1/3 бөлігі жұмсалды да, 70 литр су қосылды. Соңында қанша су болды?",
+    "a": 278,
+    "answer": 278,
+    "hint": "Екі азайтуды ретімен орындап, тек соңында қосылған суды қос.",
+    "ex": "390 → 312 → 208; 208 + 70 = 278 литр.",
+    "solution": "390 → 312 → 208; 208 + 70 = 278 литр.",
+    "unit": "л",
+    "meta": {
+      "formula": "whole-two-stage-add",
+      "params": {
+        "base": 390,
+        "numerator1": 1,
+        "denominator1": 5,
+        "numerator2": 1,
+        "denominator2": 3,
+        "added": 70
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l4-013",
+    "grade": 5,
+    "topic": "whole",
+    "level": 4,
+    "type": "number",
+    "q": "216 литр судың 1/2 бөлігі, кейін қалғанының 1/4 бөлігі жұмсалды да, 75 литр су қосылды. Соңында қанша су болды?",
+    "a": 156,
+    "answer": 156,
+    "hint": "Екі азайтуды ретімен орындап, тек соңында қосылған суды қос.",
+    "ex": "216 → 108 → 81; 81 + 75 = 156 литр.",
+    "solution": "216 → 108 → 81; 81 + 75 = 156 литр.",
+    "unit": "л",
+    "meta": {
+      "formula": "whole-two-stage-add",
+      "params": {
+        "base": 216,
+        "numerator1": 1,
+        "denominator1": 2,
+        "numerator2": 1,
+        "denominator2": 4,
+        "added": 75
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l4-014",
+    "grade": 5,
+    "topic": "whole",
+    "level": 4,
+    "type": "number",
+    "q": "420 литр судың 1/3 бөлігі, кейін қалғанының 1/5 бөлігі жұмсалды да, 80 литр су қосылды. Соңында қанша су болды?",
+    "a": 304,
+    "answer": 304,
+    "hint": "Екі азайтуды ретімен орындап, тек соңында қосылған суды қос.",
+    "ex": "420 → 280 → 224; 224 + 80 = 304 литр.",
+    "solution": "420 → 280 → 224; 224 + 80 = 304 литр.",
+    "unit": "л",
+    "meta": {
+      "formula": "whole-two-stage-add",
+      "params": {
+        "base": 420,
+        "numerator1": 1,
+        "denominator1": 3,
+        "numerator2": 1,
+        "denominator2": 5,
+        "added": 80
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l4-015",
+    "grade": 5,
+    "topic": "whole",
+    "level": 4,
+    "type": "number",
+    "q": "232 литр судың 1/4 бөлігі, кейін қалғанының 1/2 бөлігі жұмсалды да, 85 литр су қосылды. Соңында қанша су болды?",
+    "a": 172,
+    "answer": 172,
+    "hint": "Екі азайтуды ретімен орындап, тек соңында қосылған суды қос.",
+    "ex": "232 → 174 → 87; 87 + 85 = 172 литр.",
+    "solution": "232 → 174 → 87; 87 + 85 = 172 литр.",
+    "unit": "л",
+    "meta": {
+      "formula": "whole-two-stage-add",
+      "params": {
+        "base": 232,
+        "numerator1": 1,
+        "denominator1": 4,
+        "numerator2": 1,
+        "denominator2": 2,
+        "added": 85
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l4-016",
+    "grade": 5,
+    "topic": "whole",
+    "level": 4,
+    "type": "number",
+    "q": "450 литр судың 1/5 бөлігі, кейін қалғанының 1/3 бөлігі жұмсалды да, 90 литр су қосылды. Соңында қанша су болды?",
+    "a": 330,
+    "answer": 330,
+    "hint": "Екі азайтуды ретімен орындап, тек соңында қосылған суды қос.",
+    "ex": "450 → 360 → 240; 240 + 90 = 330 литр.",
+    "solution": "450 → 360 → 240; 240 + 90 = 330 литр.",
+    "unit": "л",
+    "meta": {
+      "formula": "whole-two-stage-add",
+      "params": {
+        "base": 450,
+        "numerator1": 1,
+        "denominator1": 5,
+        "numerator2": 1,
+        "denominator2": 3,
+        "added": 90
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l4-017",
+    "grade": 5,
+    "topic": "whole",
+    "level": 4,
+    "type": "number",
+    "q": "248 литр судың 1/2 бөлігі, кейін қалғанының 1/4 бөлігі жұмсалды да, 95 литр су қосылды. Соңында қанша су болды?",
+    "a": 188,
+    "answer": 188,
+    "hint": "Екі азайтуды ретімен орындап, тек соңында қосылған суды қос.",
+    "ex": "248 → 124 → 93; 93 + 95 = 188 литр.",
+    "solution": "248 → 124 → 93; 93 + 95 = 188 литр.",
+    "unit": "л",
+    "meta": {
+      "formula": "whole-two-stage-add",
+      "params": {
+        "base": 248,
+        "numerator1": 1,
+        "denominator1": 2,
+        "numerator2": 1,
+        "denominator2": 4,
+        "added": 95
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l4-018",
+    "grade": 5,
+    "topic": "whole",
+    "level": 4,
+    "type": "number",
+    "q": "480 литр судың 1/3 бөлігі, кейін қалғанының 1/5 бөлігі жұмсалды да, 100 литр су қосылды. Соңында қанша су болды?",
+    "a": 356,
+    "answer": 356,
+    "hint": "Екі азайтуды ретімен орындап, тек соңында қосылған суды қос.",
+    "ex": "480 → 320 → 256; 256 + 100 = 356 литр.",
+    "solution": "480 → 320 → 256; 256 + 100 = 356 литр.",
+    "unit": "л",
+    "meta": {
+      "formula": "whole-two-stage-add",
+      "params": {
+        "base": 480,
+        "numerator1": 1,
+        "denominator1": 3,
+        "numerator2": 1,
+        "denominator2": 5,
+        "added": 100
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l4-019",
+    "grade": 5,
+    "topic": "whole",
+    "level": 4,
+    "type": "number",
+    "q": "264 литр судың 2/4 бөлігі, кейін қалғанының 1/2 бөлігі жұмсалды да, 105 литр су қосылды. Соңында қанша су болды?",
+    "a": 171,
+    "answer": 171,
+    "hint": "Екі азайтуды ретімен орындап, тек соңында қосылған суды қос.",
+    "ex": "264 → 132 → 66; 66 + 105 = 171 литр.",
+    "solution": "264 → 132 → 66; 66 + 105 = 171 литр.",
+    "unit": "л",
+    "meta": {
+      "formula": "whole-two-stage-add",
+      "params": {
+        "base": 264,
+        "numerator1": 2,
+        "denominator1": 4,
+        "numerator2": 1,
+        "denominator2": 2,
+        "added": 105
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l4-020",
+    "grade": 5,
+    "topic": "whole",
+    "level": 4,
+    "type": "number",
+    "q": "510 литр судың 1/5 бөлігі, кейін қалғанының 1/3 бөлігі жұмсалды да, 110 литр су қосылды. Соңында қанша су болды?",
+    "a": 382,
+    "answer": 382,
+    "hint": "Екі азайтуды ретімен орындап, тек соңында қосылған суды қос.",
+    "ex": "510 → 408 → 272; 272 + 110 = 382 литр.",
+    "solution": "510 → 408 → 272; 272 + 110 = 382 литр.",
+    "unit": "л",
+    "meta": {
+      "formula": "whole-two-stage-add",
+      "params": {
+        "base": 510,
+        "numerator1": 1,
+        "denominator1": 5,
+        "numerator2": 1,
+        "denominator2": 3,
+        "added": 110
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l4-021",
+    "grade": 5,
+    "topic": "whole",
+    "level": 4,
+    "type": "number",
+    "q": "280 литр судың 1/2 бөлігі, кейін қалғанының 1/4 бөлігі жұмсалды да, 115 литр су қосылды. Соңында қанша су болды?",
+    "a": 220,
+    "answer": 220,
+    "hint": "Екі азайтуды ретімен орындап, тек соңында қосылған суды қос.",
+    "ex": "280 → 140 → 105; 105 + 115 = 220 литр.",
+    "solution": "280 → 140 → 105; 105 + 115 = 220 литр.",
+    "unit": "л",
+    "meta": {
+      "formula": "whole-two-stage-add",
+      "params": {
+        "base": 280,
+        "numerator1": 1,
+        "denominator1": 2,
+        "numerator2": 1,
+        "denominator2": 4,
+        "added": 115
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l4-022",
+    "grade": 5,
+    "topic": "whole",
+    "level": 4,
+    "type": "number",
+    "q": "540 литр судың 1/3 бөлігі, кейін қалғанының 1/5 бөлігі жұмсалды да, 120 литр су қосылды. Соңында қанша су болды?",
+    "a": 408,
+    "answer": 408,
+    "hint": "Екі азайтуды ретімен орындап, тек соңында қосылған суды қос.",
+    "ex": "540 → 360 → 288; 288 + 120 = 408 литр.",
+    "solution": "540 → 360 → 288; 288 + 120 = 408 литр.",
+    "unit": "л",
+    "meta": {
+      "formula": "whole-two-stage-add",
+      "params": {
+        "base": 540,
+        "numerator1": 1,
+        "denominator1": 3,
+        "numerator2": 1,
+        "denominator2": 5,
+        "added": 120
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l4-023",
+    "grade": 5,
+    "topic": "whole",
+    "level": 4,
+    "type": "number",
+    "q": "296 литр судың 3/4 бөлігі, кейін қалғанының 1/2 бөлігі жұмсалды да, 125 литр су қосылды. Соңында қанша су болды?",
+    "a": 162,
+    "answer": 162,
+    "hint": "Екі азайтуды ретімен орындап, тек соңында қосылған суды қос.",
+    "ex": "296 → 74 → 37; 37 + 125 = 162 литр.",
+    "solution": "296 → 74 → 37; 37 + 125 = 162 литр.",
+    "unit": "л",
+    "meta": {
+      "formula": "whole-two-stage-add",
+      "params": {
+        "base": 296,
+        "numerator1": 3,
+        "denominator1": 4,
+        "numerator2": 1,
+        "denominator2": 2,
+        "added": 125
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l4-024",
+    "grade": 5,
+    "topic": "whole",
+    "level": 4,
+    "type": "number",
+    "q": "570 литр судың 1/5 бөлігі, кейін қалғанының 1/3 бөлігі жұмсалды да, 130 литр су қосылды. Соңында қанша су болды?",
+    "a": 434,
+    "answer": 434,
+    "hint": "Екі азайтуды ретімен орындап, тек соңында қосылған суды қос.",
+    "ex": "570 → 456 → 304; 304 + 130 = 434 литр.",
+    "solution": "570 → 456 → 304; 304 + 130 = 434 литр.",
+    "unit": "л",
+    "meta": {
+      "formula": "whole-two-stage-add",
+      "params": {
+        "base": 570,
+        "numerator1": 1,
+        "denominator1": 5,
+        "numerator2": 1,
+        "denominator2": 3,
+        "added": 130
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l4-025",
+    "grade": 5,
+    "topic": "whole",
+    "level": 4,
+    "type": "number",
+    "q": "312 литр судың 1/2 бөлігі, кейін қалғанының 1/4 бөлігі жұмсалды да, 135 литр су қосылды. Соңында қанша су болды?",
+    "a": 252,
+    "answer": 252,
+    "hint": "Екі азайтуды ретімен орындап, тек соңында қосылған суды қос.",
+    "ex": "312 → 156 → 117; 117 + 135 = 252 литр.",
+    "solution": "312 → 156 → 117; 117 + 135 = 252 литр.",
+    "unit": "л",
+    "meta": {
+      "formula": "whole-two-stage-add",
+      "params": {
+        "base": 312,
+        "numerator1": 1,
+        "denominator1": 2,
+        "numerator2": 1,
+        "denominator2": 4,
+        "added": 135
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l4-026",
+    "grade": 5,
+    "topic": "whole",
+    "level": 4,
+    "type": "number",
+    "q": "600 литр судың 1/3 бөлігі, кейін қалғанының 1/5 бөлігі жұмсалды да, 140 литр су қосылды. Соңында қанша су болды?",
+    "a": 460,
+    "answer": 460,
+    "hint": "Екі азайтуды ретімен орындап, тек соңында қосылған суды қос.",
+    "ex": "600 → 400 → 320; 320 + 140 = 460 литр.",
+    "solution": "600 → 400 → 320; 320 + 140 = 460 литр.",
+    "unit": "л",
+    "meta": {
+      "formula": "whole-two-stage-add",
+      "params": {
+        "base": 600,
+        "numerator1": 1,
+        "denominator1": 3,
+        "numerator2": 1,
+        "denominator2": 5,
+        "added": 140
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l4-027",
+    "grade": 5,
+    "topic": "whole",
+    "level": 4,
+    "type": "number",
+    "q": "328 литр судың 1/4 бөлігі, кейін қалғанының 1/2 бөлігі жұмсалды да, 145 литр су қосылды. Соңында қанша су болды?",
+    "a": 268,
+    "answer": 268,
+    "hint": "Екі азайтуды ретімен орындап, тек соңында қосылған суды қос.",
+    "ex": "328 → 246 → 123; 123 + 145 = 268 литр.",
+    "solution": "328 → 246 → 123; 123 + 145 = 268 литр.",
+    "unit": "л",
+    "meta": {
+      "formula": "whole-two-stage-add",
+      "params": {
+        "base": 328,
+        "numerator1": 1,
+        "denominator1": 4,
+        "numerator2": 1,
+        "denominator2": 2,
+        "added": 145
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l4-028",
+    "grade": 5,
+    "topic": "whole",
+    "level": 4,
+    "type": "number",
+    "q": "630 литр судың 1/5 бөлігі, кейін қалғанының 1/3 бөлігі жұмсалды да, 150 литр су қосылды. Соңында қанша су болды?",
+    "a": 486,
+    "answer": 486,
+    "hint": "Екі азайтуды ретімен орындап, тек соңында қосылған суды қос.",
+    "ex": "630 → 504 → 336; 336 + 150 = 486 литр.",
+    "solution": "630 → 504 → 336; 336 + 150 = 486 литр.",
+    "unit": "л",
+    "meta": {
+      "formula": "whole-two-stage-add",
+      "params": {
+        "base": 630,
+        "numerator1": 1,
+        "denominator1": 5,
+        "numerator2": 1,
+        "denominator2": 3,
+        "added": 150
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l4-029",
+    "grade": 5,
+    "topic": "whole",
+    "level": 4,
+    "type": "number",
+    "q": "344 литр судың 1/2 бөлігі, кейін қалғанының 1/4 бөлігі жұмсалды да, 155 литр су қосылды. Соңында қанша су болды?",
+    "a": 284,
+    "answer": 284,
+    "hint": "Екі азайтуды ретімен орындап, тек соңында қосылған суды қос.",
+    "ex": "344 → 172 → 129; 129 + 155 = 284 литр.",
+    "solution": "344 → 172 → 129; 129 + 155 = 284 литр.",
+    "unit": "л",
+    "meta": {
+      "formula": "whole-two-stage-add",
+      "params": {
+        "base": 344,
+        "numerator1": 1,
+        "denominator1": 2,
+        "numerator2": 1,
+        "denominator2": 4,
+        "added": 155
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l4-030",
+    "grade": 5,
+    "topic": "whole",
+    "level": 4,
+    "type": "number",
+    "q": "660 литр судың 1/3 бөлігі, кейін қалғанының 1/5 бөлігі жұмсалды да, 160 литр су қосылды. Соңында қанша су болды?",
+    "a": 512,
+    "answer": 512,
+    "hint": "Екі азайтуды ретімен орындап, тек соңында қосылған суды қос.",
+    "ex": "660 → 440 → 352; 352 + 160 = 512 литр.",
+    "solution": "660 → 440 → 352; 352 + 160 = 512 литр.",
+    "unit": "л",
+    "meta": {
+      "formula": "whole-two-stage-add",
+      "params": {
+        "base": 660,
+        "numerator1": 1,
+        "denominator1": 3,
+        "numerator2": 1,
+        "denominator2": 5,
+        "added": 160
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l4-031",
+    "grade": 5,
+    "topic": "whole",
+    "level": 4,
+    "type": "number",
+    "q": "360 литр судың 2/4 бөлігі, кейін қалғанының 1/2 бөлігі жұмсалды да, 165 литр су қосылды. Соңында қанша су болды?",
+    "a": 255,
+    "answer": 255,
+    "hint": "Екі азайтуды ретімен орындап, тек соңында қосылған суды қос.",
+    "ex": "360 → 180 → 90; 90 + 165 = 255 литр.",
+    "solution": "360 → 180 → 90; 90 + 165 = 255 литр.",
+    "unit": "л",
+    "meta": {
+      "formula": "whole-two-stage-add",
+      "params": {
+        "base": 360,
+        "numerator1": 2,
+        "denominator1": 4,
+        "numerator2": 1,
+        "denominator2": 2,
+        "added": 165
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l4-032",
+    "grade": 5,
+    "topic": "whole",
+    "level": 4,
+    "type": "number",
+    "q": "690 литр судың 1/5 бөлігі, кейін қалғанының 1/3 бөлігі жұмсалды да, 170 литр су қосылды. Соңында қанша су болды?",
+    "a": 538,
+    "answer": 538,
+    "hint": "Екі азайтуды ретімен орындап, тек соңында қосылған суды қос.",
+    "ex": "690 → 552 → 368; 368 + 170 = 538 литр.",
+    "solution": "690 → 552 → 368; 368 + 170 = 538 литр.",
+    "unit": "л",
+    "meta": {
+      "formula": "whole-two-stage-add",
+      "params": {
+        "base": 690,
+        "numerator1": 1,
+        "denominator1": 5,
+        "numerator2": 1,
+        "denominator2": 3,
+        "added": 170
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l4-033",
+    "grade": 5,
+    "topic": "whole",
+    "level": 4,
+    "type": "number",
+    "q": "376 литр судың 1/2 бөлігі, кейін қалғанының 1/4 бөлігі жұмсалды да, 175 литр су қосылды. Соңында қанша су болды?",
+    "a": 316,
+    "answer": 316,
+    "hint": "Екі азайтуды ретімен орындап, тек соңында қосылған суды қос.",
+    "ex": "376 → 188 → 141; 141 + 175 = 316 литр.",
+    "solution": "376 → 188 → 141; 141 + 175 = 316 литр.",
+    "unit": "л",
+    "meta": {
+      "formula": "whole-two-stage-add",
+      "params": {
+        "base": 376,
+        "numerator1": 1,
+        "denominator1": 2,
+        "numerator2": 1,
+        "denominator2": 4,
+        "added": 175
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l4-034",
+    "grade": 5,
+    "topic": "whole",
+    "level": 4,
+    "type": "number",
+    "q": "720 литр судың 1/3 бөлігі, кейін қалғанының 1/5 бөлігі жұмсалды да, 180 литр су қосылды. Соңында қанша су болды?",
+    "a": 564,
+    "answer": 564,
+    "hint": "Екі азайтуды ретімен орындап, тек соңында қосылған суды қос.",
+    "ex": "720 → 480 → 384; 384 + 180 = 564 литр.",
+    "solution": "720 → 480 → 384; 384 + 180 = 564 литр.",
+    "unit": "л",
+    "meta": {
+      "formula": "whole-two-stage-add",
+      "params": {
+        "base": 720,
+        "numerator1": 1,
+        "denominator1": 3,
+        "numerator2": 1,
+        "denominator2": 5,
+        "added": 180
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l4-035",
+    "grade": 5,
+    "topic": "whole",
+    "level": 4,
+    "type": "number",
+    "q": "392 литр судың 3/4 бөлігі, кейін қалғанының 1/2 бөлігі жұмсалды да, 185 литр су қосылды. Соңында қанша су болды?",
+    "a": 234,
+    "answer": 234,
+    "hint": "Екі азайтуды ретімен орындап, тек соңында қосылған суды қос.",
+    "ex": "392 → 98 → 49; 49 + 185 = 234 литр.",
+    "solution": "392 → 98 → 49; 49 + 185 = 234 литр.",
+    "unit": "л",
+    "meta": {
+      "formula": "whole-two-stage-add",
+      "params": {
+        "base": 392,
+        "numerator1": 3,
+        "denominator1": 4,
+        "numerator2": 1,
+        "denominator2": 2,
+        "added": 185
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l4-036",
+    "grade": 5,
+    "topic": "whole",
+    "level": 4,
+    "type": "number",
+    "q": "750 литр судың 1/5 бөлігі, кейін қалғанының 1/3 бөлігі жұмсалды да, 190 литр су қосылды. Соңында қанша су болды?",
+    "a": 590,
+    "answer": 590,
+    "hint": "Екі азайтуды ретімен орындап, тек соңында қосылған суды қос.",
+    "ex": "750 → 600 → 400; 400 + 190 = 590 литр.",
+    "solution": "750 → 600 → 400; 400 + 190 = 590 литр.",
+    "unit": "л",
+    "meta": {
+      "formula": "whole-two-stage-add",
+      "params": {
+        "base": 750,
+        "numerator1": 1,
+        "denominator1": 5,
+        "numerator2": 1,
+        "denominator2": 3,
+        "added": 190
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l4-037",
+    "grade": 5,
+    "topic": "whole",
+    "level": 4,
+    "type": "number",
+    "q": "408 литр судың 1/2 бөлігі, кейін қалғанының 1/4 бөлігі жұмсалды да, 195 литр су қосылды. Соңында қанша су болды?",
+    "a": 348,
+    "answer": 348,
+    "hint": "Екі азайтуды ретімен орындап, тек соңында қосылған суды қос.",
+    "ex": "408 → 204 → 153; 153 + 195 = 348 литр.",
+    "solution": "408 → 204 → 153; 153 + 195 = 348 литр.",
+    "unit": "л",
+    "meta": {
+      "formula": "whole-two-stage-add",
+      "params": {
+        "base": 408,
+        "numerator1": 1,
+        "denominator1": 2,
+        "numerator2": 1,
+        "denominator2": 4,
+        "added": 195
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l4-038",
+    "grade": 5,
+    "topic": "whole",
+    "level": 4,
+    "type": "number",
+    "q": "780 литр судың 1/3 бөлігі, кейін қалғанының 1/5 бөлігі жұмсалды да, 200 литр су қосылды. Соңында қанша су болды?",
+    "a": 616,
+    "answer": 616,
+    "hint": "Екі азайтуды ретімен орындап, тек соңында қосылған суды қос.",
+    "ex": "780 → 520 → 416; 416 + 200 = 616 литр.",
+    "solution": "780 → 520 → 416; 416 + 200 = 616 литр.",
+    "unit": "л",
+    "meta": {
+      "formula": "whole-two-stage-add",
+      "params": {
+        "base": 780,
+        "numerator1": 1,
+        "denominator1": 3,
+        "numerator2": 1,
+        "denominator2": 5,
+        "added": 200
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l4-039",
+    "grade": 5,
+    "topic": "whole",
+    "level": 4,
+    "type": "number",
+    "q": "424 литр судың 1/4 бөлігі, кейін қалғанының 1/2 бөлігі жұмсалды да, 205 литр су қосылды. Соңында қанша су болды?",
+    "a": 364,
+    "answer": 364,
+    "hint": "Екі азайтуды ретімен орындап, тек соңында қосылған суды қос.",
+    "ex": "424 → 318 → 159; 159 + 205 = 364 литр.",
+    "solution": "424 → 318 → 159; 159 + 205 = 364 литр.",
+    "unit": "л",
+    "meta": {
+      "formula": "whole-two-stage-add",
+      "params": {
+        "base": 424,
+        "numerator1": 1,
+        "denominator1": 4,
+        "numerator2": 1,
+        "denominator2": 2,
+        "added": 205
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l4-040",
+    "grade": 5,
+    "topic": "whole",
+    "level": 4,
+    "type": "number",
+    "q": "810 литр судың 1/5 бөлігі, кейін қалғанының 1/3 бөлігі жұмсалды да, 210 литр су қосылды. Соңында қанша су болды?",
+    "a": 642,
+    "answer": 642,
+    "hint": "Екі азайтуды ретімен орындап, тек соңында қосылған суды қос.",
+    "ex": "810 → 648 → 432; 432 + 210 = 642 литр.",
+    "solution": "810 → 648 → 432; 432 + 210 = 642 литр.",
+    "unit": "л",
+    "meta": {
+      "formula": "whole-two-stage-add",
+      "params": {
+        "base": 810,
+        "numerator1": 1,
+        "denominator1": 5,
+        "numerator2": 1,
+        "denominator2": 3,
+        "added": 210
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l4-041",
+    "grade": 5,
+    "topic": "whole",
+    "level": 4,
+    "type": "number",
+    "q": "440 литр судың 1/2 бөлігі, кейін қалғанының 1/4 бөлігі жұмсалды да, 215 литр су қосылды. Соңында қанша су болды?",
+    "a": 380,
+    "answer": 380,
+    "hint": "Екі азайтуды ретімен орындап, тек соңында қосылған суды қос.",
+    "ex": "440 → 220 → 165; 165 + 215 = 380 литр.",
+    "solution": "440 → 220 → 165; 165 + 215 = 380 литр.",
+    "unit": "л",
+    "meta": {
+      "formula": "whole-two-stage-add",
+      "params": {
+        "base": 440,
+        "numerator1": 1,
+        "denominator1": 2,
+        "numerator2": 1,
+        "denominator2": 4,
+        "added": 215
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l4-042",
+    "grade": 5,
+    "topic": "whole",
+    "level": 4,
+    "type": "number",
+    "q": "840 литр судың 1/3 бөлігі, кейін қалғанының 1/5 бөлігі жұмсалды да, 220 литр су қосылды. Соңында қанша су болды?",
+    "a": 668,
+    "answer": 668,
+    "hint": "Екі азайтуды ретімен орындап, тек соңында қосылған суды қос.",
+    "ex": "840 → 560 → 448; 448 + 220 = 668 литр.",
+    "solution": "840 → 560 → 448; 448 + 220 = 668 литр.",
+    "unit": "л",
+    "meta": {
+      "formula": "whole-two-stage-add",
+      "params": {
+        "base": 840,
+        "numerator1": 1,
+        "denominator1": 3,
+        "numerator2": 1,
+        "denominator2": 5,
+        "added": 220
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l4-043",
+    "grade": 5,
+    "topic": "whole",
+    "level": 4,
+    "type": "number",
+    "q": "456 литр судың 2/4 бөлігі, кейін қалғанының 1/2 бөлігі жұмсалды да, 225 литр су қосылды. Соңында қанша су болды?",
+    "a": 339,
+    "answer": 339,
+    "hint": "Екі азайтуды ретімен орындап, тек соңында қосылған суды қос.",
+    "ex": "456 → 228 → 114; 114 + 225 = 339 литр.",
+    "solution": "456 → 228 → 114; 114 + 225 = 339 литр.",
+    "unit": "л",
+    "meta": {
+      "formula": "whole-two-stage-add",
+      "params": {
+        "base": 456,
+        "numerator1": 2,
+        "denominator1": 4,
+        "numerator2": 1,
+        "denominator2": 2,
+        "added": 225
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l4-044",
+    "grade": 5,
+    "topic": "whole",
+    "level": 4,
+    "type": "number",
+    "q": "870 литр судың 1/5 бөлігі, кейін қалғанының 1/3 бөлігі жұмсалды да, 230 литр су қосылды. Соңында қанша су болды?",
+    "a": 694,
+    "answer": 694,
+    "hint": "Екі азайтуды ретімен орындап, тек соңында қосылған суды қос.",
+    "ex": "870 → 696 → 464; 464 + 230 = 694 литр.",
+    "solution": "870 → 696 → 464; 464 + 230 = 694 литр.",
+    "unit": "л",
+    "meta": {
+      "formula": "whole-two-stage-add",
+      "params": {
+        "base": 870,
+        "numerator1": 1,
+        "denominator1": 5,
+        "numerator2": 1,
+        "denominator2": 3,
+        "added": 230
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l4-045",
+    "grade": 5,
+    "topic": "whole",
+    "level": 4,
+    "type": "number",
+    "q": "472 литр судың 1/2 бөлігі, кейін қалғанының 1/4 бөлігі жұмсалды да, 235 литр су қосылды. Соңында қанша су болды?",
+    "a": 412,
+    "answer": 412,
+    "hint": "Екі азайтуды ретімен орындап, тек соңында қосылған суды қос.",
+    "ex": "472 → 236 → 177; 177 + 235 = 412 литр.",
+    "solution": "472 → 236 → 177; 177 + 235 = 412 литр.",
+    "unit": "л",
+    "meta": {
+      "formula": "whole-two-stage-add",
+      "params": {
+        "base": 472,
+        "numerator1": 1,
+        "denominator1": 2,
+        "numerator2": 1,
+        "denominator2": 4,
+        "added": 235
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l4-046",
+    "grade": 5,
+    "topic": "whole",
+    "level": 4,
+    "type": "number",
+    "q": "900 литр судың 1/3 бөлігі, кейін қалғанының 1/5 бөлігі жұмсалды да, 240 литр су қосылды. Соңында қанша су болды?",
+    "a": 720,
+    "answer": 720,
+    "hint": "Екі азайтуды ретімен орындап, тек соңында қосылған суды қос.",
+    "ex": "900 → 600 → 480; 480 + 240 = 720 литр.",
+    "solution": "900 → 600 → 480; 480 + 240 = 720 литр.",
+    "unit": "л",
+    "meta": {
+      "formula": "whole-two-stage-add",
+      "params": {
+        "base": 900,
+        "numerator1": 1,
+        "denominator1": 3,
+        "numerator2": 1,
+        "denominator2": 5,
+        "added": 240
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l4-047",
+    "grade": 5,
+    "topic": "whole",
+    "level": 4,
+    "type": "number",
+    "q": "488 литр судың 3/4 бөлігі, кейін қалғанының 1/2 бөлігі жұмсалды да, 245 литр су қосылды. Соңында қанша су болды?",
+    "a": 306,
+    "answer": 306,
+    "hint": "Екі азайтуды ретімен орындап, тек соңында қосылған суды қос.",
+    "ex": "488 → 122 → 61; 61 + 245 = 306 литр.",
+    "solution": "488 → 122 → 61; 61 + 245 = 306 литр.",
+    "unit": "л",
+    "meta": {
+      "formula": "whole-two-stage-add",
+      "params": {
+        "base": 488,
+        "numerator1": 3,
+        "denominator1": 4,
+        "numerator2": 1,
+        "denominator2": 2,
+        "added": 245
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l4-048",
+    "grade": 5,
+    "topic": "whole",
+    "level": 4,
+    "type": "number",
+    "q": "930 литр судың 1/5 бөлігі, кейін қалғанының 1/3 бөлігі жұмсалды да, 250 литр су қосылды. Соңында қанша су болды?",
+    "a": 746,
+    "answer": 746,
+    "hint": "Екі азайтуды ретімен орындап, тек соңында қосылған суды қос.",
+    "ex": "930 → 744 → 496; 496 + 250 = 746 литр.",
+    "solution": "930 → 744 → 496; 496 + 250 = 746 литр.",
+    "unit": "л",
+    "meta": {
+      "formula": "whole-two-stage-add",
+      "params": {
+        "base": 930,
+        "numerator1": 1,
+        "denominator1": 5,
+        "numerator2": 1,
+        "denominator2": 3,
+        "added": 250
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l4-049",
+    "grade": 5,
+    "topic": "whole",
+    "level": 4,
+    "type": "number",
+    "q": "504 литр судың 1/2 бөлігі, кейін қалғанының 1/4 бөлігі жұмсалды да, 255 литр су қосылды. Соңында қанша су болды?",
+    "a": 444,
+    "answer": 444,
+    "hint": "Екі азайтуды ретімен орындап, тек соңында қосылған суды қос.",
+    "ex": "504 → 252 → 189; 189 + 255 = 444 литр.",
+    "solution": "504 → 252 → 189; 189 + 255 = 444 литр.",
+    "unit": "л",
+    "meta": {
+      "formula": "whole-two-stage-add",
+      "params": {
+        "base": 504,
+        "numerator1": 1,
+        "denominator1": 2,
+        "numerator2": 1,
+        "denominator2": 4,
+        "added": 255
+      }
+    }
+  },
+  {
+    "id": "g5-whole-l4-050",
+    "grade": 5,
+    "topic": "whole",
+    "level": 4,
+    "type": "number",
+    "q": "960 литр судың 1/3 бөлігі, кейін қалғанының 1/5 бөлігі жұмсалды да, 260 литр су қосылды. Соңында қанша су болды?",
+    "a": 772,
+    "answer": 772,
+    "hint": "Екі азайтуды ретімен орындап, тек соңында қосылған суды қос.",
+    "ex": "960 → 640 → 512; 512 + 260 = 772 литр.",
+    "solution": "960 → 640 → 512; 512 + 260 = 772 литр.",
+    "unit": "л",
+    "meta": {
+      "formula": "whole-two-stage-add",
+      "params": {
+        "base": 960,
+        "numerator1": 1,
+        "denominator1": 3,
+        "numerator2": 1,
+        "denominator2": 5,
+        "added": 260
+      }
+    }
+  }
+]);
