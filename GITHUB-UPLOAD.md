@@ -12,7 +12,7 @@
 4. Резервтік көшірме үшін алдымен **Code → Download ZIP** басыңыз.
 5. Репозиторийдің басты бетінде **Add file → Upload files** таңдаңыз.
 6. `QADAM-complete` бумасының өзін емес, **оның ішіндегі барлық файлдар мен бумаларды** жүктеу аймағына сүйреп апарыңыз. `index.html` репозиторий түбірінде қалуы тиіс.
-7. Төмендегі commit мәтініне `QADAM 2.0: complete 2400-question package` жазыңыз.
+7. Төмендегі commit мәтініне `QADAM 3.0: redesign complete 2400-question site` жазыңыз.
 8. **Commit changes** басыңыз.
 9. GitHub-та **Settings → Pages** ашыңыз.
 10. **Build and deployment → Source: Deploy from a branch** таңдаңыз.
@@ -28,7 +28,7 @@ git clone https://github.com/iouiouuoity-maker/qadaam.git
 cd qadaam
 cp -R /PATH/TO/QADAM-complete/. .
 git add -A
-git commit -m "QADAM 2.0: complete 2400-question package"
+git commit -m "QADAM 3.0: redesign complete 2400-question site"
 git push origin main
 ```
 
