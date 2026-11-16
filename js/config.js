@@ -1,7 +1,4 @@
-/*
- * Cloudflare Worker жарияланғаннан кейін URL-ді осында жазыңыз.
- * Мысал: "https://qadam-ai-worker.USER.workers.dev/"
- */
+/* QADAM AI менторының жарияланған Cloudflare Worker мекенжайы. */
 window.QADAM_CONFIG = {
-  AI_API_URL: ""
+  AI_API_URL: "https://qadam-ai-mentor.iouiouuoity.workers.dev/"
 };
