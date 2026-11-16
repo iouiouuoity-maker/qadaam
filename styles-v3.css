@@ -1,4 +1,12 @@
-/* QADAM 3.0 — modern learning studio */
+/* QADAM 3.1 — modern learning studio */
+@font-face {
+  font-family: "Onest";
+  src: url("assets/fonts/Onest-Variable.ttf") format("truetype-variations");
+  font-style: normal;
+  font-weight: 100 900;
+  font-display: swap;
+}
+
 :root {
   --ink: #102c32;
   --muted: #66787b;
@@ -30,10 +38,14 @@ body {
     radial-gradient(circle at 100% 55%, rgba(255, 153, 111, .11), transparent 28rem),
     var(--paper);
   font-size: 16px;
+  font-family: "Onest", "Avenir Next", "Segoe UI", system-ui, sans-serif;
+  font-optical-sizing: auto;
+  font-variation-settings: "wght" 440;
+  letter-spacing: -.008em;
   line-height: 1.55;
 }
 
-a, button, input, select, textarea { transition: .22s ease; }
+a, button, input, select, textarea { font: inherit; transition: .22s ease; }
 a:focus-visible, button:focus-visible, input:focus-visible, select:focus-visible, textarea:focus-visible {
   outline: 3px solid rgba(217, 255, 99, .86);
   outline-offset: 3px;
@@ -218,9 +230,10 @@ a:focus-visible, button:focus-visible, input:focus-visible, select:focus-visible
   margin: 7px 0 10px;
   font-size: clamp(38px, 5.5vw, 72px);
   line-height: .98;
-  letter-spacing: -.055em;
+  font-weight: 820;
+  letter-spacing: -.052em;
 }
-.page-heading p { max-width: 650px; margin: 0; color: var(--muted); font-size: clamp(15px, 1.5vw, 19px); }
+.page-heading p { max-width: 670px; margin: 0; color: var(--muted); font-size: clamp(15px, 1.5vw, 19px); font-weight: 480; line-height: 1.58; }
 .page-heading > .button { position: relative; z-index: 2; }
 
 .eyebrow { color: var(--green); font-size: 10px; letter-spacing: .18em; }
@@ -267,7 +280,7 @@ a:focus-visible, button:focus-visible, input:focus-visible, select:focus-visible
 }
 
 .welcome-panel > div { position: relative; z-index: 2; max-width: 62%; }
-.welcome-panel h2 { margin: 18px 0 14px; font-size: clamp(32px, 4vw, 56px); line-height: 1; letter-spacing: -.05em; }
+.welcome-panel h2 { margin: 18px 0 14px; font-size: clamp(32px, 4vw, 56px); font-weight: 800; line-height: 1.02; letter-spacing: -.05em; }
 .welcome-panel p { max-width: 520px; color: rgba(255,255,255,.66); font-size: 15px; }
 .welcome-panel .label { color: var(--green-dark); background: var(--lime); }
 .welcome-panel .button.dark { color: var(--green-dark); background: #fff; box-shadow: none; }
@@ -378,7 +391,7 @@ a:focus-visible, button:focus-visible, input:focus-visible, select:focus-visible
 }
 .task-card:hover { transform: translateY(-5px); border-color: rgba(23,107,92,.24); box-shadow: var(--shadow); }
 .task-card:hover::before { opacity: 1; }
-.task-card h3 { margin: 24px 0; font-size: 19px; line-height: 1.38; letter-spacing: -.02em; }
+.task-card h3 { margin: 24px 0; font-size: 19px; font-weight: 690; line-height: 1.43; letter-spacing: -.025em; text-wrap: pretty; }
 .task-card .quiet { color: var(--muted); }
 .bookmark { width: 37px; height: 37px; background: var(--paper); border-radius: 12px; }
 .bookmark.marked { color: var(--green-dark); background: var(--lime); }
@@ -420,6 +433,34 @@ a:focus-visible, button:focus-visible, input:focus-visible, select:focus-visible
 .chat-log { background: linear-gradient(180deg, #eff6f0, #f8f7f0); border-radius: 20px; }
 .chat-bubble { border-radius: 18px 18px 18px 5px; }
 .user-bubble { color: #fff; background: var(--green-dark); border-radius: 18px 18px 5px 18px; }
+.ai-live {
+  position: relative;
+  z-index: 2;
+  display: inline-flex;
+  align-items: center;
+  gap: 9px;
+  padding: 11px 15px;
+  color: var(--green-dark);
+  background: rgba(255,255,255,.80);
+  border: 1px solid rgba(16,44,50,.10);
+  border-radius: 999px;
+  box-shadow: 0 12px 28px rgba(16,44,50,.09);
+  font-size: 10px;
+  font-weight: 780;
+  backdrop-filter: blur(14px);
+}
+.ai-live i {
+  width: 9px;
+  height: 9px;
+  background: #d99a2b;
+  border-radius: 50%;
+  box-shadow: 0 0 0 5px rgba(217,154,43,.12);
+}
+.ai-live.online i {
+  background: #26a96c;
+  box-shadow: 0 0 0 5px rgba(38,169,108,.13), 0 0 18px rgba(38,169,108,.45);
+  animation: qadam-online 2.1s ease-in-out infinite;
+}
 
 .task-dialog {
   width: min(760px, calc(100% - 30px));
@@ -769,6 +810,10 @@ body::before {
   0%, 22% { translate: -260px 0; opacity: 0; }
   35% { opacity: 1; }
   55%, 100% { translate: 520px 0; opacity: 0; }
+}
+@keyframes qadam-online {
+  0%, 100% { transform: scale(1); opacity: 1; }
+  50% { transform: scale(.72); opacity: .62; }
 }
 
 @media (max-width: 1200px) {
