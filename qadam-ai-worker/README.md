@@ -1,6 +1,6 @@
 # QADAM AI Worker
 
-Бұл бума QADAM-ның AI менторына арналған толық Cloudflare Worker кодын қамтиды. Негізгі GitHub Pages сайты AI-сыз да жұмыс істейді; менторды қосу үшін Worker-ді жеке жариялау қажет.
+Бұл бума QADAM-ның AI менторына арналған толық Cloudflare Worker кодын қамтиды. Қолданыстағы жарияланған нұсқа: `https://qadam-ai-mentor.iouiouuoity.workers.dev/`.
 
 ## Жариялау
 
